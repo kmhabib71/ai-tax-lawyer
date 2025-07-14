@@ -1,0 +1,452 @@
+So, you want to turn your idea into an
+
+app with Cloud Code. So, how do you
+
+start? Before you open up Cloud Code and
+
+just ask it to please build, I want to
+
+show you a better way. Now, I have tried
+
+a bunch of workflows, but I keep coming
+
+back to this one because it is so
+
+simple, but incredibly effective. Let me
+
+show you how to turn Claude Code into an
+
+AI assistant that builds exactly what
+
+you want. Here's the thing. Claude Code
+
+is incredibly powerful, but it's not
+
+perfect. It has no memory between
+
+sessions for the most part. And when
+
+you're running task, it doesn't always
+
+know where it's at in the project. Every
+
+time you start a new conversation, it's
+
+like bringing in a new developer who
+
+knows nothing about your project. You
+
+end up explaining the same things over
+
+and over. And sometimes Claude recreates
+
+files that already exist and task get
+
+duplicated or forgotten entirely. But
+
+what if we could give Claude code a much
+
+better memory bank? And that's exactly
+
+what this framework does. This simple
+
+framework has just four parts to take
+
+Claude code to the next level. We have a
+
+PRD that defines what we're building, a
+
+claude.md file that trains Claude how to
+
+work on your project, a planning.md file
+
+that captures all the important
+
+architecture we need for the project,
+
+and a tasks.md file that tracks every
+
+single task that we're working on for
+
+the project.
+
+So, let's build step by step. I'm going
+
+to create a simple app. But first, I'm
+
+going to create a PRD. Now, what is a
+
+PRD? It's a project requirements
+
+document. It's basically just a road map
+
+for what you're working on. Now, I'm
+
+going to go into Claude Opus because the
+
+good thing is you don't have to write
+
+this PRD yourself. You can use an AI
+
+assistant. Now, I want to make a web app
+
+that allows users to chat with a
+
+productivity coach. This coach is just
+
+based on some of the notes I've taken
+
+for 15 productivity books. Rather than
+
+going back and rereading the books or my
+
+notes, I can just chat with this app.
+
+And here we go. After just a minute,
+
+Claude Opus has generated a super
+
+detailed project requirements
+
+documentation. And look at this. I mean,
+
+they even put in stuff like user
+
+stories, technical requirements, success
+
+metrics. I mean, this looks like we're
+
+about to put a pitch deck together to
+
+give a a VC. Now, once we have the PRD,
+
+this actually is not going to go
+
+directly into Cloud Code. We're going to
+
+create three other files that will serve
+
+as the baseline for our project, and
+
+we'll initiate our first prompt to get
+
+the app going.
+
+So after we have the PRD, we're going to
+
+go into claude opus again and say
+
+generate a claude.md file from this PRD.
+
+That will guide future Claude code
+
+sessions on this project. Now what is
+
+the claw.md file? I have another video
+
+on how to get started in Claude Code in
+
+case you're not familiar with any of the
+
+Claude Code basics and I'll link that
+
+down in the show notes, but it's
+
+basically just rules that you give
+
+Claude for your project. Now, once I
+
+enter this prompt, I'm going to press
+
+enter and see what it comes back with.
+
+So, one of the key components that you
+
+want in this claw.md file to make this
+
+four-step framework work is to include
+
+the following. Always read planning MD
+
+at the start of every new conversation.
+
+Check tasks.md before starting your work
+
+and mark completed tasks immediately and
+
+add any new tasks that you discover. By
+
+putting this in cloud.md, we're making
+
+sure that cloud code, every prompt you
+
+give it, it's going to look at these
+
+planning.md file, task.md file to make
+
+sure that it's on track and it's doing
+
+the right thing. These instructions
+
+basically create a consistent workflow
+
+that Claude will follow religiously in
+
+every session.
+
+Okay, this is great, but we're not quite
+
+done yet. There's two more files that we
+
+need to put together. Planning.md and
+
+task.md. Now these serve slightly
+
+different purposes but each is very
+
+important. Planning.mmd is basically the
+
+project vision. It's your architecture
+
+technology stack required tools etc.
+
+What language are you working in? Are
+
+you making a react app? Are you making a
+
+Python app? These kind of things. The
+
+tasks app is exactly what it sounds
+
+like. It's literally just a list of
+
+maybe even 100 or 200 tasks that you
+
+have to go through to create the app.
+
+And Cloud Code is going to actually
+
+check them off as it goes through each
+
+one. This makes sure that even if you're
+
+starting new sessions, it knows where
+
+it's at in the project. If something's
+
+already been done, it's not going to
+
+redo it. It knows exactly where to pick
+
+up exactly where you left off and what
+
+to do next. So, I'm going to go and
+
+enter the prompt to create planning.md.
+
+Okay. So, now I'm going to go back into
+
+Claude and enter the prompt to create
+
+task.md.
+
+Very simple. And again, I'll put all
+
+these in the show notes so that you guys
+
+know what to do for your project. So
+
+task.md is basically where we break down
+
+the entire project into concrete
+
+actionable items organized by
+
+milestones. These are really specific
+
+things that cloud code needs to work on.
+
+And as it does, it'll mark them off when
+
+it completes them. It'll also put a date
+
+when it completes them so you know when
+
+it happen. When it discovers new tasks,
+
+which always happens, it adds them to
+
+the list. It's like a living project
+
+road map.
+
+So now that we have those three files,
+
+we're going to download them, which you
+
+can do in markdown format from Claude
+
+directly. We're going to copy and paste
+
+them into our project directory where we
+
+have Claude code running. You see I have
+
+claw.md, planning.md, and task.md in my
+
+root directory here. So what do we do
+
+now to get started? What I recommend
+
+doing is turning planning mode on, which
+
+you can do. Shift tab tab to turn plan
+
+mode on
+
+and then enter the following prompt.
+
+Please read planning.md, claw.md, and
+
+task.md to understand the project. Then
+
+complete the first task from task.md. If
+
+you already have a project going, you
+
+can enter something like check cloud.md,
+
+planning.md, and task.md to see where we
+
+are in the project, then pick up where
+
+we left off. It's that simple. Every
+
+time you open Claude Code, you can start
+
+exactly where you left off without
+
+losing any progress or any context. It
+
+all gets stored in these files. That's
+
+the beauty of it. So Claude doesn't
+
+hallucinate, Cloud doesn't mess up, and
+
+you get a beautiful working app. Here's
+
+a pro tip. If you get to the end of your
+
+session and you're wondering, "What do I
+
+do now to make sure all this progress
+
+gets stored in the context?" And
+
+remember, Cloud Code doesn't have
+
+unlimited context. When you're working,
+
+you'll notice that it will tell you you
+
+have a certain percentage left before it
+
+clears the context. And it is
+
+recommended that you clear context a lot
+
+so that you're getting better results
+
+and the AI is not hallucinating. But
+
+when you clear, you lose all the
+
+previous context and progress done. Even
+
+though we have these three files, how do
+
+we make sure that that progress is
+
+getting summarized? Now, you can come in
+
+here and say /compact,
+
+but that doesn't always work. So, what I
+
+like to do is enter this prompt right
+
+here. Please add a session summary to
+
+claude.md summarizing what we've done so
+
+far. This way you get a slightly better
+
+summary than what the compact summary
+
+provides. So I let Claude Code cook on
+
+this for 30 minutes. Let's see how it
+
+did. So here we go. This is what it came
+
+up with. Clarity Coach, your AI
+
+productivity coach. I love this. Okay,
+
+let's try a test prompt.
+
+It might take a few seconds to call the
+
+API. This is running on Gemini 2.5 Pro
+
+in case anyone's wondering. And I mean
+
+Cloud Code did a pretty good job on this
+
+UI, too. This doesn't look super
+
+generic. I mean, I like the way this
+
+looks. And awesome. It works. It calls
+
+the AI assistant, summarizes all these
+
+booknotes I put in here to give
+
+productivity advice or in this example,
+
+how to avoid procrastination. It's a
+
+working app. Cloud Code does a great
+
+job, and it's because we use this
+
+four-step framework to guide it every
+
+step of the way, so it didn't make
+
+mistakes. There you have it. Four simple
+
+steps transformed Claude Code from a
+
+confused assistant into an elite
+
+development partner. Every session
+
+starts with complete project
+
+understanding. Tasks never get lost and
+
+your development log captures
+
+everything. Try this framework on your
+
+next Cloud Code project. I guarantee
+
+it'll change how you work with AI
+
+assistance. Thanks for watching and
+
+happy coding.
+
