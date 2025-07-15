@@ -12,6 +12,8 @@ export default function Navigation() {
   const navItems = [
     { href: '/', label: 'Home' },
     { href: '/dashboard', label: 'Dashboard' },
+    { href: '/calculator', label: 'Calculator' },
+    { href: '/optimizer', label: 'Optimizer' },
     { href: '/chat', label: 'Chat' },
     { href: '/pricing', label: 'Pricing' },
     { href: '/profile', label: 'Profile' },
