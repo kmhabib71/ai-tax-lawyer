@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import SubscriptionCard from '@/components/subscription/SubscriptionCard'
 import Link from 'next/link'
 
 interface Conversation {
@@ -296,29 +297,9 @@ export default function DashboardPage() {
               </Card>
 
               {/* Subscription Status */}
-              <Card>
-                <CardHeader>
-                  <CardTitle>Subscription</CardTitle>
-                </CardHeader>
-                <CardContent>
-                  <div className="space-y-3">
-                    <div className="flex justify-between items-center">
-                      <span className="text-sm font-medium">Plan</span>
-                      <span className="text-sm text-gray-600">Free</span>
-                    </div>
-                    <div className="flex justify-between items-center">
-                      <span className="text-sm font-medium">Queries Left</span>
-                      <span className="text-sm text-gray-600">3/5</span>
-                    </div>
-                    <div className="w-full bg-gray-200 rounded-full h-2">
-                      <div className="bg-blue-600 h-2 rounded-full" style={{ width: '60%' }}></div>
-                    </div>
-                    <Button variant="outline" size="sm" className="w-full">
-                      Upgrade to Pro
-                    </Button>
-                  </div>
-                </CardContent>
-              </Card>
+              <div className="space-y-6">
+                <SubscriptionCard />
+              </div>
             </div>
           </div>
         </div>

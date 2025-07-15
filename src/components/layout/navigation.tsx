@@ -13,6 +13,7 @@ export default function Navigation() {
     { href: '/', label: 'Home' },
     { href: '/dashboard', label: 'Dashboard' },
     { href: '/chat', label: 'Chat' },
+    { href: '/pricing', label: 'Pricing' },
     { href: '/profile', label: 'Profile' },
     { href: '/onboarding', label: 'Setup' }
   ]
