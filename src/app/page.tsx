@@ -1,8 +1,12 @@
+'use client';
+
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import Link from "next/link"
+import { useTranslation } from "@/contexts/LanguageContext"
 
 export default function Home() {
+  const { t } = useTranslation();
   return (
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       {/* Hero Section */}
@@ -10,27 +14,27 @@ export default function Home() {
         <div className="text-center space-y-8">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              AI Tax Lawyer
+              {t('home.title')}
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto">
-              Smart Tax Solutions for Bangladesh
+              {t('home.subtitle')}
             </p>
           </div>
           
           <div className="space-y-6">
             <p className="text-lg text-gray-700 max-w-4xl mx-auto leading-relaxed">
-              Get personalized tax advice powered by AI. Navigate Bangladesh&apos;s tax regulations with confidence using NBR rules, SROs, and Income Tax Ordinance guidance.
+              {t('home.description')}
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
               <Link href="/chat">
                 <Button size="lg" className="bg-blue-600 hover:bg-blue-700 text-white">
-                  Start Free Consultation
+                  {t('home.startConsultation')}
                 </Button>
               </Link>
               <Link href="/onboarding">
                 <Button size="lg" variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
-                  Get Started
+                  {t('home.getStarted')}
                 </Button>
               </Link>
             </div>
@@ -52,7 +56,7 @@ export default function Home() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto">
           <Card className="hover:shadow-lg transition-shadow">
             <CardHeader>
-              <CardTitle className="text-lg">Salaried Employees</CardTitle>
+              <CardTitle className="text-lg">{t('chat.salariedEmployee')}</CardTitle>
             </CardHeader>
             <CardContent>
               <CardDescription>
@@ -63,7 +67,7 @@ export default function Home() {
           
           <Card className="hover:shadow-lg transition-shadow">
             <CardHeader>
-              <CardTitle className="text-lg">Freelancers</CardTitle>
+              <CardTitle className="text-lg">{t('chat.freelancer')}</CardTitle>
             </CardHeader>
             <CardContent>
               <CardDescription>
@@ -74,7 +78,7 @@ export default function Home() {
           
           <Card className="hover:shadow-lg transition-shadow">
             <CardHeader>
-              <CardTitle className="text-lg">Business Owners</CardTitle>
+              <CardTitle className="text-lg">{t('chat.businessOwner')}</CardTitle>
             </CardHeader>
             <CardContent>
               <CardDescription>
@@ -85,7 +89,7 @@ export default function Home() {
           
           <Card className="hover:shadow-lg transition-shadow">
             <CardHeader>
-              <CardTitle className="text-lg">Landlords</CardTitle>
+              <CardTitle className="text-lg">{t('chat.landlord')}</CardTitle>
             </CardHeader>
             <CardContent>
               <CardDescription>
@@ -101,7 +105,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
-              Why Choose AI Tax Lawyer?
+              {t('home.features.title')}
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Powered by advanced AI and comprehensive knowledge of Bangladesh tax law
@@ -155,11 +159,11 @@ export default function Home() {
             Ready to Optimize Your Taxes?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of Bangladeshi taxpayers who trust AI Tax Lawyer for their tax planning
+            Join thousands of Bangladeshi taxpayers who trust {t('home.title')} for their tax planning
           </p>
           <Link href="/onboarding">
             <Button size="lg" className="bg-white text-blue-600 hover:bg-gray-100">
-              Get Started Today
+              {t('home.getStarted')}
             </Button>
           </Link>
         </div>

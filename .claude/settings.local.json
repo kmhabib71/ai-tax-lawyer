@@ -19,7 +19,9 @@
       "Bash(python3:*)",
       "Bash(ls:*)",
       "Bash(find:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(node test-i18n.js)"
     ],
     "deny": []
   }

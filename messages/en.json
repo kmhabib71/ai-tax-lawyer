@@ -1,0 +1,255 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "continue": "Continue",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "language": "Language",
+    "english": "English",
+    "bengali": "Bengali",
+    "getStarted": "Get Started"
+  },
+  "nav": {
+    "home": "Home",
+    "chat": "Chat",
+    "dashboard": "Dashboard",
+    "calculator": "Calculator",
+    "optimizer": "Optimizer",
+    "pricing": "Pricing",
+    "profile": "Profile",
+    "settings": "Settings",
+    "help": "Help",
+    "about": "About"
+  },
+  "auth": {
+    "signin": "Sign In",
+    "signup": "Sign Up",
+    "signout": "Sign Out",
+    "signinWith": "Sign in with {provider}",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember Me",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+    "termsAndConditions": "Terms and Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "agreeToTerms": "I agree to the Terms and Conditions"
+  },
+  "home": {
+    "title": "AI Tax Lawyer",
+    "subtitle": "Your AI-Powered Tax Advisor for Bangladesh",
+    "description": "Get expert tax advice, calculate your taxes, and optimize your deductions with our AI-powered platform designed specifically for Bangladeshi taxpayers.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "startConsultation": "Start Free Consultation",
+    "features": {
+      "title": "Features",
+      "aiConsultation": {
+        "title": "AI Tax Consultation",
+        "description": "Get personalized tax advice from our AI trained on Bangladesh tax laws"
+      },
+      "taxCalculator": {
+        "title": "Tax Calculator",
+        "description": "Calculate your taxes accurately based on latest NBR rates and rules"
+      },
+      "deductionOptimizer": {
+        "title": "Deduction Optimizer",
+        "description": "Maximize your tax savings with intelligent deduction recommendations"
+      },
+      "professionalReports": {
+        "title": "Professional Reports",
+        "description": "Generate comprehensive tax reports with legal disclaimers and citations"
+      }
+    }
+  },
+  "chat": {
+    "title": "Tax Consultation",
+    "placeholder": "Ask me anything about Bangladesh tax laws...",
+    "send": "Send",
+    "typing": "AI is typing...",
+    "startConversation": "Hello! I'm your AI Tax Lawyer assistant. I can help you with Bangladesh tax laws, deductions, and compliance. What would you like to know about your taxes?",
+    "newChat": "New Chat",
+    "disclaimer": "This is AI-generated advice. Please consult a qualified tax professional for complex situations.",
+    "salariedEmployee": "Salaried Employee",
+    "freelancer": "Freelancer", 
+    "businessOwner": "Business Owner",
+    "landlord": "Landlord",
+    "quickQuestions": "Quick questions:",
+    "legalDisclaimer": "Legal Disclaimer: This AI provides general tax guidance based on Bangladesh tax laws. For complex situations or official filing, please consult with a qualified tax professional.",
+    "quickActions": {
+      "title": "Quick Actions",
+      "calculateTax": "Calculate Tax",
+      "findDeductions": "Find Deductions",
+      "fileReturn": "File Return",
+      "askQuestion": "Ask Question",
+      "deductions": "What deductions can I claim?",
+      "calculate": "How to calculate my tax?",
+      "taxRate": "What is the tax rate for my income?",
+      "fileReturn": "How to file my return?"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back, {name}!",
+    "stats": {
+      "totalChats": "Total Chats",
+      "taxSaved": "Tax Saved",
+      "reportsGenerated": "Reports Generated",
+      "lastActivity": "Last Activity"
+    },
+    "recentChats": "Recent Conversations",
+    "quickActions": "Quick Actions",
+    "subscription": {
+      "title": "Subscription",
+      "current": "Current Plan",
+      "upgrade": "Upgrade",
+      "usage": "Usage",
+      "remaining": "Remaining"
+    }
+  },
+  "calculator": {
+    "title": "Tax Calculator",
+    "description": "Calculate your tax liability based on current NBR rates",
+    "userType": "User Type",
+    "salariedEmployee": "Salaried Employee",
+    "freelancer": "Freelancer",
+    "landlord": "Landlord",
+    "businessOwner": "Business Owner",
+    "income": "Income",
+    "grossIncome": "Gross Income",
+    "annualIncome": "Annual Income (BDT)",
+    "deductions": "Deductions",
+    "taxLiability": "Tax Liability",
+    "calculate": "Calculate Tax",
+    "results": {
+      "title": "Tax Calculation Results",
+      "grossIncome": "Gross Income",
+      "totalDeductions": "Total Deductions",
+      "taxableIncome": "Taxable Income",
+      "taxLiability": "Tax Liability",
+      "effectiveRate": "Effective Tax Rate",
+      "generateReport": "Generate Report"
+    }
+  },
+  "optimizer": {
+    "title": "Deduction Optimizer",
+    "description": "Discover tax savings opportunities",
+    "analyze": "Analyze My Deductions",
+    "opportunities": "Savings Opportunities",
+    "recommendations": "Recommendations",
+    "implementationScore": "Implementation Score",
+    "potentialSavings": "Potential Savings",
+    "difficulty": "Difficulty",
+    "easy": "Easy",
+    "medium": "Medium",
+    "hard": "Hard"
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "description": "Choose the perfect plan for your tax needs",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "free": {
+      "title": "Free",
+      "description": "Basic tax calculations for individuals",
+      "features": [
+        "Basic tax calculator",
+        "Limited chat queries",
+        "Basic deduction finder",
+        "Community support"
+      ]
+    },
+    "pro": {
+      "title": "Pro",
+      "description": "Advanced features for freelancers and professionals",
+      "features": [
+        "Unlimited chat queries",
+        "Advanced tax calculator",
+        "Deduction optimizer",
+        "Professional reports",
+        "Priority support"
+      ]
+    },
+    "business": {
+      "title": "Business",
+      "description": "Comprehensive solution for businesses",
+      "features": [
+        "Everything in Pro",
+        "Multi-user access",
+        "Advanced analytics",
+        "Custom integrations",
+        "Dedicated support"
+      ]
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "userType": "User Type",
+    "preferences": "Preferences",
+    "language": "Language",
+    "notifications": "Notifications",
+    "emailNotifications": "Email Notifications",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "deleteAccount": "Delete Account"
+  },
+  "legal": {
+    "disclaimer": {
+      "title": "Legal Disclaimer",
+      "content": "This platform provides general tax information and should not be considered as professional tax advice. Tax laws are complex and subject to change. For specific tax situations, please consult with a qualified tax professional or chartered accountant.",
+      "aiAdvice": "AI-generated responses are based on publicly available information and may not reflect the most recent changes in tax laws or regulations.",
+      "liability": "We are not liable for any errors, omissions, or damages arising from the use of this information.",
+      "agree": "I understand and agree"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: {date}",
+      "sections": {
+        "acceptance": "By using this service, you agree to these terms",
+        "service": "Service Description",
+        "userResponsibilities": "User Responsibilities",
+        "limitations": "Limitations of Liability",
+        "privacy": "Privacy Policy",
+        "changes": "Changes to Terms"
+      }
+    }
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error. Please check your connection.",
+    "unauthorized": "You are not authorized to access this resource.",
+    "notFound": "The requested resource was not found.",
+    "validation": "Please check your input and try again.",
+    "rateLimit": "Too many requests. Please try again later.",
+    "aiError": "AI service is temporarily unavailable. Please try again later.",
+    "paymentError": "Payment processing failed. Please try again."
+  },
+  "success": {
+    "profileUpdated": "Profile updated successfully",
+    "passwordChanged": "Password changed successfully",
+    "reportGenerated": "Report generated successfully",
+    "paymentSuccess": "Payment completed successfully",
+    "subscriptionUpdated": "Subscription updated successfully"
+  }
+}

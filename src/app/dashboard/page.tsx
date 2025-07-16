@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import SubscriptionCard from '@/components/subscription/SubscriptionCard'
 import Link from 'next/link'
+import { useTranslation } from "@/contexts/LanguageContext"
 
 interface Conversation {
   id: string
@@ -25,6 +26,7 @@ interface UserProfile {
 }
 
 export default function DashboardPage() {
+  const { t } = useTranslation()
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null)
   const [conversations, setConversations] = useState<Conversation[]>([])
   const [stats, setStats] = useState({
@@ -57,13 +59,13 @@ export default function DashboardPage() {
   const formatUserType = (type: string) => {
     switch (type) {
       case 'salaried':
-        return 'Salaried Employee'
+        return t('chat.salariedEmployee')
       case 'freelancer':
-        return 'Freelancer'
+        return t('chat.freelancer')
       case 'business':
-        return 'Business Owner'
+        return t('chat.businessOwner')
       case 'landlord':
-        return 'Landlord'
+        return t('chat.landlord')
       default:
         return type
     }
@@ -118,10 +120,10 @@ export default function DashboardPage() {
           {/* Header */}
           <div className="mb-8">
             <h1 className="text-3xl font-bold text-gray-800 mb-2">
-              Welcome back{userProfile ? `, ${userProfile.name}` : ''}!
+              {t('dashboard.welcome', { name: userProfile?.name || '' })}
             </h1>
             <p className="text-gray-600">
-              Your AI Tax Lawyer Dashboard
+              {t('dashboard.title')}
             </p>
           </div>
 
@@ -129,7 +131,7 @@ export default function DashboardPage() {
           <div className="grid md:grid-cols-3 gap-6 mb-8">
             <Card>
               <CardHeader className="pb-3">
-                <CardDescription>Total Conversations</CardDescription>
+                <CardDescription>{t('dashboard.stats.totalChats')}</CardDescription>
                 <CardTitle className="text-2xl">{stats.totalConversations}</CardTitle>
               </CardHeader>
               <CardContent>
@@ -153,7 +155,7 @@ export default function DashboardPage() {
             
             <Card>
               <CardHeader className="pb-3">
-                <CardDescription>Potential Savings</CardDescription>
+                <CardDescription>{t('dashboard.stats.taxSaved')}</CardDescription>
                 <CardTitle className="text-2xl">৳{stats.potentialSavings.toLocaleString()}</CardTitle>
               </CardHeader>
               <CardContent>
@@ -170,7 +172,7 @@ export default function DashboardPage() {
             <div className="lg:col-span-2">
               <Card>
                 <CardHeader>
-                  <CardTitle>Recent Conversations</CardTitle>
+                  <CardTitle>{t('dashboard.recentChats')}</CardTitle>
                   <CardDescription>
                     Your latest tax consultations
                   </CardDescription>
@@ -183,7 +185,7 @@ export default function DashboardPage() {
                       </p>
                       <Link href="/chat">
                         <Button className="bg-blue-600 hover:bg-blue-700">
-                          Start Your First Consultation
+                          {t('home.startConsultation')}
                         </Button>
                       </Link>
                     </div>
@@ -211,7 +213,7 @@ export default function DashboardPage() {
                             </span>
                             <Link href={`/chat?conversation=${conversation.id}`}>
                               <Button variant="outline" size="sm">
-                                Continue
+                                {t('common.continue')}
                               </Button>
                             </Link>
                           </div>
@@ -221,7 +223,7 @@ export default function DashboardPage() {
                       <div className="pt-4 border-t">
                         <Link href="/chat">
                           <Button className="w-full bg-blue-600 hover:bg-blue-700">
-                            Start New Consultation
+                            {t('home.startConsultation')}
                           </Button>
                         </Link>
                       </div>
@@ -236,7 +238,7 @@ export default function DashboardPage() {
               {userProfile && (
                 <Card>
                   <CardHeader>
-                    <CardTitle>Your Profile</CardTitle>
+                    <CardTitle>{t('profile.title')}</CardTitle>
                     <CardDescription>
                       Tax profile information
                     </CardDescription>
@@ -260,7 +262,7 @@ export default function DashboardPage() {
                     </div>
                     <div className="pt-2">
                       <Button variant="outline" size="sm" className="w-full">
-                        Edit Profile
+                        {t('common.edit')}
                       </Button>
                     </div>
                   </CardContent>

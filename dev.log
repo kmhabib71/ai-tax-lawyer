@@ -1,0 +1,26 @@
+
+> ai-tax-lawyer@0.1.0 dev
+> next dev --turbo
+
+   ▲ Next.js 15.3.5 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://10.255.255.254:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ○ Compiling middleware ...
+ ✓ Compiled middleware in 1381ms
+ ✓ Ready in 16.6s
+ ○ Compiling /[locale] ...
+ ✓ Compiled /[locale] in 15.3s
+(node:7327) [MONGOOSE] Warning: Duplicate schema index on {"merchantInvoiceNumber":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:7445) [MONGOOSE] Warning: Duplicate schema index on {"merchantInvoiceNumber":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ GET / 404 in 41773ms
+ GET / 404 in 413ms
+(node:7505) [MONGOOSE] Warning: Duplicate schema index on {"merchantInvoiceNumber":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ GET / 404 in -1239ms
+(node:7567) [MONGOOSE] Warning: Duplicate schema index on {"merchantInvoiceNumber":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+(Use `node --trace-warnings ...` to show where the warning was created)

@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect } from 'react'
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { useTranslation } from "@/contexts/LanguageContext"
 
 interface Message {
   id: string
@@ -17,10 +18,11 @@ interface Message {
 }
 
 export default function ChatPage() {
+  const { t } = useTranslation()
   const [messages, setMessages] = useState<Message[]>([
     {
       id: '1',
-      content: 'Hello! I\'m your AI Tax Lawyer assistant. I can help you with Bangladesh tax laws, deductions, and compliance. What would you like to know about your taxes?',
+      content: t('chat.startConversation'),
       sender: 'ai',
       timestamp: new Date()
     }
@@ -241,7 +243,7 @@ export default function ChatPage() {
                           <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{animationDelay: '0.1s'}}></div>
                           <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{animationDelay: '0.2s'}}></div>
                         </div>
-                        <span className="text-sm">AI is typing...</span>
+                        <span className="text-sm">{t('chat.typing')}</span>
                       </div>
                     </div>
                   </div>
@@ -260,7 +262,7 @@ export default function ChatPage() {
                   value={inputMessage}
                   onChange={(e) => setInputMessage(e.target.value)}
                   onKeyPress={handleKeyPress}
-                  placeholder="Ask me anything about Bangladesh tax law..."
+                  placeholder={t('chat.placeholder')}
                   className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
                   rows={3}
                 />
@@ -269,19 +271,19 @@ export default function ChatPage() {
                   disabled={isLoading || !inputMessage.trim()}
                   className="px-6 bg-blue-600 hover:bg-blue-700"
                 >
-                  Send
+                  {t('chat.send')}
                 </Button>
               </div>
               
               {/* Quick Actions */}
               <div className="mt-4 space-y-2">
-                <p className="text-sm text-gray-600">Quick questions:</p>
+                <p className="text-sm text-gray-600">{t('chat.quickQuestions')}</p>
                 <div className="flex flex-wrap gap-2">
                   {[
-                    "What deductions can I claim?",
-                    "How to calculate my tax?",
-                    "What is the tax rate for my income?",
-                    "How to file my return?"
+                    t('chat.quickActions.deductions'),
+                    t('chat.quickActions.calculate'),
+                    t('chat.quickActions.taxRate'),
+                    t('chat.quickActions.fileReturn')
                   ].map((question) => (
                     <Button
                       key={question}

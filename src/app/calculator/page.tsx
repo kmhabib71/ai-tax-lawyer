@@ -10,12 +10,14 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Badge } from '@/components/ui/badge'
 import { Calculator, TrendingUp, AlertTriangle, BookOpen, Download } from 'lucide-react'
 import { TaxScenario, TaxAdvice, taxAdvisorService } from '@/lib/ai/tax-advisor'
+import { useTranslation } from "@/contexts/LanguageContext"
 
 interface FormData extends TaxScenario {
   // Additional UI state
 }
 
 export default function TaxCalculatorPage() {
+  const { t } = useTranslation()
   const [formData, setFormData] = useState<FormData>({
     userType: 'salaried',
     income: {},
@@ -284,10 +286,10 @@ export default function TaxCalculatorPage() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Calculator className="h-8 w-8 text-blue-600" />
-            <h1 className="text-3xl font-bold text-gray-900">Bangladesh Tax Calculator</h1>
+            <h1 className="text-3xl font-bold text-gray-900">{t('calculator.title')}</h1>
           </div>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Calculate your tax liability using the latest NBR rates and find optimization opportunities
+            {t('calculator.description')}
           </p>
         </div>
 
@@ -302,7 +304,7 @@ export default function TaxCalculatorPage() {
               <CardContent className="space-y-6">
                 {/* User Type Selection */}
                 <div className="space-y-2">
-                  <Label>Taxpayer Type</Label>
+                  <Label>{t('calculator.userType')}</Label>
                   <Select
                     value={formData.userType}
                     onValueChange={(value: any) => setFormData(prev => ({ ...prev, userType: value }))}
@@ -311,10 +313,10 @@ export default function TaxCalculatorPage() {
                       <SelectValue />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="salaried">Salaried Employee</SelectItem>
-                      <SelectItem value="freelancer">Freelancer/Consultant</SelectItem>
-                      <SelectItem value="landlord">Property Owner</SelectItem>
-                      <SelectItem value="business">Business Owner</SelectItem>
+                      <SelectItem value="salaried">{t('calculator.salariedEmployee')}</SelectItem>
+                      <SelectItem value="freelancer">{t('calculator.freelancer')}</SelectItem>
+                      <SelectItem value="landlord">{t('calculator.landlord')}</SelectItem>
+                      <SelectItem value="business">{t('calculator.businessOwner')}</SelectItem>
                       <SelectItem value="other">Other</SelectItem>
                     </SelectContent>
                   </Select>
@@ -357,8 +359,8 @@ export default function TaxCalculatorPage() {
 
                 <Tabs defaultValue="income" className="w-full">
                   <TabsList className="grid w-full grid-cols-2">
-                    <TabsTrigger value="income">Income</TabsTrigger>
-                    <TabsTrigger value="deductions">Deductions</TabsTrigger>
+                    <TabsTrigger value="income">{t('calculator.income')}</TabsTrigger>
+                    <TabsTrigger value="deductions">{t('calculator.deductions')}</TabsTrigger>
                   </TabsList>
                   
                   <TabsContent value="income" className="space-y-4">
@@ -380,7 +382,7 @@ export default function TaxCalculatorPage() {
                   className="w-full"
                   size="lg"
                 >
-                  {isCalculating ? 'Calculating...' : 'Calculate Tax'}
+                  {isCalculating ? t('common.loading') : t('calculator.calculate')}
                 </Button>
 
                 {error && (

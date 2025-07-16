@@ -4,19 +4,22 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { useSession, signIn, signOut } from 'next-auth/react'
 import { Button } from "@/components/ui/button"
+import { LanguageSwitcher } from "@/components/ui/language-switcher"
+import { useTranslation } from "@/contexts/LanguageContext"
 
 export default function Navigation() {
   const pathname = usePathname()
   const { data: session, status } = useSession()
+  const { t } = useTranslation()
 
   const navItems = [
-    { href: '/', label: 'Home' },
-    { href: '/dashboard', label: 'Dashboard' },
-    { href: '/calculator', label: 'Calculator' },
-    { href: '/optimizer', label: 'Optimizer' },
-    { href: '/chat', label: 'Chat' },
-    { href: '/pricing', label: 'Pricing' },
-    { href: '/profile', label: 'Profile' },
+    { href: '/', label: t('nav.home') },
+    { href: '/dashboard', label: t('nav.dashboard') },
+    { href: '/calculator', label: t('nav.calculator') },
+    { href: '/optimizer', label: t('nav.optimizer') },
+    { href: '/chat', label: t('nav.chat') },
+    { href: '/pricing', label: t('nav.pricing') },
+    { href: '/profile', label: t('nav.profile') },
     { href: '/onboarding', label: 'Setup' }
   ]
 
@@ -27,7 +30,7 @@ export default function Navigation() {
           <div className="flex items-center space-x-8">
             <Link href="/" className="flex items-center space-x-2">
               <span className="text-2xl">⚖️</span>
-              <span className="text-xl font-bold text-gray-800">AI Tax Lawyer</span>
+              <span className="text-xl font-bold text-gray-800">{t('home.title')}</span>
             </Link>
             
             <div className="hidden md:flex space-x-4">
@@ -48,6 +51,7 @@ export default function Navigation() {
           </div>
           
           <div className="flex items-center space-x-4">
+            <LanguageSwitcher />
             {status === 'loading' ? (
               <div className="w-8 h-8 bg-gray-200 rounded-full animate-pulse"></div>
             ) : session ? (
@@ -67,7 +71,7 @@ export default function Navigation() {
                   size="sm" 
                   onClick={() => signOut()}
                 >
-                  Sign Out
+                  {t('auth.signout')}
                 </Button>
               </div>
             ) : (
@@ -77,14 +81,14 @@ export default function Navigation() {
                   size="sm" 
                   onClick={() => signIn()}
                 >
-                  Sign In
+                  {t('auth.signin')}
                 </Button>
                 <Button 
                   size="sm" 
                   className="bg-blue-600 hover:bg-blue-700"
                   onClick={() => signIn()}
                 >
-                  Sign Up
+                  {t('auth.signup')}
                 </Button>
               </>
             )}

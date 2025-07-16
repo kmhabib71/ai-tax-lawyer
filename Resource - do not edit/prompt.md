@@ -111,10 +111,12 @@ Problem Identified:
 Solution Implemented:
 
 1. ✅ Modified Purchase-Package API (already completed):
+
    - Lines 242-290 in /api/purchase-package/route.ts now handle unlock purchase generation internally
    - Returns generatedOffer data when unlock purchase is successful
 
 2. ✅ Updated All 3 Frontend Pages:
+
    - Dashboard: Removed RealTimePackingAnimation call, now receives generated data from purchase-package API
    - Offer page: Removed direct /api/purchase-offer call, now uses data from purchase-package API
    - Previous offers: Removed both /api/purchase-offer calls, now uses data from purchase-package API
@@ -145,7 +147,7 @@ This fix eliminates the "busterd issue" that was causing headaches with multiple
 
 YOUR NEW START SESSION PROMPT:
 
-Please read CLAUDE.md, PROJECT_RULES_AND_OBJECTIVES.md, planning.md, and tasks.md to understand the project. Then check tasks.md to  
+Please read CLAUDE.md, PRD.md, planning.md, and tasks.md to understand the project. Then check tasks.md to  
  see where we are in the project, and pick up where we left off.
 
 Closing/End Session Prompt:

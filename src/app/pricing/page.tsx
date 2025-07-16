@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useSession } from 'next-auth/react';
 import { useRouter } from 'next/navigation';
+import { useTranslation } from "@/contexts/LanguageContext";
 
 interface PlanFeature {
   maxQueriesPerMonth: number;
@@ -25,6 +26,7 @@ interface UserPlan {
 }
 
 export default function PricingPage() {
+  const { t } = useTranslation();
   const { data: session, status } = useSession();
   const router = useRouter();
   const [plans, setPlans] = useState<PlanFeature[]>([]);
@@ -230,16 +232,16 @@ export default function PricingPage() {
                   {upgrading === plan.id ? (
                     <span className="flex items-center justify-center">
                       <div className="animate-spin rounded-full h-4 w-4 border-b-2 border-white mr-2"></div>
-                      Processing...
+                      {t('common.loading')}
                     </span>
                   ) : isCurrentPlan(plan.id) ? (
-                    'Current Plan'
+                    t('dashboard.subscription.current')
                   ) : !canUpgrade(plan.id) ? (
                     'Downgrade'
                   ) : plan.id === 'free' ? (
-                    'Current Plan'
+                    t('dashboard.subscription.current')
                   ) : (
-                    `Upgrade to ${plan.name}`
+                    `${t('dashboard.subscription.upgrade')} ${plan.name}`
                   )}
                 </button>
               </div>
