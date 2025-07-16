@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include requirements.txt
+recursive-include bangla_pdf_ocr/data *
+recursive-include examples *.py *.sh
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]

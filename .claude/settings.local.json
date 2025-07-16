@@ -21,7 +21,10 @@
       "Bash(find:*)",
       "Bash(rm:*)",
       "Bash(npm uninstall:*)",
-      "Bash(node test-i18n.js)"
+      "Bash(node test-i18n.js)",
+      "Bash(mv:*)",
+      "Bash(python test:*)",
+      "Bash(chmod:*)"
     ],
     "deny": []
   }
