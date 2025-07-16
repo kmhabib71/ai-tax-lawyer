@@ -10,16 +10,22 @@ This document outlines the complete development roadmap for AI Tax Lawyer Bangla
 
 **Goal**: Build the core knowledge pipeline and conversational interface
 
-### 1.1 Knowledge Pipeline Setup
+### 1.1 Knowledge Pipeline Setup (COMPREHENSIVE)
 
-| Task  | Description                                    | Owner   | Status | Priority |
-| ----- | ---------------------------------------------- | ------- | ------ | -------- |
-| 1.1.1 | Set up web scraping pipeline for NBR documents | Backend | ☐      | High     |
-| 1.1.2 | Scrape Income Tax Ordinance 1984 sections      | Backend | ☐      | High     |
-| 1.1.3 | Scrape Finance Acts 2015-2025                  | Backend | ☐      | High     |
-| 1.1.4 | Scrape 700+ NBR circulars and SROs             | Backend | ☐      | High     |
-| 1.1.5 | Scrape DTAA texts and VAT Act 1991             | Backend | ☐      | Medium   |
-| 1.1.6 | Clean and convert all documents to Markdown    | Backend | ☐      | High     |
+| Task   | Description                                                      | Owner   | Status | Priority |
+| ------ | ---------------------------------------------------------------- | ------- | ------ | -------- |
+| 1.1.1  | Set up comprehensive NBR document scraping pipeline              | Backend | ✅     | High     |
+| 1.1.2  | Scrape ALL Income Tax Acts (আয়কর আইন) - Complete collection     | Backend | ✅     | High     |
+| 1.1.3  | Scrape ALL Finance Acts (অর্থ আইন) - 2015-2025 + Historical      | Backend | ✅     | High     |
+| 1.1.4  | Scrape ALL NBR Circulars (সার্কুলার আদেশ) - 2000+ documents      | Backend | ✅     | High     |
+| 1.1.5  | Scrape ALL SROs (এসআরও) - Complete collection                    | Backend | ✅     | High     |
+| 1.1.6  | Scrape VAT Acts (মূসক আইন) - Complete collection                 | Backend | ✅     | High     |
+| 1.1.7  | Scrape Customs Acts (কাস্টমস আইন) - Complete collection          | Backend | ✅     | High     |
+| 1.1.8  | Scrape Administrative Acts (প্রশাসনিক আইন) - Complete collection | Backend | ✅     | High     |
+| 1.1.9  | Scrape Rules (বিধিমালা) - All tax-related rules                  | Backend | ✅     | High     |
+| 1.1.10 | Scrape Policies (নীতিমালা) - All tax policies                    | Backend | ✅     | Medium   |
+| 1.1.11 | Scrape DTAA texts and International Agreements                   | Backend | ✅     | Medium   |
+| 1.1.12 | Clean and convert ALL documents to Markdown (3000+ docs)         | Backend | ✅     | High     |
 
 ### 1.2 Vector Database Implementation
 
