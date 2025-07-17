@@ -1,0 +1,48 @@
+{
+  "source_file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+  "document_type": "penalty_table",
+  "extraction_date": "2025-07-17T21:44:52.431175",
+  "total_entries": 4,
+  "entries": [
+    {
+      "offense_description": "(i) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system; or",
+      "penalty_details": "such person shall be liable to a penalty not exceeding twice the amount of duty taxes involved or five lakh Taka whichever is higher; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both.",
+      "section_reference": "79B",
+      "confidence": 1.0,
+      "has_bengali": false,
+      "has_english": true,
+      "row_number": 1,
+      "raw_text": "(i) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system; or | such person shall be liable to a penalty not exceeding twice the amount of duty taxes involved or five lakh Taka whichever is higher; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B"
+    },
+    {
+      "offense_description": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or",
+      "penalty_details": "such person shall be liable to a penalty not exceeding five lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both.",
+      "section_reference": "79B & 204B",
+      "confidence": 1.0,
+      "has_bengali": false,
+      "has_english": true,
+      "row_number": 2,
+      "raw_text": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding five lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B & 204B"
+    },
+    {
+      "offense_description": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or",
+      "penalty_details": "such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both.",
+      "section_reference": "79B & 204B",
+      "confidence": 1.0,
+      "has_bengali": false,
+      "has_english": true,
+      "row_number": 3,
+      "raw_text": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B"
+    },
+    {
+      "offense_description": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised entry processing system or from any other means for the purpose of Customs clearance, and uses, discloses, publishes or authorizes dissemination of such information,",
+      "penalty_details": "such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both.",
+      "section_reference": "79B & 204B\"",
+      "confidence": 1.0,
+      "has_bengali": false,
+      "has_english": true,
+      "row_number": 4,
+      "raw_text": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised entry processing system or from any other means for the purpose of Customs clearance, and uses, discloses, publishes or authorizes dissemination of such information, | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B\""
+    }
+  ]
+}

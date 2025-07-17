@@ -1,0 +1,1157 @@
+{
+  "document_info": {
+    "total_chunks": 23,
+    "processing_date": "2025-07-17T21:52:04.584557",
+    "content_types": [
+      "section",
+      "numbered_list",
+      "penalty_table",
+      "heading",
+      "plain_text"
+    ],
+    "languages": {
+      "bengali_chunks": 8,
+      "english_chunks": 23,
+      "mixed_chunks": 8
+    }
+  },
+  "chunks": [
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+      "content": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন",
+      "content_type": "heading",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 1,
+      "metadata": {
+        "length": 48,
+        "word_count": 10,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "heading",
+        "extracted_at": "2025-07-17T21:52:04.578883"
+      },
+      "searchable_text": {
+        "full": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন",
+        "bengali": "এর সংশোধন",
+        "english": "Customs Act Act No IV of",
+        "keywords": [
+          "1969",
+          "Customs Act",
+          "customs",
+          "Act No. IV of 1969"
+        ]
+      },
+      "context": {
+        "confidence": 0.6,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1"
+        ],
+        "chunk_position": 1
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+      "content": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 119A\nএর পর নিম্নরূপ নৃতন section 119B সন্নিবেশিত হইবে, যথা:-",
+      "content_type": "heading",
+      "section_reference": "section 119B",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 2,
+      "metadata": {
+        "length": 192,
+        "word_count": 35,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "heading",
+        "extracted_at": "2025-07-17T21:52:04.579020"
+      },
+      "searchable_text": {
+        "full": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 119A\nএর পর নিম্নরূপ নৃতন section 119B সন্নিবেশিত হইবে, যথা:-",
+        "bengali": "এর এর সন্নিবেশ অতঃপর উক্ত বলিয়া উল্লিখিত এর এর পর নিম্নরূপ নৃতন সন্নিবেশিত হইবে যথা",
+        "english": "Act No IV of section B Customs Act Act No IV of Act section A section B",
+        "keywords": [
+          "section",
+          "Customs Act",
+          "119a",
+          "119B",
+          "1969",
+          "Act No. IV of 1969",
+          "customs",
+          "119b",
+          "119A"
+        ]
+      },
+      "context": {
+        "confidence": 0.7999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1"
+        ],
+        "chunk_position": 1
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+      "content": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contained in any other\nprovisions of this Act or in any other law for the time being in force, the\nBoard may, by notification in the official Gazette, declare that the\noperation of any bonded warehouse may be performed electronically\nsubject to such conditions, restrictions and procedures as specified in that\nnotification.\" |",
+      "content_type": "plain_text",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 2,
+      "metadata": {
+        "length": 421,
+        "word_count": 63,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "plain_text",
+        "extracted_at": "2025-07-17T21:52:04.579204"
+      },
+      "searchable_text": {
+        "full": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contained in any other\nprovisions of this Act or in any other law for the time being in force, the\nBoard may, by notification in the official Gazette, declare that the\noperation of any bonded warehouse may be performed electronically\nsubject to such conditions, restrictions and procedures as specified in that\nnotification.\" |",
+        "bengali": "",
+        "english": "B Performing the operation of bonded warehouse electronically Notwithstanding anything contained in any other provisions of this Act or in any other law for the time being in force the Board may by notification in the official Gazette declare that the operation of any bonded warehouse may be performed electronically subject to such conditions restrictions and procedures as specified in that notification",
+        "keywords": [
+          "other",
+          "notwithstanding",
+          "specified",
+          "contained",
+          "anything",
+          "this",
+          "notification",
+          "operation",
+          "subject",
+          "119b",
+          "performing",
+          "conditions",
+          "bonded",
+          "provisions",
+          "that",
+          "such",
+          "force",
+          "performed",
+          "board",
+          "official",
+          "time",
+          "warehouse",
+          "Gazette",
+          "being",
+          "gazette",
+          "electronically",
+          "procedures",
+          "procedure",
+          "restrictions",
+          "declare"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9"
+        ],
+        "chunk_position": 2
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+      "content": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর column | এ বর্ণিত-",
+      "content_type": "section",
+      "section_reference": "section 156",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 119,
+        "word_count": 25,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "section",
+        "extracted_at": "2025-07-17T21:52:04.579280"
+      },
+      "searchable_text": {
+        "full": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর column | এ বর্ণিত-",
+        "bengali": "এর এর সংশোধন উক্ত এর এর এর এর এ বর্ণিত",
+        "english": "Act No IV of section Act section sub section Table column",
+        "keywords": [
+          "section",
+          "1969",
+          "Act No. IV of 1969",
+          "column",
+          "table",
+          "156"
+        ]
+      },
+      "context": {
+        "confidence": 1.0,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1"
+        ],
+        "chunk_position": 1
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+      "content": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63, 64, 65,71 ও 75 এ বর্ণিত Offences এর বিপরীতে\ncolumn 2 এ বর্ণিত Penalties এ উল্লিখিত \"fifty thousand Taka\" শব্দগুলির পরিবর্তে\n\"two lakh Taka\" শব্দগুলি প্রতিস্থাপিত হইবে;",
+      "content_type": "plain_text",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 268,
+        "word_count": 51,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "plain_text",
+        "extracted_at": "2025-07-17T21:52:04.579458"
+      },
+      "searchable_text": {
+        "full": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63, 64, 65,71 ও 75 এ বর্ণিত Offences এর বিপরীতে\ncolumn 2 এ বর্ণিত Penalties এ উল্লিখিত \"fifty thousand Taka\" শব্দগুলির পরিবর্তে\n\"two lakh Taka\" শব্দগুলি প্রতিস্থাপিত হইবে;",
+        "bengali": "ক ক্রমিক নম্বর ও এ বর্ণিত এর বিপরীতে এ বর্ণিত এ উল্লিখিত শব্দগুলির পরিবর্তে শব্দগুলি প্রতিস্থাপিত হইবে",
+        "english": "Offences column Penalties fifty thousand Taka two lakh Taka",
+        "keywords": [
+          "fifty",
+          "taka",
+          "lakh",
+          "penalties",
+          "thousand",
+          "offences",
+          "column"
+        ]
+      },
+      "context": {
+        "confidence": 0.7999999999999999,
+        "related_chunks": [],
+        "chunk_position": 2
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_2",
+      "content": "খে) ক্রমিক 47A এর পরিবর্তে নিয়বর্ণিত SRS 474, প্রতিস্থাপিত হইবে, যথা:-",
+      "content_type": "plain_text",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 71,
+        "word_count": 11,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "plain_text",
+        "extracted_at": "2025-07-17T21:52:04.579510"
+      },
+      "searchable_text": {
+        "full": "খে) ক্রমিক 47A এর পরিবর্তে নিয়বর্ণিত SRS 474, প্রতিস্থাপিত হইবে, যথা:-",
+        "bengali": "খে ক্রমিক এর পরিবর্তে নিয়বর্ণিত প্রতিস্থাপিত হইবে যথা",
+        "english": "A SRS",
+        "keywords": []
+      },
+      "context": {
+        "confidence": 0.7999999999999999,
+        "related_chunks": [],
+        "chunk_position": 3
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+      "content": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system; or | such person shall be liable to a penalty not exceeding twice the amount of duty taxes involved or five lakh Taka whichever is higher; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B",
+      "content_type": "penalty_table",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 462,
+        "word_count": 82,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "penalty_table",
+        "extracted_at": "2025-07-17T21:52:04.579690",
+        "penalty_count": 2,
+        "amount_count": 0
+      },
+      "searchable_text": {
+        "full": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system; or | such person shall be liable to a penalty not exceeding twice the amount of duty taxes involved or five lakh Taka whichever is higher; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B",
+        "bengali": "",
+        "english": "A If any person i without lawful authority gains access to or attempts to gain access to any Customs computerised entry processing system or such person shall be liable to a penalty not exceeding twice the amount of duty taxes involved or five lakh Taka whichever is higher and on conviction before a Magistrate shall be further liable to imprisonment for a term not exceeding two years or to a fine not exceeding five lakh Taka or to both B",
+        "keywords": [
+          "further",
+          "penalty",
+          "twice",
+          "magistrate",
+          "fine",
+          "customs",
+          "liable",
+          "gain",
+          "higher",
+          "process",
+          "without",
+          "conviction",
+          "years",
+          "both",
+          "processing",
+          "whichever",
+          "authority",
+          "such",
+          "without lawful authority",
+          "duty",
+          "lakh",
+          "imprisonment",
+          "five",
+          "taxes",
+          "attempts",
+          "before",
+          "involved",
+          "system",
+          "term",
+          "lawful",
+          "access",
+          "taka",
+          "gains",
+          "computerised",
+          "exceeding",
+          "entry",
+          "shall",
+          "person",
+          "amount"
+        ]
+      },
+      "context": {
+        "confidence": 0.8999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9"
+        ],
+        "chunk_position": 4
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+      "content": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding five lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B & 204B",
+      "content_type": "penalty_table",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 579,
+        "word_count": 99,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "penalty_table",
+        "extracted_at": "2025-07-17T21:52:04.580001",
+        "penalty_count": 2,
+        "amount_count": 0
+      },
+      "searchable_text": {
+        "full": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding five lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to a fine not exceeding five lakh Taka, or to both. | 79B & 204B",
+        "bengali": "",
+        "english": "ii without lawful authority gains access to or attempts to gain access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance uses or discloses information obtained from such system or arrangement for a purpose that is not authorized or such person shall be liable to a penalty not exceeding five lakh Taka and on conviction before a Magistrate shall be further liable to imprisonment for a term not exceeding two years or to a fine not exceeding five lakh Taka or to both B B",
+        "keywords": [
+          "purpose",
+          "further",
+          "204b",
+          "penalty",
+          "magistrate",
+          "fine",
+          "customs",
+          "liable",
+          "gain",
+          "process",
+          "without",
+          "conviction",
+          "arrangement",
+          "passenger",
+          "years",
+          "authorized",
+          "both",
+          "processing",
+          "trade",
+          "authority",
+          "discloses",
+          "from",
+          "such",
+          "that",
+          "without lawful authority",
+          "imprisonment",
+          "lakh",
+          "five",
+          "uses",
+          "attempts",
+          "before",
+          "term",
+          "system",
+          "lawful",
+          "information",
+          "access",
+          "obtained",
+          "taka",
+          "gains",
+          "computerised",
+          "exceeding",
+          "entry",
+          "clearance",
+          "shall",
+          "received",
+          "person"
+        ]
+      },
+      "context": {
+        "confidence": 0.8999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7"
+        ],
+        "chunk_position": 5
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+      "content": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B",
+      "content_type": "penalty_table",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 528,
+        "word_count": 90,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "penalty_table",
+        "extracted_at": "2025-07-17T21:52:04.580276",
+        "penalty_count": 2,
+        "amount_count": 0
+      },
+      "searchable_text": {
+        "full": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance, uses or discloses information obtained from such system or arrangement for a purpose that is not authorized; or | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B",
+        "bengali": "",
+        "english": "iii having lawful access to any Customs computerised entry processing system or any trade or passenger information received for the purpose of Customs clearance uses or discloses information obtained from such system or arrangement for a purpose that is not authorized or such person shall be liable to a penalty not exceeding two lakh Taka and on conviction before a Magistrate shall be further liable to imprisonment for a term not exceeding two years or to fine not exceeding five lakh Taka or to both B B",
+        "keywords": [
+          "purpose",
+          "further",
+          "204b",
+          "penalty",
+          "magistrate",
+          "fine",
+          "customs",
+          "liable",
+          "process",
+          "conviction",
+          "arrangement",
+          "passenger",
+          "years",
+          "authorized",
+          "both",
+          "processing",
+          "trade",
+          "discloses",
+          "from",
+          "such",
+          "that",
+          "imprisonment",
+          "lakh",
+          "five",
+          "uses",
+          "before",
+          "term",
+          "system",
+          "lawful",
+          "information",
+          "access",
+          "obtained",
+          "taka",
+          "exceeding",
+          "computerised",
+          "having",
+          "entry",
+          "clearance",
+          "shall",
+          "received",
+          "person"
+        ]
+      },
+      "context": {
+        "confidence": 0.8999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7"
+        ],
+        "chunk_position": 6
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+      "content": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised entry processing system or from any other means for the purpose of Customs clearance, and uses, discloses, publishes or authorizes dissemination of such information, | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B\"",
+      "content_type": "penalty_table",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 3,
+      "metadata": {
+        "length": 516,
+        "word_count": 87,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "penalty_table",
+        "extracted_at": "2025-07-17T21:52:04.580483",
+        "penalty_count": 2,
+        "amount_count": 0
+      },
+      "searchable_text": {
+        "full": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised entry processing system or from any other means for the purpose of Customs clearance, and uses, discloses, publishes or authorizes dissemination of such information, | such person shall be liable to a penalty not exceeding two lakh Taka; and on conviction before a Magistrate, shall be further liable to imprisonment for a term not exceeding two years, or to fine not exceeding five lakh Taka, or to both. | 79B & 204B\"",
+        "bengali": "",
+        "english": "iv who is not authorised to do so receives information obtained from any Customs computerised entry processing system or from any other means for the purpose of Customs clearance and uses discloses publishes or authorizes dissemination of such information such person shall be liable to a penalty not exceeding two lakh Taka and on conviction before a Magistrate shall be further liable to imprisonment for a term not exceeding two years or to fine not exceeding five lakh Taka or to both B B",
+        "keywords": [
+          "other",
+          "purpose",
+          "receives",
+          "further",
+          "204b",
+          "penalty",
+          "authorised",
+          "magistrate",
+          "fine",
+          "customs",
+          "liable",
+          "means",
+          "process",
+          "conviction",
+          "years",
+          "both",
+          "processing",
+          "discloses",
+          "from",
+          "such",
+          "dissemination",
+          "imprisonment",
+          "lakh",
+          "five",
+          "uses",
+          "before",
+          "term",
+          "system",
+          "publishes",
+          "information",
+          "obtained",
+          "taka",
+          "exceeding",
+          "computerised",
+          "entry",
+          "authorizes",
+          "clearance",
+          "shall",
+          "person"
+        ]
+      },
+      "context": {
+        "confidence": 0.8999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9"
+        ],
+        "chunk_position": 7
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+      "content": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন section 204B সন্নিবেশিত হইবে, যথা:-",
+      "content_type": "section",
+      "section_reference": "section 204B",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 129,
+        "word_count": 24,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "section",
+        "extracted_at": "2025-07-17T21:52:04.580573"
+      },
+      "searchable_text": {
+        "full": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন section 204B সন্নিবেশিত হইবে, যথা:-",
+        "bengali": "এর এর সন্নিবেশ উক্ত এর এর পর নিম্নরূপ নৃতন সন্নিবেশিত হইবে যথা",
+        "english": "Act No IV of section B Act section A section B",
+        "keywords": [
+          "section",
+          "204a",
+          "204B",
+          "204b",
+          "1969",
+          "Act No. IV of 1969",
+          "204A"
+        ]
+      },
+      "context": {
+        "confidence": 1.0,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1"
+        ],
+        "chunk_position": 1
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+      "content": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trade and passenger information\ngathered by Customs for clearance purpose shall be confidential and shall\nnot be used except for —",
+      "content_type": "plain_text",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 226,
+        "word_count": 33,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "plain_text",
+        "extracted_at": "2025-07-17T21:52:04.581535"
+      },
+      "searchable_text": {
+        "full": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trade and passenger information\ngathered by Customs for clearance purpose shall be confidential and shall\nnot be used except for —",
+        "bengali": "",
+        "english": "B Confidentiality and arrangement for exchange of information facilitating trade All trade and passenger information gathered by Customs for clearance purpose shall be confidential and shall not be used except for",
+        "keywords": [
+          "facilitating",
+          "used",
+          "information",
+          "purpose",
+          "arrangement",
+          "exchange",
+          "204b",
+          "passenger",
+          "gathered",
+          "except",
+          "clearance",
+          "trade",
+          "confidentiality",
+          "shall",
+          "confidential",
+          "customs"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8"
+        ],
+        "chunk_position": 2
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+      "content": "(a) statistical purposes by the Board and other Government\norganizations; or",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 76,
+        "word_count": 11,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": false,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.581619"
+      },
+      "searchable_text": {
+        "full": "(a) statistical purposes by the Board and other Government\norganizations; or",
+        "bengali": "",
+        "english": "a statistical purposes by the Board and other Government organizations or",
+        "keywords": [
+          "other",
+          "purposes",
+          "statistical",
+          "board",
+          "organizations",
+          "government"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6"
+        ],
+        "chunk_position": 3
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+      "content": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other imports and exports; or",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 118,
+        "word_count": 19,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": false,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.581694"
+      },
+      "searchable_text": {
+        "full": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other imports and exports; or",
+        "bengali": "",
+        "english": "b purposes of comparison and evidence by the appropriate officer of Customs as against other imports and exports or",
+        "keywords": [
+          "other",
+          "purposes",
+          "evidence",
+          "appropriate",
+          "imports",
+          "exports",
+          "comparison",
+          "against",
+          "officer",
+          "customs"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [],
+        "chunk_position": 4
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+      "content": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by the Government; or",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 118,
+        "word_count": 18,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": false,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.581768"
+      },
+      "searchable_text": {
+        "full": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by the Government; or",
+        "bengali": "",
+        "english": "c production as evidence before a legal proceeding or an organization explicitly so authorized by the Government or",
+        "keywords": [
+          "proceeding",
+          "evidence",
+          "production",
+          "government",
+          "authorized",
+          "organization",
+          "legal",
+          "before",
+          "explicitly"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [],
+        "chunk_position": 5
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+      "content": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information Act, 2009 (Act No.\nXX of 2009); or",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 135,
+        "word_count": 23,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.581852"
+      },
+      "searchable_text": {
+        "full": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information Act, 2009 (Act No.\nXX of 2009); or",
+        "bengali": "",
+        "english": "d disclosure of information subject to the condition and limitation under the Right to Information Act Act No XX of or",
+        "keywords": [
+          "under",
+          "information",
+          "Act No.\nXX of 2009",
+          "right",
+          "limitation",
+          "2009",
+          "disclosure",
+          "subject",
+          "condition"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8"
+        ],
+        "chunk_position": 6
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+      "content": "(e) any other purposes to be determined by the Board.",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 53,
+        "word_count": 10,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": false,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.581915"
+      },
+      "searchable_text": {
+        "full": "(e) any other purposes to be determined by the Board.",
+        "bengali": "",
+        "english": "e any other purposes to be determined by the Board",
+        "keywords": [
+          "other",
+          "purposes",
+          "determined",
+          "board"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2"
+        ],
+        "chunk_position": 7
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+      "content": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or any other arrangement to\nexchange of information for trade facilitation, effective risk analysis,\nverification of compliance and prevention, combating and investigation of\noffences under the provisions of this Act.",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 313,
+        "word_count": 43,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.582066"
+      },
+      "searchable_text": {
+        "full": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or any other arrangement to\nexchange of information for trade facilitation, effective risk analysis,\nverification of compliance and prevention, combating and investigation of\noffences under the provisions of this Act.",
+        "bengali": "",
+        "english": "The Government may enter into any bilateral regional multilateral agreement or convention or any other arrangement to exchange of information for trade facilitation effective risk analysis verification of compliance and prevention combating and investigation of offences under the provisions of this Act",
+        "keywords": [
+          "other",
+          "prevention",
+          "facilitation",
+          "risk",
+          "this",
+          "bilateral",
+          "offences",
+          "under",
+          "compliance",
+          "arrangement",
+          "exchange",
+          "provisions",
+          "trade",
+          "government",
+          "agreement",
+          "effective",
+          "enter",
+          "regional",
+          "multilateral",
+          "verification",
+          "information",
+          "combating",
+          "into",
+          "investigation",
+          "convention",
+          "analysis"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8"
+        ],
+        "chunk_position": 8
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+      "content": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provided under the agreement or convention\nor any such arrangement, may be used as evidence in investigations and\nproceedings under this Act or corresponding law of another country by\nwhich such arrangement exists.",
+      "content_type": "section",
+      "section_reference": "sub-section (2)",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 307,
+        "word_count": 46,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "section",
+        "extracted_at": "2025-07-17T21:52:04.582179"
+      },
+      "searchable_text": {
+        "full": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provided under the agreement or convention\nor any such arrangement, may be used as evidence in investigations and\nproceedings under this Act or corresponding law of another country by\nwhich such arrangement exists.",
+        "bengali": "",
+        "english": "The information exchanged under sub section subject to the limitation and condition provided under the agreement or convention or any such arrangement may be used as evidence in investigations and proceedings under this Act or corresponding law of another country by which such arrangement exists",
+        "keywords": [
+          "proceedings",
+          "another",
+          "this",
+          "corresponding",
+          "country",
+          "subject",
+          "exchanged",
+          "under",
+          "section",
+          "which",
+          "arrangement",
+          "limitation",
+          "investigations",
+          "provided",
+          "such",
+          "used",
+          "agreement",
+          "evidence",
+          "condition",
+          "information",
+          "exists",
+          "convention"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5"
+        ],
+        "chunk_position": 9
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+      "content": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions subject to which such exchange shall be\nmade and designation of the person through whom such information shall\nbe exchanged.",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 223,
+        "word_count": 35,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.582295"
+      },
+      "searchable_text": {
+        "full": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions subject to which such exchange shall be\nmade and designation of the person through whom such information shall\nbe exchanged.",
+        "bengali": "",
+        "english": "The Board shall by notification in the official gazette specify the procedure and conditions subject to which such exchange shall be made and designation of the person through whom such information shall be exchanged",
+        "keywords": [
+          "notification",
+          "subject",
+          "exchanged",
+          "specify",
+          "conditions",
+          "which",
+          "made",
+          "designation",
+          "exchange",
+          "whom",
+          "such",
+          "through",
+          "board",
+          "official",
+          "information",
+          "gazette",
+          "procedure",
+          "shall",
+          "person"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6"
+        ],
+        "chunk_position": 10
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+      "content": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without explicit permission shall be an\noffence.\" |",
+      "content_type": "numbered_list",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 4,
+      "metadata": {
+        "length": 139,
+        "word_count": 20,
+        "has_bengali": false,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "numbered_list",
+        "extracted_at": "2025-07-17T21:52:04.582375"
+      },
+      "searchable_text": {
+        "full": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without explicit permission shall be an\noffence.\" |",
+        "bengali": "",
+        "english": "Any disclosure publishing or dissemination of information except as provided above without explicit permission shall be an offence",
+        "keywords": [
+          "without",
+          "above",
+          "information",
+          "dissemination",
+          "publishing",
+          "except",
+          "offence",
+          "permission",
+          "shall",
+          "disclosure",
+          "provided",
+          "explicit"
+        ]
+      },
+      "context": {
+        "confidence": 0.7,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1"
+        ],
+        "chunk_position": 11
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+      "content": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনের তফসিল-...... এ উল্লিখিত\n\"FIRST SCHEDULE?\" পথকভাবে মুদ্রিত) প্রতিস্থাপিত হইবে।",
+      "content_type": "heading",
+      "section_reference": "",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 5,
+      "metadata": {
+        "length": 179,
+        "word_count": 28,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "heading",
+        "extracted_at": "2025-07-17T21:52:04.582563"
+      },
+      "searchable_text": {
+        "full": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনের তফসিল-...... এ উল্লিখিত\n\"FIRST SCHEDULE?\" পথকভাবে মুদ্রিত) প্রতিস্থাপিত হইবে।",
+        "bengali": "এর এর প্রতিস্থাপন উক্ত এর এর পরিবর্তে এই আইনের তফসিল এ উল্লিখিত পথকভাবে মুদ্রিত প্রতিস্থাপিত হইবে",
+        "english": "Act No IV of FIRST SCHEDULE Act FIRST SCHEDULE FIRST SCHEDULE",
+        "keywords": [
+          "schedule",
+          "1969",
+          "Act No. IV of 1969",
+          "পথকভ",
+          "first"
+        ]
+      },
+      "context": {
+        "confidence": 0.7999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1"
+        ],
+        "chunk_position": 1
+      }
+    },
+    {
+      "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+      "content": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE এর প্রতিস্থাপন]\nFIRST SCHEDULE\n[ Bangladesh Customs Tariff ]\n(See Section 18)",
+      "content_type": "heading",
+      "section_reference": "Section 18",
+      "file_reference": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt",
+      "page_number": 5,
+      "metadata": {
+        "length": 178,
+        "word_count": 32,
+        "has_bengali": true,
+        "has_english": true,
+        "has_numbers": true,
+        "content_type": "heading",
+        "extracted_at": "2025-07-17T21:52:04.582779"
+      },
+      "searchable_text": {
+        "full": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE এর প্রতিস্থাপন]\nFIRST SCHEDULE\n[ Bangladesh Customs Tariff ]\n(See Section 18)",
+        "bengali": "অর্থ আইন ২০২২ এর ধারা দ্রষ্টব্য এর প্রতিস্থাপন",
+        "english": "Customs Act Act No IV of Gi FIRST SCHEDULE FIRST SCHEDULE Bangladesh Customs Tariff See Section",
+        "keywords": [
+          "section",
+          "Customs Act",
+          "২০২২",
+          "schedule",
+          "18",
+          "bangladesh",
+          "Act No. IV of 1969",
+          "1969",
+          "tariff",
+          "অর্থ আইন",
+          "first",
+          "customs"
+        ]
+      },
+      "context": {
+        "confidence": 0.7999999999999999,
+        "related_chunks": [
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+          "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0"
+        ],
+        "chunk_position": 2
+      }
+    }
+  ]
+}

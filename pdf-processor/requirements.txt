@@ -1,0 +1,18 @@
+# Enhanced PDF Processor Requirements
+# Simple requirements for NBR PDF processing
+
+# Core PDF processing
+pdf2image>=3.1.0
+pytesseract>=0.3.10
+
+# Progress tracking
+tqdm>=4.64.0
+
+# Standard library (included in Python 3.7+)
+# pathlib
+# json
+# csv
+# re
+# dataclasses
+# datetime
+# typing

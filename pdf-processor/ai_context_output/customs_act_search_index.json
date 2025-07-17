@@ -1,0 +1,2964 @@
+{
+  "keywords": {
+    "1969": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+        "content_preview": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন...",
+        "confidence": 0.6,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "Customs Act": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+        "content_preview": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন...",
+        "confidence": 0.6,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "customs": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+        "content_preview": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন...",
+        "confidence": 0.6,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "Act No. IV of 1969": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+        "content_preview": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন...",
+        "confidence": 0.6,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "section": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "119a": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "119B": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "119b": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "119A": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "other": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+        "content_preview": "(e) any other purposes to be determined by the Board....",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "notwithstanding": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "specified": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "contained": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "anything": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "this": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "notification": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "operation": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "subject": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "performing": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "conditions": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "bonded": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "provisions": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "that": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "such": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "force": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "performed": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "board": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+        "content_preview": "(e) any other purposes to be determined by the Board....",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "official": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "time": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "warehouse": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "Gazette": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "being": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "gazette": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "electronically": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "procedures": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "procedure": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "restrictions": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "declare": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "column": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "table": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "156": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "fifty": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "taka": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "lakh": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "penalties": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "thousand": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "offences": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "further": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "penalty": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "twice": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "magistrate": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "fine": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "liable": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "gain": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "higher": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "process": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "without": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "conviction": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "years": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "both": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "processing": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "whichever": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "authority": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "without lawful authority": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "duty": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "imprisonment": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "five": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "taxes": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "attempts": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "before": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "involved": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "system": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "term": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "lawful": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "access": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "gains": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "computerised": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "exceeding": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "entry": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "shall": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "person": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "amount": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "purpose": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "204b": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "arrangement": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "passenger": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "authorized": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "trade": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "discloses": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "from": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "uses": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "information": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "obtained": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "clearance": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "received": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "having": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "receives": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "authorised": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "means": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "dissemination": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "publishes": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "authorizes": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "204a": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "204B": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "204A": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "facilitating": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "used": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "exchange": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "gathered": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "except": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "confidentiality": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "confidential": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "purposes": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+        "content_preview": "(e) any other purposes to be determined by the Board....",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "statistical": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "government": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "evidence": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "appropriate": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "imports": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "exports": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "comparison": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "against": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "officer": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "proceeding": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "production": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "organization": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "legal": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "explicitly": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "under": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "Act No.\nXX of 2009": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "right": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "limitation": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "2009": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "disclosure": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "condition": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "determined": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+        "content_preview": "(e) any other purposes to be determined by the Board....",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "prevention": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "facilitation": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "risk": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "bilateral": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "compliance": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "agreement": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "effective": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "enter": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "regional": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "multilateral": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "verification": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "combating": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "into": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "investigation": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "convention": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "analysis": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "proceedings": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "another": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "corresponding": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "country": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "exchanged": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "which": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "investigations": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "provided": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "exists": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "specify": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "made": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "designation": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "whom": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "through": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "above": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "publishing": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "offence": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "permission": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "explicit": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "schedule": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "পথকভ": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "first": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "২০২২": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "18": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "bangladesh": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "tariff": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "অর্থ আইন": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ]
+  },
+  "sections": {
+    "section 119B": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "section 156": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "section 204B": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "sub-section (2)": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "Section 18": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ]
+  },
+  "content_types": {
+    "heading": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+        "content_preview": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন...",
+        "confidence": 0.6,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "plain_text": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_2",
+        "content_preview": "খে) ক্রমিক 47A এর পরিবর্তে নিয়বর্ণিত SRS 474, প্রতিস্থাপিত হইবে, যথা:-...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "section": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "penalty_table": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ],
+    "numbered_list": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+        "content_preview": "(e) any other purposes to be determined by the Board....",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ]
+  },
+  "files": {
+    "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt": [
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_0_0",
+        "content_preview": "Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন...",
+        "confidence": 0.6,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_0",
+        "content_preview": "Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,\n1969 (Act No. IV of 1969), অতঃপর উক্ত ...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_1_1",
+        "content_preview": "\"119B. Performing the operation of bonded warehouse\nelectronically.- Notwithstanding anything contai...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_0",
+        "content_preview": "Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর\nsection 156 এর sub-section (1) এর Table এর...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_1",
+        "content_preview": "(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 434\n44, 45, 49, 54, 56, 59, 61, 63,...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_2",
+        "content_preview": "খে) ক্রমিক 47A এর পরিবর্তে নিয়বর্ণিত SRS 474, প্রতিস্থাপিত হইবে, যথা:-...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_3",
+        "content_preview": "\"47A. If any person-\n(i) without lawful authority gains access to, or attempts to gain access to, an...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_4",
+        "content_preview": "(ii) without lawful authority gains access to, or attempts to gain access to, any Customs computeris...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_5",
+        "content_preview": "(iii) having lawful access to any Customs computerised entry processing system or any trade or passe...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_2_6",
+        "content_preview": "(iv) who is not authorised to do so, receives information obtained from any Customs computerised ent...",
+        "confidence": 0.8999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_0",
+        "content_preview": "Act No. IV of 1969 এর section 204B এর সন্নিবেশ।- উক্ত Act এর\nsection 204A এর পর নিম্নরূপ নৃতন sectio...",
+        "confidence": 1.0,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_1",
+        "content_preview": "\"204B. Confidentiality and arrangement for exchange of\ninformation facilitating trade.- (1) All trad...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_2",
+        "content_preview": "(a) statistical purposes by the Board and other Government\norganizations; or...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_3",
+        "content_preview": "(b) purposes of comparison and evidence by the appropriate\nofficer of Customs as against other impor...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_4",
+        "content_preview": "(c) production as evidence before a legal proceeding or an\norganization explicitly so authorized by ...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_5",
+        "content_preview": "(d) disclosure of information subject to the condition and\nlimitation under the Right to Information...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_6",
+        "content_preview": "(e) any other purposes to be determined by the Board....",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_7",
+        "content_preview": "(2) The Government may enter into any bilateral, regional,\nmultilateral agreement or convention or a...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_8",
+        "content_preview": "(3) The information exchanged under sub-section (2), subject to\nthe limitation and condition provide...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_9",
+        "content_preview": "(4) The Board shall, by notification in the official gazette, specify\nthe procedure and conditions s...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_3_10",
+        "content_preview": "(5) Any disclosure, publishing or dissemination of information\nexcept as provided above without expl...",
+        "confidence": 0.7,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_0",
+        "content_preview": "Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত\nAct এর FIRST SCHEDULE এর পরিবর্তে এই আইনে...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      },
+      {
+        "id": "Customs_Act-1969_Amendment_Again_Uploaded_test_4_1",
+        "content_preview": "[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]\n[Customs Act, 1969 (Act No. IV of 1969) Gi\nFIRST SCHEDULE...",
+        "confidence": 0.7999999999999999,
+        "file": "test_output/Customs_Act-1969_Amendment_Again_Uploaded_test.txt"
+      }
+    ]
+  }
+}
