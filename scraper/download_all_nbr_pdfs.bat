@@ -30,97 +30,97 @@ set /a total=18
 REM Acts (Laws)
 echo [1/18] Downloading Income Tax Acts...
 set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/acts/income-tax-acts/ban"
+python pdf_downloader.py "https://nbr.gov.bd/regulations/acts/finance-acts/ban"
 timeout /t 2 /nobreak >nul
 
-echo [2/18] Downloading VAT Acts...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/acts/vat-acts/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [2/18] Downloading VAT Acts...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/acts/vat-acts/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [3/18] Downloading Customs Acts...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/acts/customs-acts/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [3/18] Downloading Customs Acts...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/acts/customs-acts/ban"
+@REM timeout /t 2 /nobreak >nul
 
-REM Rules (বিধিমালা)
-echo [4/18] Downloading VAT Rules...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/vat-rules/ban"
-timeout /t 2 /nobreak >nul
+@REM REM Rules (বিধিমালা)
+@REM echo [4/18] Downloading VAT Rules...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/vat-rules/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [5/18] Downloading Income Tax Rules...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/income-tax-rules/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [5/18] Downloading Income Tax Rules...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/income-tax-rules/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [6/18] Downloading Customs Rules...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/customs-rules/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [6/18] Downloading Customs Rules...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/customs-rules/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [7/18] Downloading Excise Rules...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/excise-rules/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [7/18] Downloading Excise Rules...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/excise-rules/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [8/18] Downloading Other Relevant Rules...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/other-relevant-rules/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [8/18] Downloading Other Relevant Rules...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/rules/other-relevant-rules/ban"
+@REM timeout /t 2 /nobreak >nul
 
-REM SROs (এসআরও)
-echo [9/18] Downloading VAT SROs...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/vat-sros/ban"
-timeout /t 2 /nobreak >nul
+@REM REM SROs (এসআরও)
+@REM echo [9/18] Downloading VAT SROs...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/vat-sros/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [10/18] Downloading Income Tax SROs...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/income-tax-sros/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [10/18] Downloading Income Tax SROs...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/income-tax-sros/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [11/18] Downloading Customs SROs...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/customs-sros/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [11/18] Downloading Customs SROs...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/customs-sros/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [12/18] Downloading Excise SROs...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/excise-sros/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [12/18] Downloading Excise SROs...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/excise-sros/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [13/18] Downloading Other Relevant SROs...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/other-relevant-sros/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [13/18] Downloading Other Relevant SROs...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/sros/other-relevant-sros/ban"
+@REM timeout /t 2 /nobreak >nul
 
-REM General Orders (সাধারণ আদেশ)
-echo [14/18] Downloading VAT General Orders...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/vat-gos/ban"
-timeout /t 2 /nobreak >nul
+@REM REM General Orders (সাধারণ আদেশ)
+@REM echo [14/18] Downloading VAT General Orders...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/vat-gos/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [15/18] Downloading Income Tax General Orders...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/income-tax-gos/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [15/18] Downloading Income Tax General Orders...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/income-tax-gos/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [16/18] Downloading Customs General Orders...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/customs-gos/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [16/18] Downloading Customs General Orders...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/customs-gos/ban"
+@REM timeout /t 2 /nobreak >nul
 
-echo [17/18] Downloading Excise Orders...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/excise-gos/ban"
-timeout /t 2 /nobreak >nul
+@REM echo [17/18] Downloading Excise Orders...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/gos/excise-gos/ban"
+@REM timeout /t 2 /nobreak >nul
 
-REM Policy (নীতিমালা)
-echo [18/18] Downloading Policy Documents...
-set /a count+=1
-python pdf_downloader.py "https://nbr.gov.bd/regulations/policy/ban"
-timeout /t 2 /nobreak >nul
+@REM REM Policy (নীতিমালা)
+@REM echo [18/18] Downloading Policy Documents...
+@REM set /a count+=1
+@REM python pdf_downloader.py "https://nbr.gov.bd/regulations/policy/ban"
+@REM timeout /t 2 /nobreak >nul
 
 echo.
 echo ========================================

@@ -1,0 +1,154 @@
+--- PAGE 1 ---
+I
+Customs Act, 1969 (Act No. IV of 1969) এর সংশোধন
+
+-| Act No. IV of 1969 এর section 119B এর সন্নিবেশ।- Customs Act,
+1969 (Act No. IV of 1969), অতঃপর উক্ত Act বলিয়া উল্লিখিত, এর section 119A
+এর পর নিম্নরুপ নৃতন section 119B সন্নিবেশিত হইবে, যথা:-
+
+“119B. Performing the operation of bonded warehouse
+electronically.- Notwithstanding anything contained in any other
+provisions of this Act or in any other law for the time being in force, the
+Board may, by notification in the official Gazette, declare that the
+operation of any bonded warehouse may be performed electronically
+subject to such conditions, restrictions and procedures as specified in that
+notification.” |
+
+--| Act No. IV of 1969 এর section 156 এর সংশোধন।- উক্ত Act এর
+section 156 এর sub-section (1) এর Table এর column 1 এ বর্ণিত-
+
+(ক) ক্রমিক নম্বর 10, 24, 25, 26, 27, 28, 29, 32, 33, 34, 40, 43, 43A,
+44,45, 49, 54, 56, 59, 61, 63, 64, 65, 71 ও 75 এ বর্ণিত Offences এর বিপরীতে
+column 2 এ বর্ণিত Penalties এ উল্লিখিত “fifty thousand Taka” শব্দগুলির পরিবতে
+“two lakh Taka” শব্দগুলি প্রতিস্থাপিত হইবে;
+
+(2) ক্রমিক 47A এর পরিবর্তে নিম্নবর্ণিত ক্রমিক 47 প্রতিস্থাপিত হইবে, যথা:-
+
+“ATA. If any person-
+(3) without lawful | such person shall be liable to a 79B
+authority gains access to, | penalty not exceeding twice the
+or attempts to gain | amount of duty taxes involved or
+access to, any Customs | five lakh Taka whichever 19
+computerised entry | higher; and on conviction before a
+processing system; or Magistrate, shall be further liable
+to imprisonment for a term not
+exceeding two years, or to a fine
+not exceeding five lakh Taka, or
+to both.
+
+
+--- PAGE 2 ---
+2
+(ii) without lawful | such person shall be liable to a | 79B &
+authority gains access to, | penalty not exceeding five lakh | 204B
+or attempts to gain | Taka; and on conviction before a
+access to, any Customs | Magistrate, shall be further liable
+computerised entry | to imprisonment for a term not
+processing system or | exceeding two years, or to a fine
+any trade or passenger | not exceeding five lakh Taka, or
+information received for | to both.
+the purpose of Customs
+clearance, uses or
+discloses information
+obtained from such
+system or arrangement
+for a purpose that is not
+authorized; or
+(iii) having lawful | such person shall be liable to a | 79B &
+access to any Customs | penalty not exceeding two lakh | 204B
+computerised entry | Taka; and on conviction before a
+processing system or | Magistrate, shall be further liable
+any trade or passenger | to imprisonment for a term not
+information received for | exceeding two years, or to fine
+the purpose of Customs | not exceeding five lakh Taka, or
+clearance, uses or | to both.
+discloses information
+obtained from such
+system or arrangement
+for a purpose that is not
+authorized; or
+(iv) who is not | such person shall be liable to a | 79B &
+authorised to 009 so, | penalty not exceeding two lakh | 204B” |
+receives information | Taka; and on conviction before a
+obtained from any | Magistrate, shall be further liable
+Customs computerised | to imprisonment for a term not
+entry processing system | exceeding two years, or to fine
+or from any other means | not exceeding five lakh Taka, or
+for the purpose of | to both.
+Customs clearance, and
+uses, discloses,
+publishes or authorizes
+dissemination of such
+information,
+
+
+--- PAGE 3 ---
+3
+
+--| Act No. IV of 1969 এর section 20473 এর সন্নিবেশ।- উক্ত Act এর
+section 204A এর পর নিক্নরূপ নৃতন section 204B সন্নিবেশিত হইবে, যথা:
+
+“204B. Confidentiality and arrangement for exchange of
+information facilitating trade.- (1) All trade and passenger information
+gathered by Customs for clearance purpose shall be confidential and shall
+not be used except for —
+
+(a) statistical purposes by the Board and other Government
+
+organizations; or
+
+(b) purposes of comparison and evidence by the appropriate
+
+officer of Customs as against other imports and exports; or
+
+(c) production as evidence before a legal proceeding or an
+
+organization explicitly so authorized by the Government; or
+
+(d) disclosure of information subject to the condition and
+
+limitation under the Right to Information Act, 2009 (Act No.
+XX of 2009); or
+
+(e) any other purposes to be determined by the Board.
+
+(2) The Government may enter into any bilateral, regional,
+multilateral agreement or convention or any other arrangement to
+exchange of information for trade facilitation, effective risk analysis,
+verification of compliance and prevention, combating and investigation of
+offences under the provisions of this Act.
+
+(3) The information exchanged under sub-section (2), subject to
+the limitation and condition provided under the agreement or convention
+or any such arrangement, may be used as evidence in investigations and
+proceedings under this Act or corresponding law of another country by
+which such arrangement exists.
+
+(4) The Board shall, by notification in the official gazette, specify
+the procedure and conditions subject to which such exchange shall be
+
+
+--- PAGE 4 ---
+4
+
+made and designation of the person through whom such information shall
+be exchanged.
+
+(5) Any disclosure, publishing or dissemination of information
+except as provided above without explicit permission shall be an
+offence.” |!
+
+--| Act No. IV of 1969 এর FIRST SCHEDULE এর প্রতিস্থাপন।- উক্ত
+Act এর FIRST SCHEDULE এর পরিবর্তে এই আইনের তফসিল-...... এ উল্লিখিত
+“FIRST SCHEDULE” (পৃথকভাবে মুদ্রিত) প্রতিস্থাপিত হইবে।
+
+
+--- PAGE 5 ---
+5
+[ অর্থ আইন, ২০২২ এর ধারা ..... দ্রষ্টব্য ]
+[Customs Act, 1969 (Act No. IV of 1969) Gi
+FIRST SCHEDULE এর প্রতিস্থাপন]
+FIRST SCHEDULE
+[ Bangladesh Customs Tariff ]
+(See Section 18)
+
