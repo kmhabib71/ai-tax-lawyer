@@ -1,38 +1,141 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { documentProcessor } from '@/lib/ai/document-processor'
+import { DocumentProcessor } from '@/lib/ai/document-pipeline'
+import { createClient } from '@supabase/supabase-js'
+import path from 'path'
+import fs from 'fs'
+
+// Initialize Supabase client
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.SUPABASE_SERVICE_ROLE_KEY!
+)
 
 export async function POST(request: NextRequest) {
   try {
-    const formData = await request.formData()
-    const action = formData.get('action') as string
-    
-    switch (action) {
-      case 'upload_file':
-        return await handleFileUpload(formData)
-        
-      case 'process_text':
-        return await handleTextProcessing(formData)
-        
-      case 'batch_process':
-        return await handleBatchProcessing(formData)
-        
-      default:
+    const body = await request.json()
+    const { action, filePath, batchProcess } = body
+
+    const processor = new DocumentProcessor()
+
+    if (action === 'process_single' && filePath) {
+      // Process single file from Act-files directory
+      const result = await processor.processDocument(filePath)
+      
+      return NextResponse.json({
+        success: result.success,
+        result: result,
+        message: result.success 
+          ? `Successfully processed ${result.chunks_processed} chunks`
+          : `Failed to process: ${result.errors?.join(', ')}`
+      })
+
+    } else if (action === 'process_act_files' || batchProcess) {
+      // Process all files in Act-files directory
+      const actFilesPath = path.join(process.cwd(), 'Act-files')
+      
+      if (!fs.existsSync(actFilesPath)) {
         return NextResponse.json({
-          error: 'Invalid action',
-          supportedActions: ['upload_file', 'process_text', 'batch_process']
+          success: false,
+          error: 'Act-files directory not found'
         }, { status: 400 })
+      }
+
+      const files = fs.readdirSync(actFilesPath)
+        .filter(file => file.toLowerCase().endsWith('.pdf'))
+        .map(file => path.join(actFilesPath, file))
+
+      const results = []
+      let totalChunks = 0
+      let successCount = 0
+
+      for (const filePath of files) {
+        console.log(`Processing: ${path.basename(filePath)}`)
+        
+        try {
+          const result = await processor.processDocument(filePath)
+          results.push({
+            file: path.basename(filePath),
+            success: result.success,
+            chunks: result.chunks_processed,
+            time: result.processing_time,
+            errors: result.errors
+          })
+
+          if (result.success) {
+            successCount++
+            totalChunks += result.chunks_processed
+          }
+
+          // Small delay between files to avoid overwhelming the API
+          await new Promise(resolve => setTimeout(resolve, 1000))
+
+        } catch (error) {
+          results.push({
+            file: path.basename(filePath),
+            success: false,
+            chunks: 0,
+            time: 0,
+            errors: [error.message]
+          })
+        }
+      }
+
+      return NextResponse.json({
+        success: true,
+        results: results,
+        summary: {
+          total_files: files.length,
+          successful_files: successCount,
+          failed_files: files.length - successCount,
+          total_chunks: totalChunks
+        }
+      })
+
+    } else if (action === 'upload_file') {
+      // Handle file upload (legacy support)
+      const formData = await request.formData()
+      return await handleFileUpload(formData)
+        
+    } else if (action === 'process_text') {
+      // Handle text processing (legacy support)
+      const formData = await request.formData()
+      return await handleTextProcessing(formData)
+        
+    } else if (action === 'status') {
+      // Get processing status from database
+      const { data, error } = await supabase
+        .from('document_processing_log')
+        .select('*')
+        .order('created_at', { ascending: false })
+        .limit(20)
+
+      if (error) {
+        return NextResponse.json({
+          success: false,
+          error: error.message
+        }, { status: 500 })
+      }
+
+      return NextResponse.json({
+        success: true,
+        logs: data
+      })
+
+    } else {
+      return NextResponse.json({
+        success: false,
+        error: 'Invalid action or missing parameters',
+        supportedActions: ['process_single', 'process_act_files', 'upload_file', 'process_text', 'status']
+      }, { status: 400 })
     }
-    
+
   } catch (error) {
     console.error('Document processing API error:', error)
     
-    return NextResponse.json(
-      { 
-        error: 'Internal server error',
-        message: 'Failed to process document'
-      },
-      { status: 500 }
-    )
+    return NextResponse.json({
+      success: false,
+      error: error.message
+    }, { status: 500 })
   }
 }
 
@@ -232,27 +335,147 @@ async function handleBatchProcessing(formData: FormData) {
   })
 }
 
-export async function GET() {
-  return NextResponse.json({
-    message: 'AI Tax Lawyer - Document Processing API',
-    status: 'operational',
-    version: '1.0.0',
-    supportedFormats: ['pdf', 'docx', 'txt'],
-    supportedDocumentTypes: ['nbr_rule', 'sro', 'ordinance', 'circular', 'gazette'],
-    features: [
-      'File upload and text extraction',
-      'Multi-language support (English/Bengali)',
-      'Automatic keyword extraction',
-      'Intelligent text chunking',
-      'Vector embedding generation',
-      'Batch processing support'
-    ],
-    endpoints: {
-      'POST /api/process-documents': {
-        'action=upload_file': 'Process uploaded file (PDF, DOCX, TXT)',
-        'action=process_text': 'Process raw text content',
-        'action=batch_process': 'Process multiple files at once'
+export async function GET(req: NextRequest) {
+  try {
+    const { searchParams } = new URL(req.url)
+    const action = searchParams.get('action')
+
+    if (action === 'list_files') {
+      // List available PDF files in Act-files directory
+      const actFilesPath = path.join(process.cwd(), 'Act-files')
+      
+      if (!fs.existsSync(actFilesPath)) {
+        return NextResponse.json({
+          success: false,
+          error: 'Act-files directory not found'
+        }, { status: 400 })
       }
+
+      const files = fs.readdirSync(actFilesPath)
+        .filter(file => file.toLowerCase().endsWith('.pdf'))
+        .map(file => {
+          const filePath = path.join(actFilesPath, file)
+          const stats = fs.statSync(filePath)
+          return {
+            name: file,
+            path: filePath,
+            size: stats.size,
+            sizeKB: Math.round(stats.size / 1024),
+            modified: stats.mtime,
+            language: file.includes('bangla') || file.includes('বাংলা') ? 'Bengali' : 
+                     file.includes('english') ? 'English' : 'Unknown'
+          }
+        })
+
+      return NextResponse.json({
+        success: true,
+        files: files,
+        total: files.length
+      })
+
+    } else if (action === 'db_status') {
+      // Check database status and processing logs
+      try {
+        const { count: chunkCount, error: chunksError } = await supabase
+          .from('document_chunks')
+          .select('*', { count: 'exact', head: true })
+
+        const { data: logs, error: logsError } = await supabase
+          .from('document_processing_log')
+          .select('processing_status')
+
+        const statusCounts = logs?.reduce((acc, log) => {
+          acc[log.processing_status] = (acc[log.processing_status] || 0) + 1
+          return acc
+        }, {} as Record<string, number>) || {}
+
+        return NextResponse.json({
+          success: true,
+          database_status: {
+            total_chunks: chunksError ? 0 : chunkCount || 0,
+            processing_logs: statusCounts,
+            tables_exist: !chunksError && !logsError
+          }
+        })
+      } catch (error) {
+        return NextResponse.json({
+          success: true,
+          database_status: {
+            total_chunks: 0,
+            processing_logs: {},
+            tables_exist: false,
+            note: 'Run schema SQL to create tables'
+          }
+        })
+      }
+
+    } else if (action === 'recent_logs') {
+      // Get recent processing logs
+      const { data, error } = await supabase
+        .from('document_processing_log')
+        .select('*')
+        .order('created_at', { ascending: false })
+        .limit(10)
+
+      if (error) {
+        return NextResponse.json({
+          success: false,
+          error: error.message
+        }, { status: 500 })
+      }
+
+      return NextResponse.json({
+        success: true,
+        logs: data
+      })
+
+    } else {
+      // Default API info
+      return NextResponse.json({
+        message: 'AI Tax Lawyer Bangladesh - Enhanced Document Processing API',
+        status: 'operational',
+        version: '2.0.0',
+        features: [
+          'Bengali, English, and Banglish support',
+          'Advanced OCR with PDF text extraction',
+          'Intelligent section-aware chunking',
+          'OpenAI embeddings with vector search',
+          'Multilingual keyword extraction',
+          'Fuzzy text matching for Bengali',
+          'Hybrid semantic + keyword search',
+          'Batch processing of Act-files',
+          'Real-time processing status',
+          'Comprehensive analytics logging'
+        ],
+        supportedFormats: ['pdf'],
+        supportedDocumentTypes: ['finance_act', 'income_tax', 'vat_act', 'sro', 'circular'],
+        endpoints: {
+          'POST /api/process-documents': {
+            'action=process_single': 'Process single PDF file',
+            'action=process_act_files': 'Process all files in Act-files directory',
+            'action=status': 'Get processing status and logs',
+            'action=upload_file': 'Legacy file upload support',
+            'action=process_text': 'Legacy text processing support'
+          },
+          'GET /api/process-documents': {
+            'action=list_files': 'List available PDF files',
+            'action=db_status': 'Check database status',
+            'action=recent_logs': 'Get recent processing logs',
+            'default': 'API information and status'
+          }
+        },
+        act_files_found: fs.existsSync(path.join(process.cwd(), 'Act-files')) 
+          ? fs.readdirSync(path.join(process.cwd(), 'Act-files')).filter(f => f.endsWith('.pdf')).length
+          : 0
+      })
     }
-  })
+
+  } catch (error) {
+    console.error('Document processing API GET error:', error)
+    
+    return NextResponse.json({
+      success: false,
+      error: error.message
+    }, { status: 500 })
+  }
 }

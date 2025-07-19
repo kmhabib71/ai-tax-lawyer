@@ -1,0 +1,24 @@
+{
+  "filename": "vat-act-english.pdf",
+  "fileSize": 372960,
+  "pages": 76,
+  "totalCharacters": 187013,
+  "bengaliCharacters": 0,
+  "englishCharacters": 1,
+  "language": "English",
+  "bengaliPercentage": 0,
+  "bengaliSections": 0,
+  "englishSections": 51,
+  "textQuality": "good",
+  "sampleText": "The Value Added Tax and Supplementary Duty Act, 2012 [Act No. 47 of 2012] (Unofficial English Translation) An Act to expand the areas of imposing value added tax, supplementary duty a",
+  "extractedSections": {
+    "bengali": [],
+    "english": [
+      "section 26",
+      "section 26",
+      "section 4",
+      "section 31",
+      "section 196"
+    ]
+  }
+}

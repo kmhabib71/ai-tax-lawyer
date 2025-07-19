@@ -7,7 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "process-docs": "node process-full-documents.js",
+    "process-docs-ocr": "node process-documents-ocr.js",
+    "test-bengali": "node fix-bengali-extraction.js",
+    "test-ai": "node test-ai-system.js",
+    "test-vector": "node test-vector-db.js",
+    "validate-milestone": "node validate-milestone-7.js"
   },
   "dependencies": {
     "@next-auth/mongodb-adapter": "^1.1.3",
