@@ -29,7 +29,8 @@
       "Bash(cat:*)",
       "Bash(echo:*)",
       "Bash(python:*)",
-      "Bash(node:*)"
+      "Bash(node:*)",
+      "Bash(npm run setup-db:*)"
     ],
     "deny": []
   }

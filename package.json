@@ -13,6 +13,10 @@
     "test-bengali": "node fix-bengali-extraction.js",
     "test-ai": "node test-ai-system.js",
     "test-vector": "node test-vector-db.js",
+    "setup-db": "node setup-supabase-schema.js",
+    "test-finance-rag": "node test-finance-act-rag.js",
+    "test-finance-simple": "node test-finance-act-simple.js",
+    "analyze-file": "node analyze-large-file.js",
     "validate-milestone": "node validate-milestone-7.js"
   },
   "dependencies": {

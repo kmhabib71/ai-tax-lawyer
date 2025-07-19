@@ -1,0 +1,59 @@
+{
+  "test_date": "2025-07-19T09:08:45.543Z",
+  "processing_time_ms": 51728,
+  "embedding_results": {
+    "total_chunks": 38,
+    "successful": 38,
+    "failed": 0,
+    "success_rate": 100
+  },
+  "query_results": [
+    {
+      "query": "মূল্য সংযোজন কর কি?",
+      "type": "definition",
+      "language": "bn",
+      "results_found": 2,
+      "top_similarity": 0.32692420887420875,
+      "success": true
+    },
+    {
+      "query": "আয়কর হার কত?",
+      "type": "rate_inquiry",
+      "language": "bn",
+      "results_found": 2,
+      "top_similarity": 0.41191220104349885,
+      "success": true
+    },
+    {
+      "query": "অর্থ আইন ২০২৫ এর ধারা ২৭ কি বলে?",
+      "type": "section_specific",
+      "language": "bn",
+      "results_found": 2,
+      "top_similarity": 0.42499174654281646,
+      "success": true
+    },
+    {
+      "query": "What is VAT rate in Bangladesh?",
+      "type": "rate_inquiry",
+      "language": "en",
+      "results_found": 2,
+      "top_similarity": 0.40653788627449244,
+      "success": true
+    },
+    {
+      "query": "Finance Act 2025 changes",
+      "type": "general_inquiry",
+      "language": "en",
+      "results_found": 2,
+      "top_similarity": 0.2583076884884454,
+      "success": false
+    }
+  ],
+  "successful_queries": 4,
+  "total_queries": 5,
+  "query_success_rate": 80,
+  "supabase_working": false,
+  "overall_success": true,
+  "documents_processed": 38,
+  "avg_similarity": 0.3657347462446924
+}

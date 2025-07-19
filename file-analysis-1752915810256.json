@@ -1,0 +1,29 @@
+{
+  "file_path": "ocr-processed-finance-act-2025-bangla.json",
+  "analysis_date": "2025-07-19T09:03:30.230Z",
+  "file_stats": {
+    "size_bytes": 944492,
+    "size_kb": 922,
+    "size_mb": 0.9,
+    "modified": "2025-07-19T08:38:53.149Z"
+  },
+  "structure_analysis": {
+    "appears_to_be_json": true,
+    "has_chunks_array": false,
+    "has_embeddings": false,
+    "has_metadata": false,
+    "bengali_detected": true,
+    "english_detected": true
+  },
+  "chunk_analysis": {
+    "total_chunks": 38,
+    "document_type": "finance_act",
+    "extraction_method": "OCR",
+    "language": "bn",
+    "total_characters": 169430,
+    "bengali_characters": 110159
+  },
+  "recommendations": [
+    "No embeddings detected - needs embedding generation"
+  ]
+}

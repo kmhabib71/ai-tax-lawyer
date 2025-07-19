@@ -1,0 +1,303 @@
+{
+  "test_date": "2025-07-19T08:58:52.439Z",
+  "processing_time_ms": 66595,
+  "embedding_results": {
+    "total_chunks": 38,
+    "successful": 0,
+    "failed": 38,
+    "success_rate": 0,
+    "results": [
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_0",
+        "chunk_index": 0,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_1",
+        "chunk_index": 1,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_2",
+        "chunk_index": 2,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_3",
+        "chunk_index": 3,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_4",
+        "chunk_index": 4,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_5",
+        "chunk_index": 5,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_6",
+        "chunk_index": 6,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_7",
+        "chunk_index": 7,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_8",
+        "chunk_index": 8,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_9",
+        "chunk_index": 9,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_10",
+        "chunk_index": 10,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_11",
+        "chunk_index": 11,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_12",
+        "chunk_index": 12,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_13",
+        "chunk_index": 13,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_14",
+        "chunk_index": 14,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_15",
+        "chunk_index": 15,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_16",
+        "chunk_index": 16,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_17",
+        "chunk_index": 17,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_18",
+        "chunk_index": 18,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_19",
+        "chunk_index": 19,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_20",
+        "chunk_index": 20,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_21",
+        "chunk_index": 21,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_22",
+        "chunk_index": 22,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_23",
+        "chunk_index": 23,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_24",
+        "chunk_index": 24,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_25",
+        "chunk_index": 25,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_26",
+        "chunk_index": 26,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_27",
+        "chunk_index": 27,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_28",
+        "chunk_index": 28,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_29",
+        "chunk_index": 29,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_30",
+        "chunk_index": 30,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_31",
+        "chunk_index": 31,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_32",
+        "chunk_index": 32,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_33",
+        "chunk_index": 33,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_34",
+        "chunk_index": 34,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_35",
+        "chunk_index": 35,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_36",
+        "chunk_index": 36,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      },
+      {
+        "chunk_id": "doc_1752914333033_oo0wgn7v1_chunk_37",
+        "chunk_index": 37,
+        "status": "error",
+        "error": "Could not find the 'embedding' column of 'tax_documents' in the schema cache"
+      }
+    ]
+  },
+  "database_validation": {
+    "total_documents": 0,
+    "documents_with_embeddings": 0,
+    "database_healthy": false,
+    "error": "invalid input syntax for type json"
+  },
+  "query_test_results": [
+    {
+      "query": "মূল্য সংযোজন কর কি?",
+      "type": "definition",
+      "language": "bn",
+      "results_found": 0,
+      "top_similarity": 0,
+      "success": false,
+      "expected_context": "VAT definition"
+    },
+    {
+      "query": "আয়কর হার কত?",
+      "type": "rate_inquiry",
+      "language": "bn",
+      "results_found": 0,
+      "top_similarity": 0,
+      "success": false,
+      "expected_context": "tax rates"
+    },
+    {
+      "query": "অর্থ আইন ২০২৫ এর ধারা ২৭ কি বলে?",
+      "type": "section_specific",
+      "language": "bn",
+      "results_found": 0,
+      "top_similarity": 0,
+      "success": false,
+      "expected_context": "section 27"
+    },
+    {
+      "query": "What is VAT rate in Bangladesh?",
+      "type": "rate_inquiry",
+      "language": "en",
+      "results_found": 0,
+      "top_similarity": 0,
+      "success": false,
+      "expected_context": "VAT rate"
+    },
+    {
+      "query": "Finance Act 2025 changes",
+      "type": "general_inquiry",
+      "language": "en",
+      "results_found": 0,
+      "top_similarity": 0,
+      "success": false,
+      "expected_context": "finance act"
+    },
+    {
+      "query": "VAT কিভাবে calculate করব?",
+      "type": "calculation",
+      "language": "mixed",
+      "results_found": 0,
+      "top_similarity": 0,
+      "success": false,
+      "expected_context": "VAT calculation"
+    }
+  ],
+  "overall_success": false
+}
