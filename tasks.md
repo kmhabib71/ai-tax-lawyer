@@ -15,6 +15,9 @@ This document outlines the complete development roadmap for AI Tax Lawyer Bangla
 
 **Goal**: Build robust foundation supporting all user segments
 
+**File Store Procedure for Later**: 
+*For processing additional documents, use the validated procedure: 1) OCR Processing (`npm run process-docs-ocr`), 2) Embedding & Storage (`npm run store-supabase` - modify document type), 3) Validation Testing (`npm run test-finance-simple`). See `DOCUMENT_PROCESSING_PROCEDURE.md` for complete details. Finance Act 2025 successfully processed and validated.*
+
 ### 1.1 Enhanced Knowledge Pipeline
 
 | Task  | Description                                      | Owner   | Status | Priority |

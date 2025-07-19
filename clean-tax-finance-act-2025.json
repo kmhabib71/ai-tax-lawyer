@@ -1,0 +1,1731 @@
+{
+  "document_info": {
+    "filename": "finance-act-2025-bangla.pdf",
+    "document_type": "finance_act",
+    "extraction_method": "chrome_cleaned",
+    "processing_date": "2025-07-19T15:26:59.385Z",
+    "language": "bn",
+    "quality_score": 90
+  },
+  "extraction_metadata": {
+    "method": "regex_based_extraction",
+    "extraction_date": "2025-07-19T15:30:00.000Z",
+    "original_characters": 325642,
+    "normalized_characters": 325689,
+    "records_extracted": 357,
+    "extraction_patterns": ["latin", "bengali"]
+  },
+  "tax_records": [
+    {
+      "HS_Code": "2106.90.10",
+      "Description": "সুগন্ধি দ্রব্যের মিশ্রণ ব্যতীত কোমল পানীয় প্রস্তুতে ব্যবহৃত সামগ্রী, আয়তনভিত্তিক এ্যালকোহল ক্ষমতা 0.5% এর উর্ধ্বে 350",
+      "Duty_%": 22.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.10.00",
+      "Description": "কোমল পানীয়",
+      "Duty_%": 100.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.90.0०",
+      "Description": "নন-এ্যালকোহলিক বিয়ার 500",
+      "Duty_%": 22.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2203.00.00",
+      "Description": "মল্ট হইতে প্রস্তুত বিয়ার 250 22.04 সকল এইচএস তাজা আঙ্গুরের মদ, ফর্টিফাইড মদসহ; (20.09 350 কোড হেডিংভুক্ত grape must ব্যতীত) 22.05 সকল এইচএস ভারমুথ এবং তাজা আঙ্গুরের তৈরি মদ 500 কোড",
+      "Duty_%": 22.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2206.00.00",
+      "Description": "অন্যান্য গাঁজানো (fermented) পানীয় (উদাহরণস্বরূপ সিডার, পেরী) 350 22.08 সকল এইচএস কোড Undeenatured ethyl alcohol of an alcoholic strengh.by volume of less than 80% volume, spirits, liquors and other spirituous beverages 00 24.01 সকল এইচএস কোড Unmanufactured Tobacco, Tobacco refuse 50",
+      "Duty_%": 24.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.10.00",
+      "Description": "তামাকের তৈরি সিগার, চুরুট ও সিগারিলো",
+      "Duty_%": 350.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.90.00",
+      "Description": "হাতে বা অযান্ত্রিক পদ্ধতিতে তৈরি বিড়ি এবং অন্যান্য 3oo 24.03 সকল এইচএস কোড অন্যান্য প্রস্তুতকৃত তামাক এবং সমজাতীয় পদার্থ \"homogenised\" বা \"reconstituted\" নির্যাস বা সুগন্ধি 100",
+      "Duty_%": 25.15,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.11.00",
+      "Description": "মার্বেল এবং ট্রেভারটিন (আপাতঃ আপেক্ষিক পুরুত্ব 2.5% বা তার বেশি), ক্রুড বা স্থূলভাবে কর্তিত",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.12.00",
+      "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.11.00",
+      "Description": "গ্রানাইট (স্থূলভাবে কর্তিত)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.12.00",
+      "Description": "গ্রানাইটঃ করাত দ্বারা বা অন্য প্রকারে বক বা চতুর্ভুজ বা বর্গাকার স্ল্যাব হিসাবে কর্তিত",
+      "Duty_%": 25.23,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2523.21.00",
+      "Description": "পোর্টল্যান্ড সিমেন্টঃ সাদা, কৃত্রিমভাবে রঙ্গীন করা হউক বা 20 না হউক 2523.29.00 অন্যান্য পোর্টল্যান্ড সিমেন্ট 20",
+      "Duty_%": 27.1,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.12.39",
+      "Description": "অন্যান্য হালকা তৈল ও প্রিপারেশন: অন্যান্য",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.12.50",
+      "Description": "অন্যন্য মধ্যম তৈল ও প্রিপারেশন",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.12.69",
+      "Description": "গ্যাস তৈল: অন্যান্য",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.19.33",
+      "Description": "আংশিক পরিশোধিত পেট্রেলিয়াম, টডসহ",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.19.34",
+      "Description": "গ্রীজ (খনিজ)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.19.39",
+      "Description": "অন্যান্য ভারী তৈল ও প্রিপারেশন: (ট্রান্সফরমার অয়েল ও হেভি নরম্যাল প্যারাফিন ব্যতীত 20",
+      "Duty_%": 27.11,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2711.21.00",
+      "Description": "প্রাকৃতিক গ্যাস, গ্যাসীয় অবস্থায় 100 ט",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.90.10",
+      "Description": "যন্ত্রাংশ (এয়ার কন্ডিশনার প্রস্তুতকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.90.90",
+      "Description": "যন্ত্রাংশ (অন্যান্য আমদানিকারক কর্তৃক আমদানিকৃত)",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.13",
+      "Description": "8704.31.13 সিলিন্ডার ক্যাপাসিটি 1001 সিসি হইতে 1500 সিসি পর্যন্ত 00 b908.",
+      "Duty_%": 23.38,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.31.14",
+      "Description": "সিলিন্ডার ক্যাপাসিটি 1501 সিসি হইতে 2000 সিসি পর্যন্ত",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.15",
+      "Description": "8704.31.15 সিলিন্ডার ক্যাপাসিটি 2001 সিসি হইতে 2750 সিসি পর্যন্ত",
+      "Duty_%": 300.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.16",
+      "Description": "8704.31.16 সিলিন্ডার ক্যাপাসিটি 2751 সিসি হইতে 4000 সিসি পর্যন্ত",
+      "Duty_%": 350.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.17",
+      "Description": "সিলিন্ডার ক্যাপাসিটি 4000 সিসি এর ঊর্ধ্বে",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8706.00.31",
+      "Description": "দুই-স্ট্রোকবিশিষ্ট অটোরিকসা বা থ্রি হুইলারের ইঞ্জিনযুক্ত চেসিস",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.91",
+      "Description": "8711.10.21 চার-স্ট্রোকবিশিষ্ট বিযুক্ত মোটরসাইকেল",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.92",
+      "Description": "5933.30.20 দুই-স্ট্রোকবিশিষ্ট মোটরসাইকেল (সম্পূর্ণ তৈরি বা 250 6-952.50. বিযুক্ত) 5०९९९8",
+      "Duty_%": 7.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.13.10",
+      "Description": "0302.13.90 Pacific salmon",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.14.10",
+      "Description": "0302.14.90 Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.19.90",
+      "Description": "Other fish",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.32.90",
+      "Description": "Yellowfin tunas",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.34.10",
+      "Description": "0302.34.90 Bigeye tunas",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.35.10",
+      "Description": "0302.35.90 Atlantic and Pacific bluefin tunas",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.36.10",
+      "Description": "Southem bluefin tunas so 0302.",
+      "Duty_%": 36.9,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0302.99.10",
+      "Description": "0302.99.90 heads, tails, maws and other edible fish offal 500",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0303.12.10",
+      "Description": "0303.12.90 Other Pacific salmon",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0000.50.20",
+      "Description": "Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0000.94.50",
+      "Description": "0000.5. వం Other",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0303.42.10",
+      "Description": "0303.42.90 Yellowfin tunas",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0303.44.10",
+      "Description": "0000.88.20 Bigeye tunas",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0303.45.10",
+      "Description": "0000.80.50 Atlantic and Pacific bluefin tunas so 0303.",
+      "Duty_%": 46.1,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0303.46.90",
+      "Description": "Southem bluefin tunas",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0304.81.90",
+      "Description": "Pacific salmon",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0008.49.30",
+      "Description": "0304.87.90",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0304.89.90",
+      "Description": "0304.89.10 Tunas (of the genus Thunnus), Skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis) 500 Other",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0305.59.90",
+      "Description": "অন্যান্য শুকনা মাছ (লবণাক্ত হউক বা না হউক), ধুমায়িত নয় (আড়াই কেজি পর্যন্ত মোড়ক বা টিনজাত ব্যতীত) 20",
+      "Duty_%": 0.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0306.16.00",
+      "Description": "0006.39.00 হিমায়িত চিংড়ি 20",
+      "Duty_%": 3.09,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0309.10.10",
+      "Description": "0005.50.50 মানুষের খাওয়ার উপযোগী মাছের টুকরা বা গুঁড়া 500 08.00 সকল এইচ,এস,কোড মাখন এবং অন্যান্য দুগ্ধজাত চর্বি ও তৈল; ডেইরী স্পেডস্ 20 70°40 সকল এইচ,এস,কোড Cheese and Curd 20 07.02 সকল এইচ,এস,কোড তাজা বা ঠান্ডা টমেটো 20",
+      "Duty_%": 7.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0706.10.10",
+      "Description": "Carrots And Turnips, Fresh Or Chilled, Wrapped/Canned upto 2.5 kg",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0801.21.10",
+      "Description": "0801.22.10 otos.0s.S",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0802.70.10",
+      "Description": "0802.99.91",
+      "Duty_%": 8.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0802.91.10",
+      "Description": "0802.92.10 Pine nuts",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0802.99.11",
+      "Description": "0802.99.12 তাজা বা শুকনা সুপারি, খোসা ছাড়ানো হউক বা না হউক",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0408.00.0",
+      "Description": "তাজা বা শুকনা আম",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0805.22.90",
+      "Description": "তাজা বা শুকনা কমলালেবু 30 তাজা বা শুকনা লেবুজাতীয় ফল",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0805.29.90",
+      "Description": "50'70 সকল এইচ, এস,কোড (0809.40.11, 0809.40.19, 0809.40.91, 0809.40.99 ব্যতীত) Apricots, cherries, peaches (including nectarines), fresh 30 08.10 সকল এইচ, এস,কোড অন্যান্য তাজা ফল 30",
+      "Duty_%": 5.05,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0901.21.10",
+      "Description": "0901.22.10 Coffee; coffee husks and skins; coffee substitutes containing coffee in any proportion (Wrapped or canned upto 2.5 kg) 20 050ఏ.ఎం.50",
+      "Duty_%": 2.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0902.30.00",
+      "Description": "Black tea (farmented) and partly farmented tea, in immediate packings of a content not exceeding 3 kg",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0502.80.00",
+      "Description": "Other black tea (farmented) and other partly farmented tea 20",
+      "Duty_%": 4.08,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0904.11.90",
+      "Description": "0508.52.00 গোলমরিচ, চূর্ণ বা দলানো হউক বা না হউক",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "0909.31.90",
+      "Description": "ood.62.50 জিরা 20 Dod. 2.201 15.13 SesO.S5.00 রিফাইন্ড নারিকেল তৈল ও ইহার অংশ বিশেষ, অন্যান্য 00",
+      "Duty_%": 39.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1702.30.10",
+      "Description": "Dextrose anhydrous/monohydrate BP/USP Pyrogen free imported under blocklist",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1702.30.20",
+      "Description": "Liquid glucose",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1702.30.90",
+      "Description": "Other glucose and glucose syrup",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1704.10.10",
+      "Description": "1704.90.10 Sugar confectionery (including white chocolate), not containing cocoa, put up for retail sale",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1704.10.90",
+      "Description": "1704.90.90 Sugar confectionery (including white chocolate), not containing cocoa, excluding put up for retail sale 80 18.06 কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য প্রিপারেশনঃ 1806.20.00 8 SBOb.O",
+      "Duty_%": 5.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1806.32.00",
+      "Description": "1806.90.00 কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য প্রিপারেশন (2 কেজির উর্ধ্বে ব্লক, স্লাব বা বার আকারে অথবা তরল, পেস্ট, গুঁড়া, দানাদার বা অন্যরূপে বাল্ক প্যাকিং এ) ফিনিস্ড চকলেট (ব্লক, স্লাব বা বার আকারে) অন্যান্য 80 20 Sa.or Sof 0.00 খুচরা মোড়কে শূন্য থেকে 1 বছরের শিশুদের ব্যবহারের জন্য খাদ্য সামগ্রী (হেডিং নং 04.01 থেকে 04.04 ভূক্ত পণ্যজাত)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1901.20.00",
+      "Description": "Mixes and dough's for the preparation of bakers' wares of heading 19.05 20 Shob. Do. Malt extract/food preparations Imported in bulk by VAT registered food processing industries 20 অন্যান্য খাদ্য সামগ্রী 20 19.02 সকল এইচ,এস,কোড Pasta, whether or not cooked or stuffed or otherwise prepared; couscous 20 5.08 সকল এইচ, এস,কোড Prepared foods obtained by the swelling or roasting of cereals or cereal products; all types of cereals 20",
+      "Duty_%": 35.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "1905.31.00",
+      "Description": "Sweet biscuits",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2105.00.00",
+      "Description": "Ice cream and other edible ice, whether or not containing coсоа 20",
+      "Duty_%": 21.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2106.90.10",
+      "Description": "সুগন্ধি দ্রব্যের মিশ্রণ ব্যতীত কোমল পানীয় প্রস্তুতে ব্যবহৃত সামগ্ৰী, আয়তন ভিত্তিক এ্যালকোহল ক্ষমতা 0.5% এর উর্ধ্বে",
+      "Duty_%": 350.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2106.90.49",
+      "Description": "Other Stabilizer for milk",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2106.90.50",
+      "Description": "Creamer in bulk imported by VAT registered milk foodstuffs manufacturers",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2106.90.60",
+      "Description": "Food supplement",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.10.00",
+      "Description": "Waters, including mineral waters and aerated waters containing added sugar of other sweetening matter or flavoured",
+      "Duty_%": 100.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.91.00",
+      "Description": "নন-এ্যালকোহলিক বিয়ার",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.99.00",
+      "Description": "অন্যান্য 100",
+      "Duty_%": 22.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2203.00.00",
+      "Description": "মল্ট হইতে প্রস্তুত বিয়ার 250 22.04 সকল এইচ,এস, কোড তাজা আঙ্গুরের মদ্য, ফটিফাইড মদ্যসহ; (20.09 হেডিংভুক্ত grape must ব্যতীত) 0 22.05 সকল এইচ, এস,কোড ভারমুথ এবং তাজা আঙ্গুরের তৈরি মদ্য, সুবাসিত",
+      "Duty_%": 22.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.10.00",
+      "Description": "তামাকের তৈরি সিগার, চুরুট ও সিগারিল্লো",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.20.00",
+      "Description": "তামাকের তৈরি সিগারেট",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.90.00",
+      "Description": "হাতে বা অযান্ত্রিক পদ্ধতিতে তৈরি বিড়ি এবং অন্যান্য SGo 24.03 সকল এইচ,এস,কোড অন্যান্য প্রস্তুতকৃত তামাক এবং সমজাতীয় পদার্থ; তামাকের \"homogenised\" বা \"reconstituted\" নির্জাস বা সুগন্ধি 150 24.04 সকল এইচ,এস,কোড Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body. SG",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2501.00.10",
+      "Description": "Pure sodium chloride BP/USP рyrogen free",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2501.00.20",
+      "Description": "Salt (other than pure sodium chloride) not in aqueous solution including salt boulder for crushing and salt in bulk",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2501.00.30",
+      "Description": "Rock salt, bhit lobon",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2501.00.91",
+      "Description": "Denatured salt (coloured)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2501.00.99",
+      "Description": "অন্যান্য লবণ 20",
+      "Duty_%": 25.15,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.11.00",
+      "Description": "মার্বেল এবং ট্রেভারটিন (আপাত: আপেক্ষিক পুরুত্ব 2.5% বা তার বেশী), ক্রুড বা স্কুলভাবে কর্তিত",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.12.00",
+      "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.20.00",
+      "Description": "Ecsussine and other calcareous monumental or building stone; alabaster 8",
+      "Duty_%": 25.16,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.11.00",
+      "Description": "গ্রানাইট (স্তুলভাবে কর্তিত)",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.12.00",
+      "Description": "গ্রানাইটঃ করাত দ্বারা বা অন্য প্রকারে ব্লক অথবা চতুর্ভুজ বা বর্গাকার স্লাব হিসাবে কর্তিত",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.90.10",
+      "Description": "বোল্ডার স্টোন 500",
+      "Duty_%": 25.17,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2517.10.90",
+      "Description": "Pebbles, gravel, broken or crushed stone (excl. imported by VAT registered ceramic products manufacturing industries)",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2517.49.00",
+      "Description": "Other Pebbles, gravel, broken or crushed stone 30",
+      "Duty_%": 25.21,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2521.00.91",
+      "Description": "Boulder Lime stone",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2523.21.00",
+      "Description": "পোর্টল্যান্ড সিমেন্টঃ সাদা, কৃত্রিমভাবে রঙ্গীন করা হউক বা না হউক",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2807.00.00",
+      "Description": "সালফিউরিক এসিড, ওলিয়াম 20",
+      "Duty_%": 28.33,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2833.11.00",
+      "Description": "Disodium sulphate",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2833.19.00",
+      "Description": "Sodium sulphates S0",
+      "Duty_%": 29.15,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2915.70.32",
+      "Description": "Sodium salt of palmitic acid (soap noodle) imported by other 20",
+      "Duty_%": 29.17,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2917.32.10",
+      "Description": "Dioctyl orthophthalates pharmaceutical grade imported under block list by VAT registered pharmaceutical industry",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2917.32.90",
+      "Description": "ডাইঅক্টাইল অর্থোথেলেটস (ডি ও পি)",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2917.33.00",
+      "Description": "Dinonyl or didecyl orthophthalates",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2917.34.00",
+      "Description": "Other esters of orthophthalic acid",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3208.10.10",
+      "Description": "Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3208.10.90",
+      "Description": "পলিয়েস্টার বেইজড অন্যান্য পেইন্টস, ভার্ণিশ",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3208.20.10",
+      "Description": "Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw 30 material for their product 3208.20.99 Other paints based on acrylic or vinyl polymers, in a non-aqueous medium",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3208.90.10",
+      "Description": "Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3208.90.90",
+      "Description": "অন্যান্য পেইন্টস, ভার্ণিশ এবং লেকার",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3209.10.10",
+      "Description": "Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product 30 Orod.so.20 এক্রেলিক ভিনাইল পলিমার বেইজড অন্যান্য পেইন্ট এন্ড ভার্ণিশ (এনামেল ও লেকারসহ)",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3209.90.10",
+      "Description": "Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product 30 ood Nం. ఎం অন্যান্য পেইন্টস, ভার্ণিশ এবং লেকার 00",
+      "Duty_%": 32.1,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3210.00.10",
+      "Description": "Paints and varnishes imported by Bangladesh Biman, flying club, concerned Government Department and VAT registered manufacturer as raw material for their product",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3210.00.20",
+      "Description": "Prepared water pigments of a kind used for finishing leather, for cleaning footwear in tablet form",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3210.00.90",
+      "Description": "অন্যান্য পেইন্ট, বার্ণিশ (এনামেল, লেকার ও ডিস্টেম্পারসহ) 30",
+      "Duty_%": 33.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3306.10.00",
+      "Description": "ডেনট্রিফিস",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3307.20.00",
+      "Description": "Personal deodorants and antiperspirants",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3307.90.00",
+      "Description": "অন্যান্য 30 08.03 সকল এইচ,এস,কোড সাবান এবং সাবান হিসাবে ব্যবহৃত সারফেস একটিভ সামগ্রী এবং সমজাতীয় পণ্য 60",
+      "Duty_%": 34.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3402.50.00",
+      "Description": "Preparations put up for retail sale",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3402.90.10",
+      "Description": "ডিটারজেন্ট 30",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3405.10.00",
+      "Description": "Polishes, creams and similar preparations for footwear or leather 20",
+      "Duty_%": 36.01,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3601.00.00",
+      "Description": "বিষ্ফোরক পাউডার 30",
+      "Duty_%": 36.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3602.00.00",
+      "Description": "তৈরি বিস্ফোরক, বিস্ফোরক পাউডার ব্যতীত 00 36.04 সকল এইচ, এস, কোড আতশবাজি সিগনালিং ফ্লেয়ার, রেইন রকেট, ফগ সিগনাল এবং অন্যান্য পাইরোটেকনিক পণ্য 30",
+      "Duty_%": 36.05,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3605.00.00",
+      "Description": "দিয়াশলাই; শিরনামা সংখ্যা 36.04 এর পাইরোটেকনিক পণ্য সামগ্রী ব্যতীত",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3808.91.21",
+      "Description": "Mosquito coil; aerosol; mosquito repellent 20",
+      "Duty_%": 38.24,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3824.99.20",
+      "Description": "Chlorinated parafin wax 500",
+      "Duty_%": 39.17,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3917.21.00",
+      "Description": "Tubes, pipes and hoses, rigid of polymers of ethylene",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3917.22.00",
+      "Description": "Tubes, pipes and hoses, rigid of polymers of propylene",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3917.29.99",
+      "Description": "Tubes, pipes and hoses, rigid of other plastics (excluding Silicone tubing for laboratory use; Hoses pipe for gas cylinder) 00 39.18 সকল এইচ, এস, কোড প্লাস্টিকের তৈরি ফ্লোর কাভারিং, ওয়াল অথবা সিলিং কাভারিং, সেলফ এডহেসিভ হউক বা না হউক (রোল অথবা টাইল আকারে) 20",
+      "Duty_%": 39.19,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3919.90.99",
+      "Description": "প্লাস্টিকের তৈরি সেলফ এডহেসিভ প্লেট, শীট, ফিল্ম, ফয়েল, টেপ, স্ট্রীপ এবং অন্যান্য ফ্ল্যাট আকৃতি (রোল আকারে) (মূসক নিবন্ধিত প্রতিষ্ঠান ব্যতীত) 500 39.20 39.21 প্লাস্টিকের প্লেট, শীট, ফিল্ম, ফয়েল, স্ট্রীপ (নন-সেলুলার, রিইনফোর্সড নহে, অন্য কোনো পদার্থ দ্বারা ল্যামিনেটেড, সাপোর্টেড বা অন্য কোনো পদার্থের সাথে অনুরূপ উপায়ে সমন্বিত): 3920.20.10 ছাপানো আকারে প্রোপাইলিন পলিমারের তৈরি (ঔষধ শিল্প কর্তৃক আমদানিকৃত ঔষধ প্রশাসনের প্রত্যয়নকৃত ব্লকলিস্টভূক্ত পণ্য ব্যতীত)",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3920.49.21",
+      "Description": "Printed PVC sheet Imported by VAT registered SIM card or Smart card manufacturing industry",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3920.49.29",
+      "Description": "প্রিন্টেড পিভিসি শীট",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3920.62.10",
+      "Description": "ছাপানো আকারে পলি ইথাইলিন টেরেফথেলেটের তৈরি",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3920.69.10",
+      "Description": "ছাপানো আকারে অন্যান্য পলিয়েস্টারের তৈরি so 3920.92.10 ছাপানো আকারে প্লাস্টিকের তৈরি পলিমাইডস",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3923.21.00",
+      "Description": "Sacks and bags (including cones) of polymers of ethylene other than plastics",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3923.29.90",
+      "Description": "Sacks and bags (including cones) of other plastics",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3923.30.20",
+      "Description": "3923.30.90 কার্বয়, বোতল, ফ্লাস্ক ও সমজাতীয় পণ্য (ঔষধের স্যাশে ও ইনহেলারের কন্টেইনার ব্যতীত)",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3923.40.90",
+      "Description": "Other Spools, caps, bobbins and similar supports",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3923.50.00",
+      "Description": "Stoppers, lids, caps and other closures",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3923.90.90",
+      "Description": "প্লাস্টিক প্যালেটস 80",
+      "Duty_%": 39.24,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3924.10.00",
+      "Description": "প্লাস্টিকের টেবিলওয়্যার বা কিচেনওয়্যার",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3924.90.10",
+      "Description": "Feeding Bottles",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3924.90.90",
+      "Description": "অন্যান্য 80",
+      "Duty_%": 39.25,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3925.20.00",
+      "Description": "প্লাস্টিকের তৈরি দরজা, জানালা ও উহাদের ফ্রেম এবং দরজার threshold",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3925.30.00",
+      "Description": "প্লাস্টিকের তৈরি শাটার, ব্লাইন্ড এবং উহাদের পার্টস",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3925.90.00",
+      "Description": "প্লাস্টিকের তৈরি অন্যান্য বিল্ডার্স ওয়্যার 20",
+      "Duty_%": 39.26,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3926.40.00",
+      "Description": "Statuettes and other ornamental articles",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "3926.90.99",
+      "Description": "প্লাস্টিকের তৈরি অন্যান্য দ্রব্যাদি 30",
+      "Duty_%": 80.55,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4011.10.00",
+      "Description": "মোটর গাড়ির টায়ার 20",
+      "Duty_%": 80.36,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4203.30.00",
+      "Description": "Belts and bandoliers",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4203.40.00",
+      "Description": "Other clothing accessories 20 44.10 হতে 44.12 সকল এইচ, এস, কোড (4411.12.00, 4411.13.00 ও 4411.14.00 সকল প্রকার পার্টিক্যাল বোর্ড, ওরিয়েন্টেড স্ট্রান্ড বোর্ড ও সমজাতীয় বোর্ড, ফাইবার বোর্ড, হার্ড বোর্ড, প্লাইউড, ভিনিয়ার্ড প্যানেলস্ ও সমজাতীয় লেমিনেটেড পণ্য so 44.10 44.18 ব্যতীত) 4410.11.00 সকল এইচ,এস,কোড Particle board 20 দরজা, জানালা, উহাদের ফ্রেম ও থ্রেশহোল্ড, প্যারকিট প্যানেল, শাটারিং, শিংগেল ও শেক এবং সমজাতীয় পণ্য 500 শিরনামা সংখ্যা সামঞ্জস্যপূর্ণ নামকরণ কোড",
+      "Duty_%": 44.2,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4802.54.10",
+      "Description": "4802.54.90 Other paper and paperboard, not containing fibres obtained by a mechanical or chemimechanical process or of which not more than 10% by weight of the total fibre content consists of such fibres of weighing less than 40 g/m² (Excl. imported by VAT registered manufacturing industries) so",
+      "Duty_%": 48.13,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4813.90.00",
+      "Description": "আমদানিকৃত সিগারেট পেপার, সাইজ মত কর্তিত হউক বা না হউক অথবা বুকলেট বা টিউবের আকারে 300 সকল এইচ, এস,কোড টয়লেট পেপার, টিস্যু পেপার, টাওয়েল বা ন্যাপকিন পেপার বা সমজাতীয় পণ্য, গৃহস্থালী, সেনিটারী বা অনুরূপ কাজে ব্যবহৃত 20",
+      "Duty_%": 974.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4819.10.00",
+      "Description": "Cartons, boxes and cases, of corrugated paper and paperboard so 4819.20.90 ম্যাচ কাঠি প্যাকিংয়ের জন্য ডুপেক্স আউটার শেল ব্যতীত নন-করোগেটেড পেপার ও পেপার বোর্ডের তৈরি ফোল্ডিং কার্টুন, বাক্স ও কেস so 84-55.00.00 স্যাকস্ এবং ব্যাগস্ (40 সে. মি ও তদূর্ধ্ব প্রস্থ বেজ বিশিষ্ট) 500",
+      "Duty_%": 48.21,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "4821.10.00",
+      "Description": "প্রিন্টেড লেভেলস 20 48.23 0ং९দ7ে4 Paper Cup, Plate, Bowl",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "5605.00.10",
+      "Description": "Metalized round yarn 20 57.01 হইতে 57.05 সকল এইচ,এস, কোড কার্পেট ও অন্যান্য টেক্সটাইল ফ্লোর আচ্ছাদন 20 58.01 সকল এইচ, এস,কোড Woven pile fabrics and chenille fabrics, other than fabrics of heading 58.02 or 58.06. 500 80.90 সকল এইচ,এস,কোড Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings 60.02 to 60.06. 10",
+      "Duty_%": 59.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6103.29.00",
+      "Description": "Men's or boy's ensembles of other textile materials 80 61.04 সকল এইচ, এস, কোড মেয়েদের স্যুট, ইনসিম্বল, জ্যাকেট, ব্লেজার, ড্রেস, স্কার্ট, ডিভাইডেড স্কার্ট, ট্রাউজার, বিব ও ব্রেস ওভারঅল, ব্রিচ ও শর্টস (সাঁতারের পোষাক ছাড়া), নিটেড বা ক্রশেটেড 30 61.05 সকল এইচ, এস,কোড (6105.90.00 ব্যতীত) ছেলেদের শার্ট, নিটেড বা ক্রশেটেড",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6105.90.00",
+      "Description": "Men's or boy's shirts, knitted or crocheted of other textile materials 80 61.06 সকল এইচ,এস,কোড মেয়েদের ব্লাউজ, শার্ট এবং শার্ট-ব্লাউজ, নিটেড বা ক্রশেটেড 30 63.09 সকল এইচ,এস,কোড (6107.19.00 ব্যতীত) ছেলেদের আন্ডারপ্যান্ট, ব্রিফ, নাইটশার্ট, পায়জামা, বাথরোব, ড্রেসিং গাউন এবং সমজাতীয় পণ্য, নিটেড বা ক্রশেটেড",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6107.19.00",
+      "Description": "Men's or boy's underpants, briefs of other textile materials 80 61.08 সকল এইচ, এস, কোড মেয়েদের স্লিপ, পেটিকোট, ব্রিফ, প্যান্টি, নাইটড্রেস, পায়জামা, নেগলেজি, বাথরোব, ড্রেসিং গাউন এবং সমজাতীয় পণ্য, নিটেড বা ক্রশেটেড 30 61.09 সকল এইচ,এস,কোড টি-শার্ট, সিংলেট এবং অন্যান্য ভেস্ট, নিটেড বা এএ2 00 61.10 সকল এইচ, এস, কোড (6110.90.00 ব্যতীত) জার্সি, পুলওভার, কার্ডিগান, ওয়েস্টকোট এবং সমজাতীয় পণ্য, নিটেড বা ক্রশেটেড, কাশ্মিরী ছাগল বা অন্য প্রাণীর সরু লোম দ্বারা তৈরি সামগ্রী",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6110.90.00",
+      "Description": "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted of other textile materials 80 61.11 সকল এইচ,এস,কোড শিশুদের গার্মেন্টস ও ক্লোদিং এক্সেসরিজ, নিটেড বা ক্রশেটেড 00",
+      "Duty_%": 61.13,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6203.39.00",
+      "Description": "Men's or boy's Jackets and blazers of other textile materials",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6203.43.00",
+      "Description": "Men's or boy's Trousers, bib and brace overalls, breeches and shorts of synthetic fibres",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6203.49.00",
+      "Description": "Men's or boy's Trousers, bib and brace overalls, breeches and shorts of other textile materials 80",
+      "Duty_%": 62.04,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6204.23.00",
+      "Description": "6204.29.00 Women's or girls' ensembles",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6204.41.00",
+      "Description": "Women's or girls' dresses",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6204.44.00",
+      "Description": "6204.49.00",
+      "Duty_%": 62.08,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6208.99.00",
+      "Description": "Women's or girl's singlets and other vests, briefs, panties, negliges, bathrobes, dressing gowns and similar articles of other textile materials 80",
+      "Duty_%": 62.09,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6209.90.00",
+      "Description": "Babie's garments and clothing accessories of other textile materials 80 62.12 থেকে 62.17 পর্যন্ত সকল এইচ,এস,কোড (6212.10.00, 6214.30.00, 6214.90.00 ব্যতীত) ব্রেসিয়ার, গার্ডল, করসেট, ব্রেস, সাসপেন্ডার, গার্টার, রুমাল, শাল, স্কার্ফ, মাফলার, ম্যান্টিলা, ভেইল, টাই, বো-টাই, ক্রাভেট, গ্লাভস, মিটেন্স, মিটস এবং সমজাতীয় ক্লোদিং এক্সেসরিজ ও তার অংশ 30",
+      "Duty_%": 62.12,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6212.10.00",
+      "Description": "Brassieres 80",
+      "Duty_%": 62.14,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6214.30.00",
+      "Description": "Shawls, scarves, mufflers, mantillas, veils and the like: Of synthetic fibres",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6406.20.10",
+      "Description": "Upper and outer soles and heels so 6406.20.90 67.02 সকল এইচ,এস, কোড Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6803.00.00",
+      "Description": "Worked slate and articles of slate or of agglomerated slate 60 40.49 00′00'7077 Panels, boards, tiles, blocks and similar articles or vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste, of wood, agglomerated with cement, plaster or other mineral binders.",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6906.00.00",
+      "Description": "Ceramic pipes, conduits, guttering and pipe fittings.",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "6912.00.00",
+      "Description": "সিরামিকের তৈরি টেবিল ওয়্যার, কিচেন ওয়্যার ও অন্যান্য গৃহস্থালী সামগ্রী 30 69.13 সকল এইচ,এস, কোড Statuettes and other ornamental ceramic articles. 60 69.14 সকল এইচ,এস,কোড অন্যান্য সিরামিক সামগ্রী 60",
+      "Duty_%": 70.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7002.39.90",
+      "Description": "গ্লাস টিউব 20",
+      "Duty_%": 70.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7003.12.00",
+      "Description": "সম্পূর্ণভাবে রংকৃত নন ওয়্যারড শীট আকারে কাস্ট অথবা রোল গ্লাস (অস্বচ্ছ, ফ্লাশড্/এ্যাবজরবেন্টসহ, রিফ্লেক্টিং হউক বা না হউক)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9000.9.00",
+      "Description": "অন্যান্য কাস্ট অথবা রোল গ্লাস নন-ওয়্যার্ড শীট",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7007.19.90",
+      "Description": "Other tampered safety glass",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7007.29.00",
+      "Description": "Other laminated safety glass 20",
+      "Duty_%": 70.09,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9002.55.50",
+      "Description": "ফ্রেমবিহীন অন্যান্য কাঁচের আয়না",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7009.92.90",
+      "Description": "ফ্রেমযুক্ত অন্যান্য কাঁচের আয়না 20",
+      "Duty_%": 90.3,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7214.99.00",
+      "Description": "এর অধীন Carbon steel S20c/SAE 1020 (42mmRD) আমদানির ক্ষেত্র ব্যতীত) সম্পূরক শুল্কহার 80 72.15 সকল এইচ,এস,কোড Other bars and rods of iron or non-alloy steel. Of free-cutting steel, not further worked than cold-formed or cold-finished 8 72.16 সকল এইচ,এস,কোড Angles, shapes and sections of iron or non-alloy steel. 20",
+      "Duty_%": 73.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7303.00.00",
+      "Description": "কাস্ট আয়রনের তৈরি টিউব পাইপস 20",
+      "Duty_%": 73.04,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7304.11.20",
+      "Description": "7304.19.20 অয়েল অথবা গ্যাস পাইপ লাইনে ব্যবহৃত লাইন পাইপঃ ভিতরের ব্যাস 8 ইঞ্চি অথবা তার নিম্নে",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9008.50.00",
+      "Description": "আয়রন অথবা ষ্টীলের তৈরি অন্যান্য টিউব, পাইপ এবং ফাঁপা প্রোফাইল, সিমলেস (Seamless) 20",
+      "Duty_%": 90.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7306.11.20",
+      "Description": "7306.19.20 অয়েল অথবা গ্যাস পাইপ লাইনে ব্যবহৃত লাইন পাইপড, (ভিতরের ব্যাস 8 ইঞ্চি অথবা তার নিম্নে)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7306.21.20",
+      "Description": "7306.29.20 অয়েল ও গ্যাসের ড্রিলিং এর কাজে ব্যবহৃত কেসিং এবং টিউবিং (ভিতরের ব্যাস 8 ইঞ্চি অথবা তার নিম্নে)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7306.30.00",
+      "Description": "Other, welded, of circular cross-section of iron or non-alloy steel",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9006.80.00",
+      "Description": "Other, welded, of circular cross-section, of stainless steel",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7306.90.00",
+      "Description": "Other, welded, of non-circular crosssection: Other 20",
+      "Duty_%": 73.07,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9009.55.00",
+      "Description": "GI Fittings",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7318.12.00",
+      "Description": "Other wood screws 20 903t.30.00 Screw hooks and screw rings",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7318.14.00",
+      "Description": "Self-tapping screws",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7318.15.10",
+      "Description": "Other screws and bolts flus type tower bolt imported by Industrial IRC holder VAT compliant fire-resistant door manufacturers",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7318.15.90",
+      "Description": "Other Screw",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7318.16.00",
+      "Description": "Threaded Nuts of Iron/Steel",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7318.19.00",
+      "Description": "Other Screw S0 90.20 | 9020.30.00 | Leaf-springs and leaves therefore 20 | 90%.",
+      "Duty_%": 25.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7321.11.00",
+      "Description": "গ্যাস জ্বালানীর উপযোগী বা গ্যাস এবং অন্যান্য উভয় জ্বালানীর উপযোগী রান্নার তৈজসপত্র এবং প্লেট গরমকারক 20",
+      "Duty_%": 90.2,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7323.99.10",
+      "Description": "7323.99.90 Table/kitchenware of stainless steel 20 90.28 সকল এইচ, এস,কোড স্টেইনলেস স্টীলের সিঙ্ক, ওয়াস বেসিন উহার যন্ত্রাংশ, ওয়াটারট্যাপ এবং বাথরুমের অন্যান্য ফিটিংস ও ফিক্সার্স",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7415.33.10",
+      "Description": "7415.33.90 Screws; bolts and nuts of copper 20",
+      "Duty_%": 74.18,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7418.20.00",
+      "Description": "কপারের তৈরি সেনিটারী ওয়্যার ও উহার যন্ত্রাংশ 20",
+      "Duty_%": 76.07,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7607.20.10",
+      "Description": "পেপার/পেপার বোর্ড দ্বারা ব্যাক্ত (Backed) এ্যাল্যুমিনিয়াম ফয়েল, রঙ্গিন হউক বা না হউক, রোল/রিল/ববিন আকারে",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "7615.20.00",
+      "Description": "এ্যালুমিনিয়াম স্যানিটারী ওয়্যার ও যন্ত্রাংশ 20",
+      "Duty_%": 76.16,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9636.30.00",
+      "Description": "Nails, tacks, staples (other than those of heading 83.05) screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles of aluminium 20",
+      "Duty_%": 82.12,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8212.20.19",
+      "Description": "স্টেইনলেস স্টীল ব্লেড",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8212.90.00",
+      "Description": "রেজর পার্টস 20 83.01 সকল এইচ,এস,কোড Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal. 20",
+      "Duty_%": 83.09,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8309.90.99",
+      "Description": "Other Stoppers 8 84.07 এবং",
+      "Duty_%": 40.84,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8407.33.10",
+      "Description": "0९097047 8407.",
+      "Duty_%": 31.2,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8407.32.20",
+      "Description": "8407.33.20 দুই স্ট্রোক বিশিষ্ট অটো রিক্সা/থ্রি হুইলারের ইঞ্জিন 20 চার স্ট্রোক বিশিষ্ট অটো রিক্সা/থ্রি হুইলারের ইঞ্জিন",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8414.51.00",
+      "Description": "125 ওয়াট বা তার নিম্নের মটরযুক্ত টেবিল, ফ্লোর, ওয়াল, সিলিং, উইন্ডো, জানালা ও ছাদের ফ্যান",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8414.90.10",
+      "Description": "ফ্যান এর যন্ত্রাংশ 8",
+      "Duty_%": 84.15,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.10.90",
+      "Description": "8415.20.90 05.3A'D58A A850A3.50 মটরচালিত পাখাযুক্ত এবং উষ্ণতা ও আর্দ্রতা পরিবর্তন এর সুবিধা সম্বলিত, আর্দ্রতা পৃথকভাবে নিয়ন্ত্রণ করা যায় না এইরূপ বৈশিষ্ট্য সম্বলিত শীতাতপ নিয়ন্ত্রণকারী যন্ত্র 60 0QA'D९47 যন্ত্রাংশঃ এ",
+      "Duty_%": 947.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.90.10",
+      "Description": "ইনডোর অথবা আউটডোর ইউনিট",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.90.90",
+      "Description": "অন্যান্য যন্ত্রাংশ 30 সকল এইচ,এস,কোড রেফ্রিজারেটর, ফ্রিজার এবং সমজাতীয় পণ্য; হিট পাম্প; রেফ্রিজারেটিং ফার্নিচার 30 (8418.61.10, 8418.69.10, 8418.69.93, 'Dং९দ'7९47 8418.69,97 ব্যতীত)",
+      "Duty_%": 84.21,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8421.23.00",
+      "Description": "8421.29.90 ফিল্টার so b008.03.00 Other transformer having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA 20 008.00.00 Other transformer having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA 20",
+      "Duty_%": 85.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8506.10.00",
+      "Description": "ম্যাঙ্গানিজ ডাই অক্সাইড ব্যাটারী",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8506.30.00",
+      "Description": "Mercuric oxide battery",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9009.80.00",
+      "Description": "Silver oxide battery",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8506.50.00",
+      "Description": "Lithium battery",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8506.60.00",
+      "Description": "Air-zinc battery 20 00'077097 Other primary cells and primary batteries 20 40.06 | 6009.50.00 | লীড এসিড ব্যাটারী ও ইলেকট্রিক এ্যাকুমুলেটর",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8507.20.90",
+      "Description": "Other lead acid accumulators 500 | 4009% 8509.40.00 Blender, Mixer and Grinder 20",
+      "Duty_%": 85.1,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8510.20.00",
+      "Description": "Hair clippers",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8510.30.00",
+      "Description": "Hair-removing appliances 20",
+      "Duty_%": 85.16,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8516.50.00",
+      "Description": "Microwave ovens S",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8516.60.00",
+      "Description": "Other ovens; cookers, cooking plates, boiling rigns, grillers and roasters 20 CDA 8519.20.00 কয়েন, ব্যাংকনোট, ব্যাংক কার্ড, টোকেন ইত্যাদি দ্বারা চালিত সাউন্ড রেকর্ডিং বা রিপ্রোডিউসিং এপারেটাস, সম্পূর্ণ তৈরি",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8519.30.00",
+      "Description": "টার্ণ টেবলস (রেকর্ড-ডেক), সম্পূর্ণ তৈরি",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8519.81.20",
+      "Description": "অন্যান্য সাউন্ড রেকর্ডিং বা রিপ্রোডিউসিং এপারেটাস (ম্যাগনেটিক, অপটিক্যাল অথবা সেমিকন্ডাক্টর মিডিয়া ব্যবহারকারী), সম্পূর্ণ তৈরি 20 01९ACDA অন্যান্য সাউন্ড রেকর্ডিং বা রিপ্রোডিউসিং এপারেটাস, সম্পূর্ণ তৈরি 20 85.21 সকল এইচ, এস,কোড ভিডিও রেকর্ডিং বা রিপ্রোডিউসিং এর যন্ত্রপাতি, ভিডিও টিউনারযুক্ত হউক বা না হউক 20",
+      "Duty_%": 85.22,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8522.90.20",
+      "Description": "লোডেড প্রিন্টেড সার্কিট বোর্ড (85.21 হেডিংভুক্ত পণ্যের জন্য) 20",
+      "Duty_%": 85.23,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8523.52.00",
+      "Description": "স্মার্ট কার্ডস 500",
+      "Duty_%": 85.27,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8527.91.00",
+      "Description": "সাউন্ড রেকর্ডিং বা উৎপাদনের যন্ত্র সংযোজিত বাহিরের শক্তি ছাড়া চালনাক্ষম এইরূপ অন্যান্য রেডিও সম্প্রচার গ্রাহক যন্ত্র, রেডিও টেলিফোন বা রেডিও টেলিগ্রাফ গ্রহণে সক্ষম যন্ত্রসহঃ সাউন্ড রেকর্ডিং বা সাউন্ড পুনঃ উৎপাদনক্ষম যন্ত্রপাতিসহ 500",
+      "Duty_%": 85.28,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8528.72.00",
+      "Description": "রঙিন টেলিভিশন 20",
+      "Duty_%": 85.29,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8529.90.21",
+      "Description": "8529.90.29 টিভি কার্ডসহ টেলিভিশন পার্টস্ (টিভি উৎপাদনকারী শিল্প ব্যতীত অন্যান্য আমদানির ক্ষেত্রে)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8529.90.31",
+      "Description": "লোডেড প্রিন্টেড সার্কিট বোর্ড 85.27 এবং 85.28 হেডিংভুক্ত পণ্যের জন্য (ভ্যাট রেজিষ্টার্ড টিভি উৎপাদনকারী প্রতিষ্ঠান কর্তৃক আমদানির ক্ষেত্রে)",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8529.90.39",
+      "Description": "লোডেড প্রিন্টেড সার্কিট বোর্ড 85.27 এবং 85.28 হেডিংভুক্ত পণ্যের জন্য (অন্যান্য আমদানিকারক কর্তৃক আমদানিকৃত) 20",
+      "Duty_%": 85.36,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8536.50.00",
+      "Description": "Other switches S",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8536.61.00",
+      "Description": "Lamp-holders so 8536.69.00 Plugs and sockets",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8536.70.00",
+      "Description": "Connectors for optical fibres, optical fibre bundles or cables",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8536.90.10",
+      "Description": "0९0९70DA Other apparatus 500",
+      "Duty_%": 85.39,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8539.21.90",
+      "Description": "Tungsten halogen",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8539.22.00",
+      "Description": "8539.29.90 আলট্রাভায়োলেট/ইনফ্রা-রেড ল্যাম্প ব্যতীত অন্যান্য ফিলামেন্ট ল্যাম্পঃ অন্যান্য",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8539.31.90",
+      "Description": "এনার্জি সেভিং ল্যাম্প ব্যতীত অন্যান্য ফ্লুরেসেন্ট, হট ক্যাথোড ল্যাম্প",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8539.32.90",
+      "Description": "8539.39.90 ইন্ডিকেটর পাইলট ল্যাম্প ও পরীক্ষাগারে ব্যবহৃত ল্যাম্প ব্যতীত অন্যান্য মার্কারী, সোডিয়াম বা মেটাল হ্যালাইড ল্যাম্প 500",
+      "Duty_%": 85.42,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8542.39.10",
+      "Description": "সিম কার্ড 20 80.80 b080.80,00 Electronic cigarettes and similar personal electric vaporising devices",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8543.90.10",
+      "Description": "Parts of electronic cigarettes and similar personal electric vaporising devices 500",
+      "Duty_%": 85.44,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8544.19.90",
+      "Description": "উইন্ডিং ওয়্যারঃ অন্যান্য",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8544.20.00",
+      "Description": "দ্বি-অক্ষ বিশিষ্ট (co-axial) তার এবং অন্যান্য দ্বি- অক্ষ বিশিষ্ট (co-axial) বৈদ্যুতিক পরিবাহী",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8544.82.00",
+      "Description": "Other electric conductors for a voltage not exceeding 1,000 V fitted with connectors",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8544.90.00",
+      "Description": "Optical fibre cables",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8545.90.90",
+      "Description": "ল্যাম্প কার্বন, ব্যাটারী কার্বন, এবং ইলেকট্রিক্যাল কাজে ব্যবহৃত অন্যান্য পণ্য 500",
+      "Duty_%": 87.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8702.10.41",
+      "Description": "Human hauler",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8702.10.49",
+      "Description": "Microbus, having a seating capacity not exceeding 15, including the driver",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.10.91",
+      "Description": "(ক) সিলিন্ডার ক্যাপাসিটি 50 সিসি পর্যন্ত",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.39",
+      "Description": "(খ) সিলিন্ডার ক্যাপাসিটি 51 সিসি হইতে 250 সিসি পর্যন্ত 8711.",
+      "Duty_%": 20.59,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.30.10",
+      "Description": "8711.30.90 (গ) সিলিন্ডার ক্যাপাসিটি 251 সিসি হইতে 500 সিসি পর্যন্ত",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.40.10",
+      "Description": "8711.40.90 (ঘ) সিলিন্ডার ক্যাপাসিটি 501 সিসি হইতে 800 সিসি পর্যন্ত",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.50.10",
+      "Description": "8711.50.90 (ঙ) সিলিন্ডার ক্যাপাসিটি 800 সিসি এর উর্ধ্বে",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.21",
+      "Description": "8711.20.418711.",
+      "Duty_%": 10.92,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.10.21",
+      "Description": "Motorcycles, in CKD with four-stroke engine: (ক) সিলিন্ডার ক্যাপাসিটি 50 সিসি পর্যন্ত 20 (খ) সিলিন্ডার ক্যাপাসিটি 51 সিসি হইতে 250 সিসি পর্যন্ত 8711.20.49 Motorcycles, in CBU/CKD with Twostroke engine : 8711.",
+      "Duty_%": 10.19,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.10.29",
+      "Description": "8711.10.99 (ক) সিলিন্ডার ক্যাপাসিটি 50 সিসি পর্যন্ত",
+      "Duty_%": 250.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.19",
+      "Description": "6955.20. 8711.20.51 (খ) সিলিন্ডার ক্যাপাসিটি 51 সিসি হইতে 250 সিসি পর্যন্ত 8711.",
+      "Duty_%": 20.52,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8712.00.00",
+      "Description": "অযান্ত্রিক বাই-সাইকেল ও অন্যান্য সাইকেল 20 b",
+      "Duty_%": 9.38,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8714.10.20",
+      "Description": "মোটর সাইকেলের ফুয়েল ট্যাংক",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8714.92.10",
+      "Description": "অযান্ত্রিক বাই-সাইকেল ও অন্যান্য সাইকেলের চাকার রিম ও স্পোক 20",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9003.11.00",
+      "Description": "5000, ఏవ.00 Frames and mountings for spectacles, goggles or the like 500 20.08 সকল এইচ,এস,কোড Spectacles, goggles and the like, corrective protective or other 500",
+      "Duty_%": 93.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9302.00.90",
+      "Description": "রিভলবার ও পিস্তল: অন্যান্য 500 93.03 অন্যান্য আগ্নেয়াস্ত্রঃ 9303.10.90 অন্যান্য",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9304.00.90",
+      "Description": "অন্যান্য অস্ত্রঃ শ্যুটিং ফেডারেশন কর্তৃক আমদানিকৃত match weapon ব্যতীত অন্যান্য অস্ত্র 500 93.05 সকল এইচ,এস,কোড 93.01 থেকে 93.04 হেডিংভুক্ত পণ্যের যন্ত্রাংশ ও এক্সেসরিজ 500 93.06 সকল এইচ,এস,কোড (9306.29.10 ব্যতীত) বোমা, গ্রেনেড, টর্পেডো, মাইন, মিসাইল এবং সমজাতীয় গোলা বারুদ (শ্যুটিং ফেডারেশন থেকে আমদানিকৃত স্পোর্টস গোলাবারুদ ব্যতীত) 500",
+      "Duty_%": 93.07,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2009.00.50",
+      "Description": "তরবারী, ছোরা, সঙ্গিন, বর্শা এবং সমজাতীয় পণ্যঃ অন্যান্য 500",
+      "Duty_%": 58.05,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9401.20.10",
+      "Description": "Seats of a kind used for motorcycle",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9401.31.00",
+      "Description": "ఏ80. S.00 Swivel seats with variable height adjustment",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9401.61.00",
+      "Description": "9401.69.00 Other seats, with wooden frames",
+      "Duty_%": 8.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9401.71.00",
+      "Description": "9401.79.00 Other seats with metal frames",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9401.80.00",
+      "Description": "Other seats",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9401.91.00",
+      "Description": "Parts of seats : Of wood 500 వ80.55.00 Parts of seats: Other 10 94.03 সকল 20 এইচ,এস,কোড (9403.",
+      "Duty_%": 20.1,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "5800.20.00",
+      "Description": "9403.60.20 ব্যতীত) আসবাবপত্র ও যন্ত্রাংশ",
+      "Duty_%": 8.08,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9404.21.00",
+      "Description": "Mattresses of cellular rubber or plastics, whether or not covered 20",
+      "Duty_%": 58.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9405.11.00",
+      "Description": "Chandeliers and other electric ceiling or wall lighting fittings, exculding those of a kind used for lighting public open spaces or thorough fares : Dsigned for use solely with light-emmiting diod (LED) light sources",
+      "Duty_%": 60.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2800.8.20",
+      "Description": "Lamps and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like, having a permanently fixed light source, and parts thereof not elsewhere specified or included. 80 | 5800.00.50 | 9405.",
+      "Duty_%": 91.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9603.21.00",
+      "Description": "ডেন্টাল প্লেট ব্রাশসহ সকল প্রকার টুথ ব্রাশ 20",
+      "Duty_%": 96.13,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9613.10.00",
+      "Description": "Pocket lighters, gas fuelled, non-refillable",
+      "Duty_%": 10.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "9613.20.00",
+      "Description": "Pocket lighters, gas fuelled, refillable",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    }
+  ],
+  "statistics": {
+    "total_records": 281,
+    "latin_pattern_matches": 357,
+    "bengali_pattern_matches": 0,
+    "unique_hs_codes": 269,
+    "duty_rate_range": {
+      "min": 0.0,
+      "max": 974.0,
+      "avg": 91.30185053380782
+    }
+  },
+  "validation_metadata": {
+    "validated_date": "2025-07-19T15:35:00.000Z",
+    "validation_stats": {
+      "total": 357,
+      "valid": 281,
+      "invalid_hs_code": 13,
+      "invalid_description": 63,
+      "invalid_duty_rate": 0,
+      "other_invalid": 0
+    },
+    "original_count": 357,
+    "valid_count": 281,
+    "cleaned_count": 281
+  }
+}

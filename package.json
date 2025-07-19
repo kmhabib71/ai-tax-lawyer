@@ -16,6 +16,8 @@
     "setup-db": "node setup-supabase-schema.js",
     "test-finance-rag": "node test-finance-act-rag.js",
     "test-finance-simple": "node test-finance-act-simple.js",
+    "store-supabase": "node store-finance-act-supabase.js",
+    "process-income-tax": "node process-income-tax-act.js",
     "analyze-file": "node analyze-large-file.js",
     "validate-milestone": "node validate-milestone-7.js"
   },

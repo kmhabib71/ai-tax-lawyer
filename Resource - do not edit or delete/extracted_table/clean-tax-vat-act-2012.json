@@ -1,0 +1,222 @@
+{
+  "document_info": {
+    "filename": "vat-2012-bangla.pdf",
+    "document_type": "vat_act",
+    "extraction_method": "chrome_cleaned",
+    "processing_date": "2025-07-19T15:26:59.105Z",
+    "language": "bn",
+    "quality_score": 90
+  },
+  "extraction_metadata": {
+    "method": "regex_based_extraction",
+    "extraction_date": "2025-07-19T15:30:00.000Z",
+    "original_characters": 148480,
+    "normalized_characters": 148457,
+    "records_extracted": 39,
+    "extraction_patterns": [
+      "latin",
+      "bengali"
+    ]
+  },
+  "tax_records": [
+    {
+      "HS_Code": "2106.90.10",
+      "Description": "সুগন্ধি দ্রব্যের মিশ্রণ ব্যতীত কোমল পানীয় প্রস্তুতে ব্যবহৃত সামগ্রী, আয়তনভিত্তিক এ্যালকোহল ক্ষমতা 0.5% এর উর্ধ্বে 350",
+      "Duty_%": 22.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.10.00",
+      "Description": "কোমল পানীয়",
+      "Duty_%": 100.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2202.90.0०",
+      "Description": "নন-এ্যালকোহলিক বিয়ার 500",
+      "Duty_%": 22.03,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2203.00.00",
+      "Description": "মল্ট হইতে প্রস্তুত বিয়ার 250 22.04 সকল এইচএস তাজা আঙ্গুরের মদ, ফর্টিফাইড মদসহ; (20.09 350 কোড হেডিংভুক্ত grape must ব্যতীত) 22.05 সকল এইচএস ভারমুথ এবং তাজা আঙ্গুরের তৈরি মদ 500 কোড",
+      "Duty_%": 22.06,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2206.00.00",
+      "Description": "অন্যান্য গাঁজানো (fermented) পানীয় (উদাহরণস্বরূপ সিডার, পেরী) 350 22.08 সকল এইচএস কোড Undeenatured ethyl alcohol of an alcoholic strengh.by volume of less than 80% volume, spirits, liquors and other spirituous beverages 00 24.01 সকল এইচএস কোড Unmanufactured Tobacco, Tobacco refuse 50",
+      "Duty_%": 24.02,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.10.00",
+      "Description": "তামাকের তৈরি সিগার, চুরুট ও সিগারিলো",
+      "Duty_%": 350.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2402.90.00",
+      "Description": "হাতে বা অযান্ত্রিক পদ্ধতিতে তৈরি বিড়ি এবং অন্যান্য 3oo 24.03 সকল এইচএস কোড অন্যান্য প্রস্তুতকৃত তামাক এবং সমজাতীয় পদার্থ \"homogenised\" বা \"reconstituted\" নির্যাস বা সুগন্ধি 100",
+      "Duty_%": 25.15,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.11.00",
+      "Description": "মার্বেল এবং ট্রেভারটিন (আপাতঃ আপেক্ষিক পুরুত্ব 2.5% বা তার বেশি), ক্রুড বা স্থূলভাবে কর্তিত",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2515.12.00",
+      "Description": "Merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.11.00",
+      "Description": "গ্রানাইট (স্থূলভাবে কর্তিত)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2516.12.00",
+      "Description": "গ্রানাইটঃ করাত দ্বারা বা অন্য প্রকারে বক বা চতুর্ভুজ বা বর্গাকার স্ল্যাব হিসাবে কর্তিত",
+      "Duty_%": 25.23,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2523.21.00",
+      "Description": "পোর্টল্যান্ড সিমেন্টঃ সাদা, কৃত্রিমভাবে রঙ্গীন করা হউক বা 20 না হউক 2523.29.00 অন্যান্য পোর্টল্যান্ড সিমেন্ট 20",
+      "Duty_%": 27.1,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.12.39",
+      "Description": "অন্যান্য হালকা তৈল ও প্রিপারেশন: অন্যান্য",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.12.50",
+      "Description": "অন্যন্য মধ্যম তৈল ও প্রিপারেশন",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.12.69",
+      "Description": "গ্যাস তৈল: অন্যান্য",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.19.33",
+      "Description": "আংশিক পরিশোধিত পেট্রেলিয়াম, টডসহ",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.19.34",
+      "Description": "গ্রীজ (খনিজ)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2710.19.39",
+      "Description": "অন্যান্য ভারী তৈল ও প্রিপারেশন: (ট্রান্সফরমার অয়েল ও হেভি নরম্যাল প্যারাফিন ব্যতীত 20",
+      "Duty_%": 27.11,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "2711.21.00",
+      "Description": "প্রাকৃতিক গ্যাস, গ্যাসীয় অবস্থায় 100 ט",
+      "Duty_%": 0.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.90.10",
+      "Description": "যন্ত্রাংশ (এয়ার কন্ডিশনার প্রস্তুতকারক প্রতিষ্ঠান কর্তৃক আমদানিকৃত)",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8415.90.90",
+      "Description": "যন্ত্রাংশ (অন্যান্য আমদানিকারক কর্তৃক আমদানিকৃত)",
+      "Duty_%": 80.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.13",
+      "Description": "8704.31.13 সিলিন্ডার ক্যাপাসিটি 1001 সিসি হইতে 1500 সিসি পর্যন্ত 00 b908.",
+      "Duty_%": 23.38,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.31.14",
+      "Description": "সিলিন্ডার ক্যাপাসিটি 1501 সিসি হইতে 2000 সিসি পর্যন্ত",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.15",
+      "Description": "8704.31.15 সিলিন্ডার ক্যাপাসিটি 2001 সিসি হইতে 2750 সিসি পর্যন্ত",
+      "Duty_%": 300.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.16",
+      "Description": "8704.31.16 সিলিন্ডার ক্যাপাসিটি 2751 সিসি হইতে 4000 সিসি পর্যন্ত",
+      "Duty_%": 350.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8704.21.17",
+      "Description": "সিলিন্ডার ক্যাপাসিটি 4000 সিসি এর ঊর্ধ্বে",
+      "Duty_%": 500.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8706.00.31",
+      "Description": "দুই-স্ট্রোকবিশিষ্ট অটোরিকসা বা থ্রি হুইলারের ইঞ্জিনযুক্ত চেসিস",
+      "Duty_%": 20.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.91",
+      "Description": "8711.10.21 চার-স্ট্রোকবিশিষ্ট বিযুক্ত মোটরসাইকেল",
+      "Duty_%": 30.0,
+      "Source_Pattern": "latin"
+    },
+    {
+      "HS_Code": "8711.20.92",
+      "Description": "5933.30.20 দুই-স্ট্রোকবিশিষ্ট মোটরসাইকেল (সম্পূর্ণ তৈরি বা 250 6-952.50. বিযুক্ত) 5०९९९8",
+      "Duty_%": 7.0,
+      "Source_Pattern": "latin"
+    }
+  ],
+  "statistics": {
+    "total_records": 29,
+    "latin_pattern_matches": 39,
+    "bengali_pattern_matches": 0,
+    "unique_hs_codes": 29,
+    "duty_rate_range": {
+      "min": 0.0,
+      "max": 500.0,
+      "avg": 74.65862068965517
+    }
+  },
+  "validation_metadata": {
+    "validated_date": "2025-07-19T15:35:00.000Z",
+    "validation_stats": {
+      "total": 39,
+      "valid": 29,
+      "invalid_hs_code": 5,
+      "invalid_description": 5,
+      "invalid_duty_rate": 0,
+      "other_invalid": 0
+    },
+    "original_count": 39,
+    "valid_count": 29,
+    "cleaned_count": 29
+  }
+}
