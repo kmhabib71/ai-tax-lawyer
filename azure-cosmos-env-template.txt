@@ -1,0 +1,12 @@
+
+# Add these to your .env file for Azure Cosmos DB migration:
+
+# Azure Cosmos DB for MongoDB vCore (get from Azure Portal)
+AZURE_COSMOS_CONNECTION_STRING=mongodb+srv://username:password@cluster.mongocluster.cosmos.azure.com/?tls=true&authMechanism=SCRAM-SHA-256&retrywrites=false&maxIdleTimeMS=120000
+
+# Keep existing OpenAI key for embeddings
+OPENAI_API_KEY=your-openai-api-key
+
+# Supabase (keep for other data if needed)
+SUPABASE_URL=your-supabase-url
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key

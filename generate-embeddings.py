@@ -24,17 +24,17 @@ class EmbeddingGenerator:
         
         # Initialize Supabase
         supabase_url = os.getenv('SUPABASE_URL')
-        supabase_key = os.getenv('SUPABASE_ANON_KEY')
+        supabase_key = os.getenv('SUPABASE_SERVICE_ROLE_KEY')  # Use service role for data operations
         
         if not supabase_url or not supabase_key:
-            raise ValueError("Missing Supabase credentials in .env file")
+            raise ValueError("Missing Supabase credentials in .env file - need SUPABASE_SERVICE_ROLE_KEY")
             
         self.supabase: Client = create_client(supabase_url, supabase_key)
         
         # Embedding configuration
         self.embedding_model = "text-embedding-3-small"
         self.embedding_dimensions = 1536
-        self.batch_size = 50  # Process in batches to avoid rate limits
+        self.batch_size = 5  # Further reduced batch size to avoid token limits
         
         print(f"🚀 Embedding Generator Initialized")
         print(f"   Model: {self.embedding_model}")
@@ -62,16 +62,43 @@ class EmbeddingGenerator:
         return chunks
 
     def generate_embeddings_batch(self, texts: List[str]) -> List[List[float]]:
-        """Generate embeddings for a batch of texts"""
+        """Generate embeddings for a batch of texts with dynamic token management"""
         try:
-            response = self.openai_client.embeddings.create(
-                model=self.embedding_model,
-                input=texts,
-                dimensions=self.embedding_dimensions
-            )
+            # Estimate total tokens for the batch
+            total_chars = sum(len(text) for text in texts)
+            estimated_tokens = total_chars / 3  # More conservative estimate for Bengali text
             
-            embeddings = [data.embedding for data in response.data]
-            return embeddings
+            # If batch is too large, process one by one
+            if estimated_tokens > 7000:
+                print(f"   ⚠️ Large batch detected ({estimated_tokens:.0f} tokens), processing individually...")
+                embeddings = []
+                for i, text in enumerate(texts):
+                    try:
+                        # Truncate individual text if too long
+                        if len(text) > 20000:  # ~6500 tokens conservative
+                            text = text[:20000]
+                            print(f"   ⚠️ Truncated text {i+1}: {len(texts[i])} -> {len(text)} chars")
+                        
+                        response = self.openai_client.embeddings.create(
+                            model=self.embedding_model,
+                            input=[text],
+                            dimensions=self.embedding_dimensions
+                        )
+                        embeddings.append(response.data[0].embedding)
+                        time.sleep(0.1)  # Small delay to avoid rate limits
+                    except Exception as e:
+                        print(f"   ❌ Failed to process individual text {i+1}: {str(e)}")
+                        # Create dummy embedding to maintain list alignment
+                        embeddings.append([0.0] * self.embedding_dimensions)
+                return embeddings
+            else:
+                # Process as batch normally
+                response = self.openai_client.embeddings.create(
+                    model=self.embedding_model,
+                    input=texts,
+                    dimensions=self.embedding_dimensions
+                )
+                return [data.embedding for data in response.data]
             
         except Exception as e:
             print(f"❌ Error generating embeddings: {str(e)}")
@@ -139,11 +166,15 @@ class EmbeddingGenerator:
                 print(f"   🧠 Generating embeddings for {len(batch_texts)} chunks...")
                 embeddings = self.generate_embeddings_batch(batch_texts)
                 
-                # Prepare for Supabase
+                # Prepare for Supabase (skip dummy embeddings)
                 prepared_batch = []
                 for chunk, embedding in zip(batch_chunks, embeddings):
-                    prepared_chunk = self.prepare_chunk_for_supabase(chunk, embedding)
-                    prepared_batch.append(prepared_chunk)
+                    # Skip chunks with dummy embeddings (all zeros)
+                    if sum(embedding) != 0.0:
+                        prepared_chunk = self.prepare_chunk_for_supabase(chunk, embedding)
+                        prepared_batch.append(prepared_chunk)
+                    else:
+                        print(f"   ⚠️ Skipping chunk with dummy embedding: {chunk['id']}")
                 
                 # Upload to Supabase
                 print(f"   📤 Uploading batch to Supabase...")

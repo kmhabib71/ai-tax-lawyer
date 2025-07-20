@@ -1,5 +1,5 @@
 import { taxChatService, ChatRequest, ChatResponse } from './chat'
-import { supabaseVectorService, SearchResult } from './supabase-vector'
+import { mongodbVectorService, SearchResult } from './mongodb-vector'
 import { documentProcessor } from './document-processor'
 
 export interface RAGQuery {
@@ -142,7 +142,7 @@ export class RAGSystem {
     filters?: RAGQuery['filters'],
     limit: number = 10
   ): Promise<SearchResult[]> {
-    return await supabaseVectorService.searchSimilar(
+    return await mongodbVectorService.searchSimilar(
       query,
       limit,
       0.7, // similarity threshold
@@ -161,14 +161,7 @@ export class RAGSystem {
     lastUpdated: string
   }> {
     try {
-      // This would require custom queries to Supabase
-      // For now, return basic structure
-      return {
-        totalDocuments: 0,
-        totalChunks: 0,
-        documentsByType: {},
-        lastUpdated: new Date().toISOString()
-      }
+      return await mongodbVectorService.getKnowledgeBaseStats()
     } catch (error) {
       console.error('Error getting knowledge base stats:', error)
       throw error
@@ -178,30 +171,30 @@ export class RAGSystem {
   private async retrieveRelevantDocuments(ragQuery: RAGQuery): Promise<SearchResult[]> {
     const { question, filters, retrievalOptions } = ragQuery
     
-    // Primary semantic search
-    const semanticResults = await supabaseVectorService.searchSimilar(
-      question,
-      retrievalOptions?.maxResults || 8,
-      retrievalOptions?.similarityThreshold || 0.7,
-      {
-        document_type: filters?.documentTypes,
-        keywords: filters?.keywords,
-        date_after: filters?.dateAfter
-      }
-    )
-    
-    // If hybrid search is enabled, also do keyword search
+    // Use hybrid search if enabled, otherwise semantic search
     if (retrievalOptions?.hybridSearch) {
-      // Extract keywords from question
-      const questionKeywords = this.extractQueryKeywords(question)
-      
-      if (questionKeywords.length > 0) {
-        // This would require a keyword search function in Supabase
-        // For now, we'll rely on semantic search
-      }
+      return await mongodbVectorService.hybridSearch(
+        question,
+        retrievalOptions?.maxResults || 8,
+        {
+          document_type: filters?.documentTypes,
+          keywords: filters?.keywords,
+          date_after: filters?.dateAfter
+        }
+      )
+    } else {
+      // Primary semantic search using MongoDB Atlas
+      return await mongodbVectorService.searchSimilar(
+        question,
+        retrievalOptions?.maxResults || 8,
+        retrievalOptions?.similarityThreshold || 0.7,
+        {
+          document_type: filters?.documentTypes,
+          keywords: filters?.keywords,
+          date_after: filters?.dateAfter
+        }
+      )
     }
-    
-    return semanticResults
   }
 
   private async selectBestContexts(

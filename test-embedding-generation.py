@@ -50,10 +50,11 @@ def test_supabase_connection():
     
     try:
         supabase_url = os.getenv('SUPABASE_URL')
-        supabase_key = os.getenv('SUPABASE_ANON_KEY')
+        supabase_key = os.getenv('SUPABASE_SERVICE_ROLE_KEY')  # Use service role for data operations
         
         if not supabase_url or not supabase_key:
             print("   ❌ Missing Supabase credentials in .env file")
+            print("   💡 Make sure SUPABASE_SERVICE_ROLE_KEY is set")
             return False
         
         supabase: Client = create_client(supabase_url, supabase_key)
@@ -69,7 +70,7 @@ def test_supabase_connection():
         
     except Exception as e:
         print(f"   ❌ Supabase connection failed: {str(e)}")
-        print(f"   💡 Make sure to run supabase-vector-setup.sql first")
+        print(f"   💡 Make sure to run supabase-setup-simple.sql first")
         return False
 
 def test_sample_chunk_processing():
@@ -126,7 +127,7 @@ def test_embedding_upload():
         # Get OpenAI client
         client = openai.OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
         supabase_url = os.getenv('SUPABASE_URL')
-        supabase_key = os.getenv('SUPABASE_ANON_KEY')
+        supabase_key = os.getenv('SUPABASE_SERVICE_ROLE_KEY')  # Use service role for data operations
         supabase: Client = create_client(supabase_url, supabase_key)
         
         # Create test embedding
@@ -224,7 +225,7 @@ def main():
     
     # Test environment
     print("📋 Checking Environment Variables...")
-    required_vars = ['OPENAI_API_KEY', 'SUPABASE_URL', 'SUPABASE_ANON_KEY']
+    required_vars = ['OPENAI_API_KEY', 'SUPABASE_URL', 'SUPABASE_SERVICE_ROLE_KEY']
     missing_vars = [var for var in required_vars if not os.getenv(var)]
     
     if missing_vars:
@@ -273,8 +274,8 @@ def main():
     else:
         print(f"❌ Some tests failed. Fix issues before running bulk processing.")
         print(f"\n💡 TROUBLESHOOTING:")
-        print(f"- Check .env file has correct credentials")
-        print(f"- Run supabase-vector-setup.sql in Supabase SQL editor")
+        print(f"- Check .env file has correct credentials (use SUPABASE_SERVICE_ROLE_KEY)")
+        print(f"- Run supabase-setup-simple.sql in Supabase SQL editor")
         print(f"- Verify chrome-cleaned-*.json files exist")
 
 if __name__ == "__main__":
