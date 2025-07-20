@@ -1,0 +1,128 @@
+[
+  {
+    "query": "মূল্য সংযোজন কর হার",
+    "userType": "business",
+    "category": "Quick VAT Query",
+    "expectedTime": 2000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 742,
+      "searchTime": 137,
+      "totalTime": 879
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "আয়কর স্ল্যাব",
+    "userType": "salaried",
+    "category": "Quick Income Tax Query",
+    "expectedTime": 2000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 403,
+      "searchTime": 122,
+      "totalTime": 525
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "tax exemption limit",
+    "userType": "other",
+    "category": "Quick English Query",
+    "expectedTime": 2000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 411,
+      "searchTime": 173,
+      "totalTime": 584
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "বেতনভোগী কর্মচারীর জন্য কর গণনার পদ্ধতি কি",
+    "userType": "salaried",
+    "category": "Medium Bengali Query",
+    "expectedTime": 3000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 388,
+      "searchTime": 162,
+      "totalTime": 550
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "freelancer der tax calculation korar niyom",
+    "userType": "freelancer",
+    "category": "Medium Banglish Query",
+    "expectedTime": 3000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 404,
+      "searchTime": 121,
+      "totalTime": 525
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "What are the VAT registration requirements for small businesses",
+    "userType": "business",
+    "category": "Medium English Query",
+    "expectedTime": 3000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 507,
+      "searchTime": 129,
+      "totalTime": 636
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "২০২৪-২৫ অর্থবছরে একজন ফ্রিল্যান্সার যিনি বিদেশি আয় করেন তার জন্য কর গণনা ও জমা দেওয়ার নিয়ম কি",
+    "userType": "freelancer",
+    "category": "Complex Bengali Query",
+    "expectedTime": 4000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 425,
+      "searchTime": 135,
+      "totalTime": 560
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "business er income tax calculation, VAT registration, ebong quarterly tax payment er complete process",
+    "userType": "business",
+    "category": "Complex Banglish Query",
+    "expectedTime": 4000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": -402,
+      "searchTime": 126,
+      "totalTime": -276
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "Comprehensive guide for salaried employee tax optimization including all deductions, rebates and advance tax planning",
+    "userType": "salaried",
+    "category": "Complex English Query",
+    "expectedTime": 4000,
+    "success": false,
+    "error": "No search results found",
+    "metrics": {
+      "embeddingTime": 567,
+      "searchTime": 141,
+      "totalTime": 708
+    },
+    "withinExpected": false
+  }
+]

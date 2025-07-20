@@ -1,0 +1,620 @@
+{
+  "timestamp": "2025-07-20T07:02:26.937Z",
+  "testResults": [
+    {
+      "query": "২২০২.১০.০০",
+      "language": "Bengali",
+      "type": "Exact HS Code",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "২২০২.১০.০০",
+        "routing": {
+          "useStructured": false,
+          "searchStrategy": "vector_search",
+          "reasoning": "Vector search for semantic understanding"
+        },
+        "searchType": "vector",
+        "results": [
+          {
+            "_id": "finance_chrome_chunk_272",
+            "content": "২০২৫ সামঞ্জস্যপূর্ণ নামকরণ কোড পণ্যসমূহের বিবরণ ৫৮৮৩ সম্পূরক শুল্কহার ৬১১৫.৯৯. ০০ stockings, socks and other hosiery Of other textile materials 80 সকল ادد এইচ,এস,কোড গ্লাভস, মিটেনস এবং মিটস, নিটেড বা ক্রশেটেড 00 ৬১.১৭ সকল এইচ, এস,কোড অন্যান্য নিটেড বা ক্রশেটেড ক্লোদিং এক্সেসরিজ; গার্মেন্টস বা ক্লোদিং এক্সেসরিজের অংশ ৩০ ৬২.০১ থেকে ৬২.১০ পর্যন্ত সকল এইচ,এস,কোড (৬২০৩.৩৯.০০, পুরুষ, মহিলা ও শিশুদের সকল ধরনের তৈরি পোষাক, অন্তর্বাস ও সমজাতীয় পণ্য (সাঁতারের পোষাক ছাড়া) ৩০ ৬২০৩.৪৩.০০, ৬২০৩.৪৯.০০, ৬২০৪.২১.০০, ৬২০৪.২২.০০, ৬২০৪.২৩.০০, ৬২০৪.২৯.০০, ৬২০৪.৪১.০০, ৬২০৪.৪২.০০, ৬২০৪.৪৩.০০, ৬২০৪.৪৪.০০, ৬২০৪.৪৯.০০, ৬২০৮,৯৯,০০, ৬২০৯.৯০.০০ ব্যতীত) ৬২.০৩ ৬২০৩.৩৯.০০ Men's or boy's Jackets and blazers of other textile materials 80 ৬২০৩.৪৩.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7132909297943115
+          },
+          {
+            "_id": "finance_chrome_chunk_237",
+            "content": "০৮০১.২২.১০ otos.0s.S0 ০৮০১.৩২.১০ 0t0s.SS.So ০৮০২.১২.১০ ০৮০২.২২.১০ ০৮০২.৩১.১০ ০৮০২.৩২.১০ ০৮০২.৪১.১০ ০৮০২.৪২.১০ ০৮০২.৫১. ১০ ০৮০২.৫২.১০ ০৮০২.৬১.১০ ০৮০২.৬২.১০ ০৮০২.৭০.১০ ০৮০২.৯৯.৯১ ০৮.০২ ০৫০৭২০৭০ ১০৭০ ০৭ ০९ 0040 40 80 সম্পূরক শুল্কহার ২০ Areca Nut 80 ০৮০২.৯১.১০ ০৮০২.৯২.১০ Pine nuts 8 ০৮০২.৯৯.১১ ০৮০২.৯৯.১২ তাজা বা শুকনা সুপারি, খোসা ছাড়ানো হউক বা না হউক 8 0408.00.OS 0408.00.0 তাজা বা শুকনা আম ৩০ ০৮০৫.১০.১০ ০৮০৫.১০.৯০ ০৮০৫.২১.১০ ০৮০৫.২১.৯০ ০৮০৫.২২.১০ 0९'D০৭০ ০৮০৫.২২.৯০ তাজা বা শুকনা কমলালেবু ৩০ তাজা বা শুকনা লেবুজাতীয় ফল ৩০ ০৮০৫.২৯.৯০ ৫০'৭০ সকল এইচ, এস,কোড (০৮০৯.৪০.১১, ০৮০৯.৪০.১৯, ০৮০৯.৪০.৯১, ০৮০৯.৪০.৯৯ ব্যতীত) Apricots, cherries, peaches (including nectarines), fresh ৩০ ০৮.১০ সকল এইচ, এস,কোড অন্যান্য তাজা ফল ৩০ 05.05 ০৯০১.১১.১০ ০৯০১.১২.১০ ০৯০১.২১.১০ ০৯০১.২২.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7077592015266418
+          },
+          {
+            "_id": "finance_chrome_chunk_287",
+            "content": "২০ 96.38 ৭৬১৫.২০.০০ এ্যালুমিনিয়াম স্যানিটারী ওয়্যার ও যন্ত্রাংশ ২০ ৭৬.১৬ 9636.30. 00 Nails, tacks, staples (other than those of heading 83.05) screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles of aluminium ২০ ৮২.১২ ৮২১২.১০.০০ রেজর ২০ ৮২১২.২০.১৯ স্টেইনলেস স্টীল ব্লেড ২০ ৮২১২.২০.৯০ অন্যান্য ২০ ৮২১২.৯০.০০ রেজর পার্টস ২০ ৮৩.০১ সকল এইচ,এস,কোড Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any of the foregoing articles, of base metal. ২০ ৮৩.০৯ ৮৩০৯.৯০.৯৯ Other Stoppers 8 ৮৪.০৭ এবং 40.84 ৮৪০৭.৩১.১০ ৮৪০৭.৩২.১০ ৮৪০৭.৩৩.১০ ০९০৯৭০৪৭ ৮৪০৭.৩১.২০ ৮৪০৭.৩২.২০ ৮৪০৭.৩৩.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7064896821975708
+          },
+          {
+            "_id": "finance_chrome_chunk_239",
+            "content": "०९'D০৭০ ९९ 0400 4ం. వన ০৮০৫.৯০.২১০৮০৫.৯০.২৯ ০৭০ ০९'০9' 0S'0)'»০৭০ 05.08. 0040 ०९০৪*D০৭০ Grapefruit and pomelos (fresh or dried) ৩০ তাজা বা শুকনা লেবু ৩০ তাজা বা শুকনা অন্যান্য লেবু জাতীয় ফল 00 ৫৮৬৮ শিরনামা সংখ্যা বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২, ২০২৫ সামঞ্জস্যপূর্ণ নামকরণ কোড পণ্যসমূহের বিবরণ সম্পূরক শুল্কহার ০৯০২.৩০.০০ Black tea (farmented) and partly farmented tea, in immediate packings of a content not exceeding 3 kg ২০ 0502.80.00 Other black tea (farmented) and other partly farmented tea ২০ 04.08 0508.55. So ০৯০৪.১১.৯০ 0508.52.00 গোলমরিচ, চূর্ণ বা দলানো হউক বা না হউক ২০ ৭০५০ সকল এইচ,এস,কোড দারুচিনি এবং দারুচিনি গাছের ফুল ২০ ০৯.০৭ সকল এইচ, এস, কোড লবঙ্গ ২০ ৭০৩০ ০৯০৮.৩১.১০ এলাচ S0 ০৯০৮.৩১.৯০ ০৯০৮.৩২.১০ ০৯০৮.৩২.৯০ 0వంవ. ఏ. So ০৯০৯.৩১.৯০ ood.62.50 জিরা ২০ Dod. 2.201 ১৫.১৩ SesO.S5.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7053863406181335
+          },
+          {
+            "_id": "finance_chrome_chunk_293",
+            "content": "পার্টস্ (টিভি উৎপাদনকারী শিল্প ব্যতীত অন্যান্য আমদানির ক্ষেত্রে) ২০ ৮৫২৯.৯০. ৩১ লোডেড প্রিন্টেড সার্কিট বোর্ড ৮৫.২৭ এবং ৮৫.২৮ হেডিংভুক্ত পণ্যের জন্য (ভ্যাট রেজিষ্টার্ড টিভি উৎপাদনকারী প্রতিষ্ঠান কর্তৃক আমদানির ক্ষেত্রে) ৩০ ৮৫২৯.৯০.৩৯ লোডেড প্রিন্টেড সার্কিট বোর্ড ৮৫.২৭ এবং ৮৫.২৮ হেডিংভুক্ত পণ্যের জন্য (অন্যান্য আমদানিকারক কর্তৃক আমদানিকৃত) ২০ ৮৫.৩৬ ৮৫৩৬.৫০.০০ Other switches S0 ৮৫৩৬.৬১.০০ Lamp-holders so ৮৫৩৬.৬৯.০০ Plugs and sockets ২০ ৮৫৩৬.৭০.০০ Connectors for optical fibres, optical fibre bundles or cables So ৮৫৩৬.৯০.১০ ০९০९৭০DA Other apparatus So ৮৫.৩৯ ৮৫৩৯.২১.৯০ Tungsten halogen So ৮৫৩৯.২২.০০ ৮৫৩৯.২৯.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7052164077758789
+          }
+        ],
+        "resultCount": 5,
+        "searchTime": 1052,
+        "success": true,
+        "topSimilarity": 0.7132909297943115,
+        "totalTime": 1053
+      },
+      "correctRoute": false,
+      "actualRoute": "vector"
+    },
+    {
+      "query": "কোমল পানীয়ের শুল্ক কত",
+      "language": "Bengali",
+      "type": "Product Duty Query",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "কোমল পানীয়ের শুল্ক কত",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "product_search",
+          "confidence": 0.85,
+          "reasoning": "Product name detected - structured product lookup",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": true,
+            "englishProduct": false,
+            "dutyQuery": true,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [],
+        "resultCount": 0,
+        "searchTime": 96,
+        "success": false,
+        "topResult": null,
+        "totalTime": 96
+      },
+      "correctRoute": true,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "বিয়ারের উপর কর হার",
+      "language": "Bengali",
+      "type": "Product Tax Rate",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "বিয়ারের উপর কর হার",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "product_search",
+          "confidence": 0.85,
+          "reasoning": "Product name detected - structured product lookup",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": true,
+            "englishProduct": false,
+            "dutyQuery": true,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [],
+        "resultCount": 0,
+        "searchTime": 64,
+        "success": false,
+        "topResult": null,
+        "totalTime": 64
+      },
+      "correctRoute": true,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "আয়কর আইনের নিয়ম কি",
+      "language": "Bengali",
+      "type": "Legal Advice",
+      "expectedRoute": "vector",
+      "result": {
+        "query": "আয়কর আইনের নিয়ম কি",
+        "routing": {
+          "useStructured": false,
+          "searchStrategy": "vector_search",
+          "reasoning": "Vector search for semantic understanding"
+        },
+        "searchType": "vector",
+        "results": [
+          {
+            "_id": "income_tax_chrome_chunk_39",
+            "content": "করিয়া মোট আয় পরিগণনা করিতে হইবে। ৩০। আয়ের খাতসমূহ।  এই আইনে ভিন্নরূপ কোনো কিছু না থাকিলে, আয়কর আরোপ এবং মোট আয় পরিগণনার জন্য, যেকোনো আয় নিম্নম্বর্ণিত কোনো একটি খাতে শ্রেণিবদ্ধ হইবে, যথা:- (ক) চাকরি হইতে আয়; (খ) ভাড়া হইতে আয়; (গ) কৃষি হইতে আয়; ৮১২০ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২২, ২০২৩ (ঘ) ব্যবসা হইতে আয়; (ঙ) মূলধনি আয়; (চ) আর্থিক পরিসম্পদ হইতে আয়; (ছ) অন্যান্য উৎস হইতে আয়। ৩১। আয় একীভূতকরণ।",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.724394679069519
+          },
+          {
+            "_id": "income_tax_chrome_chunk_27",
+            "content": "আয়কর ধার্য, আরোপ, পরিশোধ বা সংগ্রহ করা হইবে।  (২) এই আইনের বিধানাবলি সাপেক্ষে, সংসদ কর্তৃক প্রণীত আইনের অধীন কোনো করবর্ষভিত্তিক নির্ধারিত হারে আয়কর ধার্য, আরোপ, পরিশোধ বা সংগ্রহ করা হইবে: তবে আয়বর্ষ ব্যতীত অন্য কোনো মেয়াদে অর্জিত আয়ের উপর নির্ধারিত হারে আয়কর ধার্য, আরোপ, পরিশোধ বা সংগ্রহ করা যাইবে। বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২২, ২০২৩ ৮১১৩ (৩) এই আইনের বিধানানুযায়ী নিম্নম্বর্ণিত করাদি ধার্য, আরোপ, পরিশোধ বা সংগ্রহ করা হইবে, যথা:- (ক) উৎসে কর; (খ) অগ্রিম আয়কর; (গ) ন্যূনতম কর; এবং (ঘ) অন্য কোনো কর। (৪) এই আইনের বিধানাবলি সাপেক্ষে, সংসদ কর্তৃক প্রণীত আইনের অধীন নির্ধারিত হারে ও প্রকৃতিতে সারচার্জ অথবা অন্য কোনো চার্জ ধার্য, আরোপ বা সংগ্রহ করাহইবে।",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.7164309024810791
+          },
+          {
+            "_id": "finance_chrome_chunk_432",
+            "content": "১৩৭। ২০২৭ সালের ১ জুলাই তারিখে আরদ্ধ করবর্ষের আয়কর, সারচার্জ ও কর রেয়াত। - (১) আয়কর আইন, ২০২৩ এর বিধানাবলি সাপেক্ষে, ২০২৭ সালের ১ জুলাই তারিখে আরদ্ধ করবর্ষের জন্য কোনো কর নির্ধারণের ক্ষেত্রে এই আইনের তফসিল-৩ এর প্রথম অংশে নির্দিষ্ট করহার অনুযায়ী আয়কর ধার্য হইবে। (২) যে সকল ক্ষেত্রে আয়কর আইন, ২০২৩ (২০২৩ সনের ১২ নং আইন) এর তফসিল প্রযোজ্য হইবে, সেই সকল ক্ষেত্রে আরোপণযোগ্য কর উক্ত তফসিল অনুসারেই ধার্য করা হইবে, কিন্তু করহার নির্ধারণের ক্ষেত্রে উপ-ধারা (১) এর বিধান প্রয়োগ করিতে হইবে। (৩) আয়কর আইন, ২০২৩ এর অংশ ৭ অনুসারে কর কর্তনের নিমিত্ত বর্ণিত হার বা অগ্রিম কর পরিশোধের হার ও কর পরিশোধের বিধানাবলি ২০২৬ সালের ১ জুলাই তারিখে আরদ্ধ আয়বর্ষ হইতে প্রযোজ্য হইবে। (৪) এই ধারায় এবং এই ধারার অধীন আরোপিত আয়কর হারের উদ্দেশ্যে ব্যবহৃত “মোট আয়” অর্থ আয়কর আইন, ২০২৩ এর বিধান অনুসারে নিরূপিত মোট আয়।",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7032277584075928
+          },
+          {
+            "_id": "finance_chrome_chunk_433",
+            "content": "ব্যবহৃত “মোট আয়” অর্থ আয়কর আইন, ২০২৩ এর বিধান অনুসারে নিরূপিত মোট আয়।  (৫) আয়কর আইন, ২০২৩ এর আওতায় ২০২৭ সালের ১ জুলাই হইতে আরদ্ধ করবর্ষের জন্য কোনো কর নির্ধারণের ক্ষেত্রে তফসিল-৩ এর দ্বিতীয় অংশে ও তৃতীয় অংশে নির্দিষ্ট হার অনুযায়ী সারচার্জ ধার্য হইবে। (৬) আয়কর আইন, ২০২৩ এর আওতায় ২০২৭ সালের ১ জুলাই হইতে আরদ্ধ করবর্ষের জন্য কোনো কর নির্ধারণের ক্ষেত্রে তফসিল-৩ এর চতুর্থ অংশে নির্দিষ্ট হার অনুযায়ী কর রেয়াত প্রদান করা হইবে। ৫৯৫০ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২, ২০২৫ চতুর্থ অধ্যায় কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর সংশোধন ১৩৮। ২০২৩ সনের ৫৭ নং আইনের ধারা ৪ এর সংশোধন।",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.7021603584289551
+          },
+          {
+            "_id": "finance_chrome_chunk_431",
+            "content": "“মোট আয়” অর্থ আয়কর আইন, ২০২৩ এর বিধান অনুসারে নিরূপিত মোট আয়।  (৫) আয়কর আইন, ২০২৩ এর আওতায় ২০২৬ সালের ১ জুলাই হইতে আরদ্ধ করবর্ষের জন্য কোনো কর নির্ধারণের ক্ষেত্রে তফসিল-২ এর দ্বিতীয় অংশে ও তৃতীয় অংশে নির্দিষ্ট হার অনুযায়ী সারচার্জ ধার্য হইবে। (৬) আয়কর আইন, ২০২৩ এর আওতায় ২০২৬ সালের ১ জুলাই হইতে আরদ্ধ করবর্ষের জন্য কোনো কর নির্ধারণের ক্ষেত্রে তফসিল-২ এর চতুর্থ অংশে নির্দিষ্ট হার অনুযায়ী কর রেয়াত প্রদান করা হইবে। (৭) এই অধ্যাদেশের ধারা ৯৩ এর মাধ্যমে আয়কর আইন, ২০২৩ এর প্রতিস্থাপিত ধারা ১৬৩ এর উপ-ধারা (২) এর শর্তাংশে উল্লিখিত কীটনাশক উৎপাদনে নিয়োজিত শিল্প উদ্যোক্তা কর্তৃক আমদানিকৃত কাঁচামালের ক্ষেত্রে উদ্ভূত ন্যূনতম করদায় সংক্রান্ত বিধানটি ১ জুলাই, ২০২৬ তারিখে আরদ্ধ করবর্ষ হইতে প্রযোজ্য হইবে। ১৩৭। ২০২৭ সালের ১ জুলাই তারিখে আরদ্ধ করবর্ষের আয়কর, সারচার্জ ও কর রেয়াত।",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.6946769952774048
+          }
+        ],
+        "resultCount": 5,
+        "searchTime": 264,
+        "success": true,
+        "topSimilarity": 0.724394679069519,
+        "totalTime": 264
+      },
+      "correctRoute": true,
+      "actualRoute": "vector"
+    },
+    {
+      "query": "2202.10.00",
+      "language": "English",
+      "type": "Exact HS Code",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "2202.10.00",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "exact_hs_lookup",
+          "confidence": 0.95,
+          "reasoning": "Exact HS code detected - direct structured lookup",
+          "detectedPatterns": {
+            "exactHS": true,
+            "partialHS": false,
+            "bengaliProduct": false,
+            "englishProduct": false,
+            "dutyQuery": false,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [
+          {
+            "_id": "687c90e2597587d233c0771a",
+            "hs_code": "2202.10.00",
+            "description": "কোমল পানীয়",
+            "duty_rate": 100,
+            "source_act": "Finance Act 2025",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "duty_rate",
+            "language": "bengali"
+          },
+          {
+            "_id": "687c90e2597587d233c07765",
+            "hs_code": "2202.10.00",
+            "description": "Waters, including mineral waters and aerated waters containing added sugar of other sweetening matter or flavoured",
+            "duty_rate": 100,
+            "source_act": "Finance Act 2025",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "duty_rate",
+            "language": "english"
+          },
+          {
+            "_id": "687c90e2597587d233c07833",
+            "hs_code": "2202.10.00",
+            "description": "কোমল পানীয়",
+            "duty_rate": 100,
+            "source_act": "VAT Act 2012",
+            "source_document": "vat-2012-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "vat_rate",
+            "language": "bengali"
+          }
+        ],
+        "resultCount": 3,
+        "searchTime": 59,
+        "success": true,
+        "topResult": {
+          "hs_code": "2202.10.00",
+          "duty_rate": 100,
+          "description": "কোমল পানীয়",
+          "source": "Finance Act 2025"
+        },
+        "totalTime": 60
+      },
+      "correctRoute": true,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "beer duty rate",
+      "language": "English",
+      "type": "Product Duty Query",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "beer duty rate",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "product_search",
+          "confidence": 0.85,
+          "reasoning": "Product name detected - structured product lookup",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": false,
+            "englishProduct": true,
+            "dutyQuery": true,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [],
+        "resultCount": 0,
+        "searchTime": 65,
+        "success": false,
+        "topResult": null,
+        "totalTime": 65
+      },
+      "correctRoute": true,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "soft drinks tax calculation",
+      "language": "English",
+      "type": "Tax Calculation",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "soft drinks tax calculation",
+        "routing": {
+          "useStructured": false,
+          "searchStrategy": "vector_search",
+          "reasoning": "Vector search for semantic understanding"
+        },
+        "searchType": "vector",
+        "results": [
+          {
+            "_id": "finance_chrome_chunk_244",
+            "content": "essences and concentrates, of coffee, tea or mate and preparations ২০ ২১. ০৩ সকল এইচ,এস,কোড সস এবং অনুরূপ পণ্য; mixed condiments, সরিষার গুঁড়া এবং অন্যান্য পণ্য ২০ ২১.০৫ ২১০৫.০০.০০ Ice cream and other edible ice, whether or not containing coсоа ২০ ২১.০৬ ২১০৬.৯০.১০ সুগন্ধি দ্রব্যের মিশ্রণ ব্যতীত কোমল পানীয় প্রস্তুতে ব্যবহৃত সামগ্ৰী, আয়তন ভিত্তিক এ্যালকোহল ক্ষমতা ০.৫% এর উর্ধ্বে ৩৫০ ২১০৬.৯০.৪৯ Other Stabilizer for milk So ২১০৬.৯০.৫০ Creamer in bulk imported by VAT registered milk foodstuffs manufacturers ২০ ২১০৬.৯০.৬০ Food supplement ২০ ২১০৬.৯০.৯০ অন্যান্য ২০ ২২.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.6999924778938293
+          },
+          {
+            "_id": "finance_chrome_chunk_245",
+            "content": "২১০৬.৯০.৬০ Food supplement ২০ ২১০৬.৯০.৯০ অন্যান্য ২০ ২২. ০১ সকল এইচ,এস,কোড Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow ২০ শিরনামা সংখ্যা সামঞ্জস্যপূর্ণ নামকরণ কোড বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২, ২০২৫ পণ্যসমূহের বিবরণ ৫৮৭১ সম্পূরক শুল্কহার ২২.০২ ২২০২.১০.০০ Waters, including mineral waters and aerated waters containing added sugar of other sweetening matter or flavoured ১০০ ২২০২.৯১.০০ নন-এ্যালকোহলিক বিয়ার Soo ২২০২.৯৯.০০ অন্যান্য ১০০ ২২.০৩ ২২০৩.০০.০০ মল্ট হইতে প্রস্তুত বিয়ার ২৫০ ২২.০৪ সকল এইচ,এস, কোড তাজা আঙ্গুরের মদ্য, ফটিফাইড মদ্যসহ; (২০.০৯ হেডিংভুক্ত grape must ব্যতীত) 0 ২২.০৫ সকল এইচ, এস,কোড ভারমুথ এবং তাজা আঙ্গুরের তৈরি মদ্য, সুবাসিত ২২.০৬ ২২০৬.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.6994738578796387
+          },
+          {
+            "_id": "finance_chrome_chunk_241",
+            "content": "containing cocoa, put up for retail sale 8 ১৭০৪.১০.৯০ ১৭০৪.৯০. ৯০ Sugar confectionery (including white chocolate), not containing cocoa, excluding put up for retail sale 80 ১৮.০৬ কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য প্রিপারেশনঃ ১৮০৬.২০.০০ 8 SBOb.O5.00 ১৮০৬.৩২.০০ ১৮০৬.৯০.০০ কোকাযুক্ত চকলেট এবং অন্যান্য খাদ্য প্রিপারেশন (২ কেজির উর্ধ্বে ব্লক, স্লাব বা বার আকারে অথবা তরল, পেস্ট, গুঁড়া, দানাদার বা অন্যরূপে বাল্ক প্যাকিং এ) ফিনিস্ড চকলেট (ব্লক, স্লাব বা বার আকারে) অন্যান্য 80 ২০ Sa.or Sof 0.00 খুচরা মোড়কে শূন্য থেকে ১ বছরের শিশুদের ব্যবহারের জন্য খাদ্য সামগ্রী (হেডিং নং ০৪.০১ থেকে ০৪.০৪ ভূক্ত পণ্যজাত) ২০ ১৯০১.২০.০০ Mixes and dough's for the preparation of bakers' wares of heading 19.05 ২০ Shob. Do.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.686212420463562
+          },
+          {
+            "_id": "finance_chrome_chunk_242",
+            "content": "preparation of bakers' wares of heading 19.05 ২০ Shob. Do.  Malt extract/food preparations Imported in bulk by VAT registered food processing industries ২০ অন্যান্য খাদ্য সামগ্রী ২০ ১৯.০২ সকল এইচ,এস,কোড Pasta, whether or not cooked or stuffed or otherwise prepared; couscous ২০ 5.08 সকল এইচ, এস,কোড Prepared foods obtained by the swelling or roasting of cereals or cereal products; all types of cereals ২০ 35.00 ১৯০৫.৩১.০০ Sweet biscuits 8 ১৯০৫.৩২.০০ Waffles and wafers 80 300.80.00 Rusks, toasted bread and similar toasted products 80 SNo.20.00 Other 8 6-90 শিরনামা সংখ্যা ২০.০৫ ২০.০৭ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২, ২০২৫ সামঞ্জস্যপূর্ণ নামকরণ কোড ২০০৫.২০.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.6792770624160767
+          },
+          {
+            "_id": "finance_chrome_chunk_239",
+            "content": "०९'D০৭০ ९९ 0400 4ం. వన ০৮০৫.৯০.২১০৮০৫.৯০.২৯ ০৭০ ০९'০9' 0S'0)'»০৭০ 05.08. 0040 ०९০৪*D০৭০ Grapefruit and pomelos (fresh or dried) ৩০ তাজা বা শুকনা লেবু ৩০ তাজা বা শুকনা অন্যান্য লেবু জাতীয় ফল 00 ৫৮৬৮ শিরনামা সংখ্যা বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২, ২০২৫ সামঞ্জস্যপূর্ণ নামকরণ কোড পণ্যসমূহের বিবরণ সম্পূরক শুল্কহার ০৯০২.৩০.০০ Black tea (farmented) and partly farmented tea, in immediate packings of a content not exceeding 3 kg ২০ 0502.80.00 Other black tea (farmented) and other partly farmented tea ২০ 04.08 0508.55. So ০৯০৪.১১.৯০ 0508.52.00 গোলমরিচ, চূর্ণ বা দলানো হউক বা না হউক ২০ ৭০५০ সকল এইচ,এস,কোড দারুচিনি এবং দারুচিনি গাছের ফুল ২০ ০৯.০৭ সকল এইচ, এস, কোড লবঙ্গ ২০ ৭০৩০ ০৯০৮.৩১.১০ এলাচ S0 ০৯০৮.৩১.৯০ ০৯০৮.৩২.১০ ০৯০৮.৩২.৯০ 0వంవ. ఏ. So ০৯০৯.৩১.৯০ ood.62.50 জিরা ২০ Dod. 2.201 ১৫.১৩ SesO.S5.",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "document_type": "finance_act",
+            "similarity": 0.678608238697052
+          }
+        ],
+        "resultCount": 5,
+        "searchTime": 776,
+        "success": true,
+        "topSimilarity": 0.6999924778938293,
+        "totalTime": 776
+      },
+      "correctRoute": false,
+      "actualRoute": "vector"
+    },
+    {
+      "query": "income tax exemption rules",
+      "language": "English",
+      "type": "Legal Advice",
+      "expectedRoute": "vector",
+      "result": {
+        "query": "income tax exemption rules",
+        "routing": {
+          "useStructured": false,
+          "searchStrategy": "vector_search",
+          "reasoning": "Vector search for semantic understanding"
+        },
+        "searchType": "vector",
+        "results": [
+          {
+            "_id": "income_tax_chrome_chunk_393",
+            "content": "(Ordinance No. XXXVI of 1984), Gift Tax Act, 1963 (Act No.  XIV of 1963) অথবা দানকর আইন, ১৯৯০ (১৯৯০ সনের ৪৪ নং আইন) বা Wealth Tax Act, 1963 (Act No. XV of 1963) এর অধীন কোনো করদাতার নিকট কোনো মেয়াদে কোনো অর্থ বকেয়া থাকিলে, উক্ত করদাতাকে প্রত্যর্পণযোগ্য অর্থ পরিশোধের পূর্বে উক্ত বকেয়া সমন্বয় করা হইবে। (২) কোনো মেয়াদের জন্য বকেয়া কোনো পাওনার বিপরীতে প্রত্যর্পণযোগ্য অর্থের সমন্বয় করা হইলে, সমন্বয়কৃত অর্থ করদাতাকে পরিশোধ করা হইয়াছে মর্মে গণ্য হইবে এবং উপকর কমিশনার এতদুদ্দেশ্যে করদাতার কর রেকর্ডে তাহা যথাযথভাবে লিপিবদ্ধ করিবেন। ২২৬। প্রত্যর্পণ দাবি।এই আইনের অধীন কোনো আদেশ বা কার্যক্রমের ফলে কোনো অঙ্ক প্রত্যর্পণযোগ্য হইলে প্রত্যর্পণযোগ্য পরিমাণ করদাতার ব্যাংক হিসাবে ইলেক্ট্রেনিক ট্রান্সফার না করিলে করদাতা নির্ধারিত পদ্ধতিতে উক্ত ফেরতের দাবি করিতে পারিবেন। ২২৭।",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.6586878895759583
+          },
+          {
+            "_id": "income_tax_chrome_chunk_392",
+            "content": "অধ্যায় প্রত্যর্পণ ও সমন্বয় ২২৪। প্রত্যর্পণের অধিকার। (১) যেইক্ষেত্রে কোনো ব্যক্তি উপকর কমিশনারকে এই মর্মে সন্তুষ্ট করেন যে, কোনো বৎসরে তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত করের পরিমাণ অথবা তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত হইয়াছে বলিয়া বিবেচিত করের পরিমাণ উক্ত বৎসরে তাহার নিকট এই আইনের অধীন দাবিকৃত করদায় অপেক্ষা অধিক, সেইক্ষেত্রে পরিশোধিত তিনি অতিরিক্ত অর্থ প্রত্যর্পণ পাইবার অধিকারী হইবেন। বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২২, ২০২৩ ৮২৫৭ (২) যেইক্ষেত্রে কোনো ব্যক্তির আয় এই আইনের কোনো বিধানাবলে অন্য কোনো ব্যক্তির মোট আয়ের অন্তর্ভুক্ত হইয়াছে সেইক্ষেত্রে এইরূপ অন্য কোনো ব্যক্তি এককভাবে এইরূপ আয়ের প্রেক্ষিতে এই আইনের অধীন প্রত্যর্পণ পাইবার অধিকারী হইবেন। ২২৫। দাবি সমন্বয় ও প্রত্যর্পণ। (১) এই আইনের বিধানাবলি, Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), Gift Tax Act, 1963 (Act No.",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.6431999206542969
+          },
+          {
+            "_id": "income_tax_chrome_chunk_183",
+            "content": "কোনো ট্রাস্ট বা স্পেশাল পারপাজ ভেহিকল বরাবর কোনো সম্পত্তি হস্তান্তর। ১২৬।  রিয়েল এস্টেট বা ভূমি উন্নয়নকারীর নিকট হইতে কর সংগ্রহ।—(১) Registration Act, 1908 (Act No. XVI of 1908) এর বিধান মোতাবেক কোনো ভূমি বা ভবন বা অ্যাপার্টমেন্ট হস্তান্তরের জন্য কোনো দলিল দস্তাবেজ নিবন্ধনের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি, নির্ধারিত হারে কর প্রদান না করা পর্যন্ত, হস্তান্তরকারী কর্তৃক ভূমি উন্নয়ন ব্যবসায় নিয়োজিত কোনো ব্যক্তির নিকট হস্তান্তরের দলিলাদি নিবন্ধন করিবেন না। বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২২, ২০২৩ (২) এই ধারার অধীন কর সংগ্রহের ক্ষেত্রে, করের হারএর অধিক হইবে না। b590 হাজার ৬০০ (ছয়শত) টাকা, (খ) আবাসিক উদ্দেশ্যে ব্যবহারের জন্য না হইলে ৬ (ছয়) হাজার ৫০০ (পাঁচশত) টাকা, (গ) ভবন বা অ্যাপার্টমেন্টের সহিত সংশ্লিষ্ট ভূমির ক্ষেত্রে দলিলমূল্যের ৫% (পাঁচ শতাংশ), ১২৭।",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.6357770562171936
+          },
+          {
+            "_id": "income_tax_chrome_chunk_7",
+            "content": "Chartered Accountants Order, 1973 (President's Order No.  2 of 1973) এ সংজ্ঞায়িত কোনো চার্টার্ড অ্যাকাউন্টেন্ট; ৮০৯৪ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২২, ২০২৩ (৩৭) “ট্রেডিং অ্যাকাউন্ট” বা “প্রফিট এন্ড লস অ্যাকাউন্ট” অর্থে International Financial Reporting Standards (IFRS) এর আওতায় প্রস্তুতকৃত আয় বিবরণী এবং হিসাব সংক্রান্ত অন্যান্য সমরূপ বিবরণীও ইহার অন্তর্ভুক্ত হইবে; (৩৮) \"ট্রাস্ট” অর্থ Trust Act, 1882 (Act No. II of 1882) এর অধীন গঠিত ট্রাস্ট এবং Specific Relief Act, 1877 (Act No.",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.6322959661483765
+          },
+          {
+            "_id": "income_tax_chrome_chunk_2",
+            "content": "আর্থিক শৃঙ্খলা প্রতিষ্ঠা এবং আনুষঙ্গিক অন্যান্য বিষয়ে যুগোপযোগী ও সময়োপযোগী করিয়া নূতন আইন প্রণয়ন করা আবশ্যক; এবং মূল্য: টাকা ২৬০. ০০ १-१०-१ বাংলাদেশ গেজেট, অতিরিক্ত, জুন ২২, ২০২৩ যেহেতু সরকারের উপরি-বর্ণিত সিদ্ধান্তের আলোকে, Income-tax Ordinance, 1984 (Ordinance No.XXXVI of 1984) রহিতক্রমে যুগোপযোগী ও সময়োপযোগী করিয়া নূতন আইন প্রণয়ন করা সমীচীন ও প্রয়োজনীয়; সেহেতু এতদ্ারা নিম্নরূপ আইন করা হইল:- অংশ ১ প্রারম্ভিক ১। সংক্ষিপ্ত শিরোনাম এবং প্রবর্তন।—(১) এই আইন আয়কর আইন, ২০২৩ নামে অভিহিত হইবে। (২) ইহা অবিলম্বে কার্যকর হইবে। ২। সংজ্ঞা।",
+            "source_document": "income-tax-2023-bangla.pdf",
+            "document_type": "income_tax_act",
+            "similarity": 0.6298840045928955
+          }
+        ],
+        "resultCount": 5,
+        "searchTime": 686,
+        "success": true,
+        "topSimilarity": 0.6586878895759583,
+        "totalTime": 686
+      },
+      "correctRoute": true,
+      "actualRoute": "vector"
+    },
+    {
+      "query": "beer er duty rate koto",
+      "language": "Banglish",
+      "type": "Product Duty Query",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "beer er duty rate koto",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "product_search",
+          "confidence": 0.85,
+          "reasoning": "Product name detected - structured product lookup",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": false,
+            "englishProduct": true,
+            "dutyQuery": true,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [],
+        "resultCount": 0,
+        "searchTime": 87,
+        "success": false,
+        "topResult": null,
+        "totalTime": 87
+      },
+      "correctRoute": true,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "mobile phone import tax korar niyom",
+      "language": "Banglish",
+      "type": "Import Tax Rules",
+      "expectedRoute": "vector",
+      "result": {
+        "query": "mobile phone import tax korar niyom",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "product_search",
+          "confidence": 0.85,
+          "reasoning": "Product name detected - structured product lookup",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": false,
+            "englishProduct": true,
+            "dutyQuery": false,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [],
+        "resultCount": 0,
+        "searchTime": 62,
+        "success": false,
+        "topResult": null,
+        "totalTime": 62
+      },
+      "correctRoute": false,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "car er HS code ebong tax",
+      "language": "Banglish",
+      "type": "Product Code & Tax",
+      "expectedRoute": "structured",
+      "result": {
+        "query": "car er HS code ebong tax",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "product_search",
+          "confidence": 0.85,
+          "reasoning": "Product name detected - structured product lookup",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": false,
+            "englishProduct": true,
+            "dutyQuery": false,
+            "legalQuery": false,
+            "calculationQuery": false
+          }
+        },
+        "searchType": "structured",
+        "results": [],
+        "resultCount": 0,
+        "searchTime": 58,
+        "success": false,
+        "topResult": null,
+        "totalTime": 58
+      },
+      "correctRoute": true,
+      "actualRoute": "structured"
+    },
+    {
+      "query": "freelancer der tax calculate korar system",
+      "language": "Banglish",
+      "type": "Tax System Advice",
+      "expectedRoute": "vector",
+      "result": {
+        "query": "freelancer der tax calculate korar system",
+        "routing": {
+          "useStructured": true,
+          "searchStrategy": "calculation_focused",
+          "confidence": 0.75,
+          "reasoning": "Calculation query - structured search for precise data, may combine with vector advice",
+          "detectedPatterns": {
+            "exactHS": false,
+            "partialHS": false,
+            "bengaliProduct": false,
+            "englishProduct": false,
+            "dutyQuery": false,
+            "legalQuery": false,
+            "calculationQuery": true
+          }
+        },
+        "searchType": "structured",
+        "results": [
+          {
+            "_id": "687c90e2597587d233c077b2",
+            "hs_code": "4813.90.00",
+            "description": "আমদানিকৃত সিগারেট পেপার, সাইজ মত কর্তিত হউক বা না হউক অথবা বুকলেট বা টিউবের আকারে 300 সকল এইচ, এস,কোড টয়লেট পেপার, টিস্যু পেপার, টাওয়েল বা ন্যাপকিন পেপার বা সমজাতীয় পণ্য, গৃহস্থালী, সেনিটারী বা অনুরূপ কাজে ব্যবহৃত 20",
+            "duty_rate": 974,
+            "source_act": "Finance Act 2025",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "duty_rate",
+            "language": "bengali"
+          },
+          {
+            "_id": "687c90e2597587d233c077ed",
+            "hs_code": "8415.10.90",
+            "description": "8415.20.90 05.3A'D58A A850A3.50 মটরচালিত পাখাযুক্ত এবং উষ্ণতা ও আর্দ্রতা পরিবর্তন এর সুবিধা সম্বলিত, আর্দ্রতা পৃথকভাবে নিয়ন্ত্রণ করা যায় না এইরূপ বৈশিষ্ট্য সম্বলিত শীতাতপ নিয়ন্ত্রণকারী যন্ত্র 60 0QA'D९47 যন্ত্রাংশঃ এ",
+            "duty_rate": 947,
+            "source_act": "Finance Act 2025",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "duty_rate",
+            "language": "bengali"
+          },
+          {
+            "_id": "687c90e2597587d233c0784b",
+            "hs_code": "8704.21.17",
+            "description": "সিলিন্ডার ক্যাপাসিটি 4000 সিসি এর ঊর্ধ্বে",
+            "duty_rate": 500,
+            "source_act": "VAT Act 2012",
+            "source_document": "vat-2012-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "vat_rate",
+            "language": "bengali"
+          },
+          {
+            "_id": "687c90e2597587d233c07831",
+            "hs_code": "9613.20.00",
+            "description": "Pocket lighters, gas fuelled, refillable",
+            "duty_rate": 500,
+            "source_act": "Finance Act 2025",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "duty_rate",
+            "language": "english"
+          },
+          {
+            "_id": "687c90e2597587d233c07822",
+            "hs_code": "9302.00.90",
+            "description": "রিভলবার ও পিস্তল: অন্যান্য 500 93.03 অন্যান্য আগ্নেয়াস্ত্রঃ 9303.10.90 অন্যান্য",
+            "duty_rate": 500,
+            "source_act": "Finance Act 2025",
+            "source_document": "finance-act-2025-bangla.pdf",
+            "source_pattern": "latin",
+            "created_at": "2025-07-20T06:46:58.519Z",
+            "record_type": "duty_rate",
+            "language": "bengali"
+          }
+        ],
+        "resultCount": 5,
+        "searchTime": 61,
+        "success": true,
+        "topResult": {
+          "hs_code": "4813.90.00",
+          "duty_rate": 974,
+          "description": "আমদানিকৃত সিগারেট পেপার, সাইজ মত কর্তিত হউক বা না হউক অথবা বুকলেট বা টিউবের আকারে 300 সকল এইচ, এস,কো",
+          "source": "Finance Act 2025"
+        },
+        "totalTime": 61
+      },
+      "correctRoute": false,
+      "actualRoute": "structured"
+    }
+  ],
+  "analysis": {
+    "totalQueries": 12,
+    "correctRoutes": 8,
+    "accuracy": 0.6666666666666666,
+    "avgSearchTime": 483
+  },
+  "status": "routing_demo_complete"
+}

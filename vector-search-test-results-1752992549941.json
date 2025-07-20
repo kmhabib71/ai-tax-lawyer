@@ -1,0 +1,251 @@
+{
+  "timestamp": "2025-07-20T06:22:29.941Z",
+  "testConfig": {
+    "database": "ai_tax_lawyer",
+    "collection": "document_chunks",
+    "embeddingModel": "text-embedding-3-small",
+    "vectorDimensions": 1536
+  },
+  "summary": {
+    "totalQueries": 18,
+    "successfulQueries": 0,
+    "avgResponseTime": null,
+    "avgSimilarity": null
+  },
+  "detailedResults": [
+    {
+      "query": "মূল্য সংযোজন কর হার কত",
+      "language": "Bengali",
+      "expectedRelevance": "VAT rates and calculations",
+      "category": "VAT",
+      "results": [],
+      "performance": {
+        "embeddingTime": 2666,
+        "searchTime": 158,
+        "totalTime": 2824
+      },
+      "success": false
+    },
+    {
+      "query": "আয়কর স্ল্যাব ২০২৪-২৫",
+      "language": "Bengali",
+      "expectedRelevance": "Income tax slabs for 2024-25",
+      "category": "Income Tax",
+      "results": [],
+      "performance": {
+        "embeddingTime": 1205,
+        "searchTime": 146,
+        "totalTime": 1351
+      },
+      "success": false
+    },
+    {
+      "query": "কর অব্যাহতির শর্তাবলী",
+      "language": "Bengali",
+      "expectedRelevance": "Tax exemption conditions",
+      "category": "Exemptions",
+      "results": [],
+      "performance": {
+        "embeddingTime": 379,
+        "searchTime": 170,
+        "totalTime": 549
+      },
+      "success": false
+    },
+    {
+      "query": "ব্যবসায়িক খরচ বাদ দেওয়ার নিয়ম",
+      "language": "Bengali",
+      "expectedRelevance": "Business expense deduction rules",
+      "category": "Business",
+      "results": [],
+      "performance": {
+        "embeddingTime": 925,
+        "searchTime": 143,
+        "totalTime": 1068
+      },
+      "success": false
+    },
+    {
+      "query": "বেতনভোগী কর্মচারীর কর গণনা",
+      "language": "Bengali",
+      "expectedRelevance": "Salaried employee tax calculation",
+      "category": "Salaried",
+      "results": [],
+      "performance": {
+        "embeddingTime": 1203,
+        "searchTime": 140,
+        "totalTime": 1343
+      },
+      "success": false
+    },
+    {
+      "query": "income tax rate for freelancers",
+      "language": "English",
+      "expectedRelevance": "Freelancer tax rates",
+      "category": "Freelancer",
+      "results": [],
+      "performance": {
+        "embeddingTime": 1189,
+        "searchTime": 123,
+        "totalTime": 1312
+      },
+      "success": false
+    },
+    {
+      "query": "VAT registration requirements",
+      "language": "English",
+      "expectedRelevance": "VAT registration process",
+      "category": "VAT",
+      "results": [],
+      "performance": {
+        "embeddingTime": 380,
+        "searchTime": 122,
+        "totalTime": 502
+      },
+      "success": false
+    },
+    {
+      "query": "tax deduction at source TDS",
+      "language": "English",
+      "expectedRelevance": "TDS rules and rates",
+      "category": "TDS",
+      "results": [],
+      "performance": {
+        "embeddingTime": 1106,
+        "searchTime": 124,
+        "totalTime": 1230
+      },
+      "success": false
+    },
+    {
+      "query": "advance tax payment rules",
+      "language": "English",
+      "expectedRelevance": "Advance tax payment procedures",
+      "category": "Advance Tax",
+      "results": [],
+      "performance": {
+        "embeddingTime": 635,
+        "searchTime": 134,
+        "totalTime": 769
+      },
+      "success": false
+    },
+    {
+      "query": "house rent allowance exemption",
+      "language": "English",
+      "expectedRelevance": "HRA exemption rules",
+      "category": "HRA",
+      "results": [],
+      "performance": {
+        "embeddingTime": 1385,
+        "searchTime": 132,
+        "totalTime": 1517
+      },
+      "success": false
+    },
+    {
+      "query": "income tax return file korar niyom",
+      "language": "Banglish",
+      "expectedRelevance": "Income tax return filing rules",
+      "category": "Return Filing",
+      "results": [],
+      "performance": {
+        "embeddingTime": 378,
+        "searchTime": 134,
+        "totalTime": 512
+      },
+      "success": false
+    },
+    {
+      "query": "VAT certificate collect korar process",
+      "language": "Banglish",
+      "expectedRelevance": "VAT certificate collection process",
+      "category": "VAT",
+      "results": [],
+      "performance": {
+        "embeddingTime": 1366,
+        "searchTime": 133,
+        "totalTime": 1499
+      },
+      "success": false
+    },
+    {
+      "query": "tax calculation er formula",
+      "language": "Banglish",
+      "expectedRelevance": "Tax calculation formulas",
+      "category": "Calculation",
+      "results": [],
+      "performance": {
+        "embeddingTime": 347,
+        "searchTime": 183,
+        "totalTime": 530
+      },
+      "success": false
+    },
+    {
+      "query": "business er jonno tax benefit",
+      "language": "Banglish",
+      "expectedRelevance": "Tax benefits for business",
+      "category": "Business",
+      "results": [],
+      "performance": {
+        "embeddingTime": 380,
+        "searchTime": 121,
+        "totalTime": 501
+      },
+      "success": false
+    },
+    {
+      "query": "freelancer der tax payment system",
+      "language": "Banglish",
+      "expectedRelevance": "Freelancer tax payment system",
+      "category": "Freelancer",
+      "results": [],
+      "performance": {
+        "embeddingTime": 388,
+        "searchTime": 191,
+        "totalTime": 579
+      },
+      "success": false
+    },
+    {
+      "query": "২০২৪-২৫ অর্থবছরে সর্বোচ্চ কর হার কত এবং কোন আয়ের উপর প্রযোজ্য",
+      "language": "Bengali",
+      "expectedRelevance": "Maximum tax rate for 2024-25 and applicable income",
+      "category": "Tax Rates",
+      "results": [],
+      "performance": {
+        "embeddingTime": 439,
+        "searchTime": 140,
+        "totalTime": 579
+      },
+      "success": false
+    },
+    {
+      "query": "What is the penalty for late filing of income tax return",
+      "language": "English",
+      "expectedRelevance": "Late filing penalties",
+      "category": "Penalties",
+      "results": [],
+      "performance": {
+        "embeddingTime": 953,
+        "searchTime": 120,
+        "totalTime": 1073
+      },
+      "success": false
+    },
+    {
+      "query": "export income er upor ki tax rate applicable",
+      "language": "Banglish",
+      "expectedRelevance": "Tax rate on export income",
+      "category": "Export",
+      "results": [],
+      "performance": {
+        "embeddingTime": 371,
+        "searchTime": 122,
+        "totalTime": 493
+      },
+      "success": false
+    }
+  ]
+}

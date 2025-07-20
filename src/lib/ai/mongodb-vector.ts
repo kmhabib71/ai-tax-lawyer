@@ -88,7 +88,7 @@ export class MongoDBVectorService {
     const pipeline: any[] = [
       {
         $vectorSearch: {
-          index: 'vector_index',
+          index: 'ai-tax-lawyer-index',
           path: 'embedding',
           queryVector: queryEmbedding,
           numCandidates: limit * 10,

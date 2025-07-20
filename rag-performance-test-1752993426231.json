@@ -1,0 +1,299 @@
+[
+  {
+    "query": "মূল্য সংযোজন কর হার",
+    "userType": "business",
+    "category": "Quick VAT Query",
+    "expectedTime": 2000,
+    "success": true,
+    "response": "মূল্য সংযোজন কর (মূসক) হার বাংলাদেশে সাধারণত ১৫%। এটি ধারা ১৫(৩) অনুযায়ী নির্ধারিত হয়েছে। \n\nযদি আপনি করযোগ্য আমদানি বা করযোগ্য সরবরাহের সাথে জড়িত হন, তাহলে আপনাকে এই হার অনুযায়ী মূসক প্রদান করতে হবে। উদাহরণস্বরূপ, যদি আপনি একটি পণ্য আমদানি করেন যার মূল্য ১০০০ টাকা, তাহলে আপনাকে ১৫% মূসক হিসেবে ১৫০ টাকা প্রদান করতে হবে। \n\nএছাড়া, করযোগ্য সরবরাহের ক্ষেত্রে, সরবরাহকারীকে মূসক প্রদান করতে হবে, এবং আমদানির ক্ষেত্রে আমদানিকারককে এই কর পরিশোধ করতে হবে (Document 3)। \n\nআপনার ব্যবসার জন্য এটি গুরুত্বপূর্ণ যে আপনি সঠিকভাবে মূসক নিরূপণ ও পরিশোধ করেন, যাতে কোনো ধরনের জরিমানা বা আইনগত সমস্যা এড়ানো যায়। \n\nযদি আপনার ব্যবসা বিশেষ কোনো ক্ষেত্রে মূসক রেয়াত বা ভিন্ন হার প্রযোজ্য হয়, তাহলে সেক্ষেত্রে সংশ্লিষ্ট আইন ও বিধিমালা পর্যালোচনা করা প্রয়োজন। \n\nসুতরাং, আপনার ব্যবসার জন্য ১৫% মূসক হার প্রযোজ্য হবে, তবে নির্দিষ্ট পরিস্থিতিতে ভিন্নতা থাকতে পারে। \n\n**উল্লেখ্য:** যদি আপনার আরও নির্দিষ্ট প্রশ্ন থাকে বা বিশেষ পরিস্থিতি সম্পর্কে জানতে চান, তাহলে দয়া করে জানাবেন।",
+    "searchResults": 5,
+    "topSimilarity": 0.7041665315628052,
+    "metrics": {
+      "embeddingTime": 697,
+      "searchTime": 150,
+      "contextTime": 0,
+      "aiGenerationTime": 4017,
+      "totalTime": 4864
+    },
+    "tokenUsage": {
+      "prompt_tokens": 2037,
+      "completion_tokens": 318,
+      "total_tokens": 2355,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "আয়কর স্ল্যাব",
+    "userType": "salaried",
+    "category": "Quick Income Tax Query",
+    "expectedTime": 2000,
+    "success": true,
+    "response": "বাংলাদেশে আয়কর স্ল্যাব সম্পর্কে সঠিক তথ্য পাওয়ার জন্য, আয়কর আইন, ২০২৩ এর বিধানাবলী অনুসরণ করতে হবে। যদিও উপরে উল্লেখিত ডকুমেন্টগুলোতে সঠিক স্ল্যাবের হার উল্লেখ করা হয়নি, তবে আয়কর ধার্য, আরোপ, পরিশোধ বা সংগ্রহের জন্য কিছু মৌলিক তথ্য প্রদান করা হয়েছে।\n\n১. **আয়ের খাতসমূহ**: আয়কর আইন অনুযায়ী, আপনার মোট আয় বিভিন্ন খাতের মাধ্যমে শ্রেণিবদ্ধ হবে, যেমন চাকরি, ভাড়া, কৃষি, ব্যবসা, মূলধনি আয় ইত্যাদি (দলিল ২, ধারা ৩০)।\n\n২. **কর ধার্য করার প্রক্রিয়া**: আয়কর আইন অনুযায়ী, সংসদ কর্তৃক প্রণীত আইনের অধীন নির্ধারিত হারে আয়কর ধার্য করা হবে (দলিল ১, ধারা ২)।\n\n৩. **অগ্রিম কর**: আপনার আয়কর পরিশোধের জন্য অগ্রিম করের বিধানও রয়েছে, যা আপনার মোট আয়ের উপর নির্ভর করে (দলিল ১, ধারা ৩)।\n\nযেহেতু সঠিক স্ল্যাবের হার উল্লেখ করা হয়নি, তাই আপনাকে বাংলাদেশ সরকারের আয়কর বিভাগ বা স্থানীয় কর অফিসে যোগাযোগ করে সঠিক স্ল্যাবের তথ্য সংগ্রহ করার পরামর্শ দেওয়া হচ্ছে। এছাড়া, আপনার আয় ও অন্যান্য তথ্যের ভিত্তিতে কর পরিশোধের জন্য প্রস্তুতি নিতে হবে। \n\nআপনার আয়কর স্ল্যাব নির্ধারণের জন্য সঠিক তথ্যের অভাব থাকায়, স্থানীয় কর অফিসে যোগাযোগ করা সবচেয়ে কার্যকরী হবে।",
+    "searchResults": 5,
+    "topSimilarity": 0.686314582824707,
+    "metrics": {
+      "embeddingTime": 369,
+      "searchTime": 150,
+      "contextTime": 0,
+      "aiGenerationTime": 4765,
+      "totalTime": 5284
+    },
+    "tokenUsage": {
+      "prompt_tokens": 1693,
+      "completion_tokens": 357,
+      "total_tokens": 2050,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "tax exemption limit",
+    "userType": "other",
+    "category": "Quick English Query",
+    "expectedTime": 2000,
+    "success": true,
+    "response": "Based on the retrieved documents, there is no specific mention of the tax exemption limit in the provided content. The documents primarily discuss various aspects of tax collection, penalties, and procedures related to income tax and property transactions, but they do not specify the exemption limits for individual taxpayers.\n\nFor accurate and up-to-date information regarding tax exemption limits in Bangladesh, you may refer to the Income Tax Ordinance or the Finance Act of the relevant year, as these documents typically outline the exemption thresholds for individual taxpayers. \n\nAs of the latest updates, the tax exemption limit for individual taxpayers is generally set by the Finance Act each fiscal year. For the fiscal year 2023-2024, the exemption limit was previously reported to be BDT 3,00,000 for male and female taxpayers, while it is BDT 3,50,000 for senior citizens and physically challenged individuals. However, please verify this information with the latest Finance Act or consult the National Board of Revenue (NBR) for the most current figures.\n\nIf you need specific details or further assistance, I recommend checking the official NBR website or consulting a tax professional for personalized advice.",
+    "searchResults": 5,
+    "topSimilarity": 0.6468758583068848,
+    "metrics": {
+      "embeddingTime": 602,
+      "searchTime": 149,
+      "contextTime": 0,
+      "aiGenerationTime": 2680,
+      "totalTime": 3431
+    },
+    "tokenUsage": {
+      "prompt_tokens": 1646,
+      "completion_tokens": 230,
+      "total_tokens": 1876,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "বেতনভোগী কর্মচারীর জন্য কর গণনার পদ্ধতি কি",
+    "userType": "salaried",
+    "category": "Medium Bengali Query",
+    "expectedTime": 3000,
+    "success": true,
+    "response": "বেতনভোগী কর্মচারীর জন্য কর গণনার পদ্ধতি সম্পর্কে সঠিক তথ্য উপস্থাপন করতে গেলে, নিম্নলিখিত বিষয়গুলো বিবেচনা করতে হবে:\n\n1. **বেতন সংজ্ঞা**: \"বেতন\" বলতে কর্মচারী কর্তৃক চাকরি থেকে প্রাপ্ত যেকোনো প্রকৃতির অঙ্ক বোঝায়। এর মধ্যে অন্তর্ভুক্ত রয়েছে: বেতন, মজুরি, পারিশ্রমিক, ভাতা, বোনাস, ওভারটাইম, এবং চাকরির অবসানের কারণে প্রাপ্ত ক্ষতিপূরণ (Document 5)।\n\n2. **করযোগ্য আয়**: কর্মচারীর মোট আয় থেকে করযোগ্য আয় নির্ধারণ করতে হবে। এতে বেতন, ভাতা, এবং অন্যান্য সুবিধা অন্তর্ভুক্ত হবে। তবে, কিছু পরিশোধ যেমন উৎসব ভাতা, ছুটি নগদায়ন, এবং অনুমোদিত তহবিলে প্রদত্ত চাঁদা করের আওতার বাইরে থাকতে পারে (Document 5)।\n\n3. **কর গণনা**: করের হার নির্ধারণ করতে হবে। বাংলাদেশে আয়কর আইন অনুযায়ী, বিভিন্ন স্তরের জন্য আলাদা করের হার রয়েছে। করদাতার মোট আয় এবং করের হার অনুযায়ী করের পরিমাণ নির্ধারণ করতে হবে।\n\n4. **রিটার্ন দাখিল**: করদাতাকে তার আয়, ব্যয় ও পরিসম্পদ সংক্রান্ত সকল তথ্য সঠিকভাবে রিটার্নে প্রতিফলিত করতে হবে। অডিট প্রতিবেদন অনুযায়ী যদি কোনো অসঙ্গতি পাওয়া যায়, তবে সংশোধিত রিটার্ন দাখিল করতে হবে (Document 3)।\n\n5. **কর রেয়াত**: যদি কোনো করদাতা প্রতিষ্ঠানে ১০% বা তার বেশি প্রতিবন্ধী কর্মচারী নিয়োগ করে, তবে তাকে প্রদেয় করের ৫% রেয়াত প্রদান করা হবে (Document 1)।\n\nএই তথ্যগুলো অনুসরণ করে, বেতনভোগী কর্মচারীরা তাদের কর গণনা করতে পারবেন। যদি আরও বিস্তারিত তথ্য প্রয়োজন হয়, তাহলে সংশ্লিষ্ট কর অফিসে যোগাযোগ করা উচিত।",
+    "searchResults": 5,
+    "topSimilarity": 0.7592203617095947,
+    "metrics": {
+      "embeddingTime": 422,
+      "searchTime": 140,
+      "contextTime": 0,
+      "aiGenerationTime": 6160,
+      "totalTime": 6722
+    },
+    "tokenUsage": {
+      "prompt_tokens": 1959,
+      "completion_tokens": 444,
+      "total_tokens": 2403,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "freelancer der tax calculation korar niyom",
+    "userType": "freelancer",
+    "category": "Medium Banglish Query",
+    "expectedTime": 3000,
+    "success": true,
+    "response": "As a freelancer in Bangladesh, your tax obligations are primarily governed by the Income Tax Ordinance. Here are the key points for calculating your tax:\n\n1. **Gross Income Calculation**: You need to determine your total gross income from all freelance activities. This includes all payments received for services rendered.\n\n2. **Minimum Tax**: According to the Income Tax Act, if your gross income exceeds certain thresholds, you will be liable for a minimum tax. For instance, if your gross income is above BDT 3 crore, you will be subject to a minimum tax rate of 3% of your gross income (Section 5 of Document 5).\n\n3. **Tax Rates**: The applicable tax rates for freelancers can vary based on your total income. For income exceeding BDT 25 lakh, the tax rate is 10%, and for income exceeding BDT 50 lakh, it is 12% (Section 91 of Document 4).\n\n4. **Deductions**: You may be eligible for certain deductions, such as business expenses directly related to your freelance work. Ensure to keep records of all expenses to substantiate your claims.\n\n5. **Filing Returns**: You must file your income tax return annually, detailing your income and any deductions. Ensure to comply with the deadlines set by the National Board of Revenue (NBR).\n\n6. **Payment of Tax**: If you have any outstanding tax liabilities, these must be settled before any refunds can be processed (Document 1).\n\nFor precise calculations and to ensure compliance with the latest tax regulations, consider consulting with a tax professional or the NBR directly.",
+    "searchResults": 5,
+    "topSimilarity": 0.6769853830337524,
+    "metrics": {
+      "embeddingTime": 459,
+      "searchTime": 130,
+      "contextTime": 0,
+      "aiGenerationTime": 3949,
+      "totalTime": 4538
+    },
+    "tokenUsage": {
+      "prompt_tokens": 1840,
+      "completion_tokens": 329,
+      "total_tokens": 2169,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "What are the VAT registration requirements for small businesses",
+    "userType": "business",
+    "category": "Medium English Query",
+    "expectedTime": 3000,
+    "success": true,
+    "response": "Based on the retrieved documents, specific VAT registration requirements for small businesses in Bangladesh are not explicitly detailed. However, general VAT registration guidelines can be inferred from the context of the documents.\n\n1. **VAT Registration Threshold**: Small businesses typically need to register for VAT if their annual turnover exceeds a certain threshold. While the exact threshold is not mentioned in the documents, it is generally advisable for businesses to register if they anticipate crossing the limit set by the National Board of Revenue (NBR).\n\n2. **VAT Registration Process**: Businesses must apply for VAT registration through the NBR. This usually involves submitting necessary documents, including proof of business operation, identification, and any relevant licenses.\n\n3. **VAT Compliance**: Once registered, businesses are required to charge VAT on taxable supplies, maintain proper records, and file VAT returns periodically. The documents suggest that VAT is applicable to various goods and services, as indicated by the classifications and rates mentioned (e.g., Document 1 discusses VAT rates on food products).\n\n4. **Exemptions and Special Cases**: Certain small businesses may qualify for exemptions or simplified VAT schemes, but specific details are not provided in the documents. It is advisable to consult the NBR or a tax advisor for tailored advice.\n\n5. **Practical Steps**: \n   - Assess your annual turnover.\n   - Gather necessary documentation for VAT registration.\n   - Consult the NBR or a tax professional for guidance on compliance and filing.\n\nFor precise requirements and updates, refer to the NBR's official guidelines or consult a tax advisor.",
+    "searchResults": 5,
+    "topSimilarity": 0.6303142309188843,
+    "metrics": {
+      "embeddingTime": 434,
+      "searchTime": 164,
+      "contextTime": 0,
+      "aiGenerationTime": 3892,
+      "totalTime": 4490
+    },
+    "tokenUsage": {
+      "prompt_tokens": 1544,
+      "completion_tokens": 312,
+      "total_tokens": 1856,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "২০২৪-২৫ অর্থবছরে একজন ফ্রিল্যান্সার যিনি বিদেশি আয় করেন তার জন্য কর গণনা ও জমা দেওয়ার নিয়ম কি",
+    "userType": "freelancer",
+    "category": "Complex Bengali Query",
+    "expectedTime": 4000,
+    "success": true,
+    "response": "For the fiscal year 2024-25, a freelancer in Bangladesh earning foreign income must adhere to specific tax regulations as outlined in the Income Tax Act and Finance Act.\n\n1. **Taxable Income**: As per the Income Tax Act, all income earned by a resident individual, including foreign income, is subject to taxation. The tax rates for individuals are tiered based on total income. For instance, the first BDT 3,75,000 is tax-exempt, while income exceeding this threshold is taxed at varying rates (0% for the next BDT 3,00,000, 10% for the next BDT 4,00,000, and so on) as specified in Document 3.\n\n2. **Tax Calculation**: To calculate your tax liability:\n   - Determine your total income, including foreign earnings.\n   - Apply the relevant tax rates based on the income slabs mentioned in Document 3.\n   - Ensure that you account for any applicable exemptions or deductions.\n\n3. **Tax Payment**: Freelancers must submit their tax returns and pay any due taxes by the stipulated deadlines. For the 2024-25 fiscal year, ensure you file your return by the end of the assessment year, typically by November of the following year.\n\n4. **Documentation**: Maintain proper documentation of your foreign income, including contracts, payment receipts, and any foreign tax paid, as these may be required for verification.\n\n5. **Foreign Tax Credit**: If you have paid taxes on your foreign income in another country, you may be eligible for a foreign tax credit, which can reduce your tax liability in Bangladesh.\n\nFor precise calculations and compliance, consider consulting with a tax professional or advisor who can provide tailored guidance based on your specific circumstances.",
+    "searchResults": 5,
+    "topSimilarity": 0.7128517031669617,
+    "metrics": {
+      "embeddingTime": 671,
+      "searchTime": 135,
+      "contextTime": 0,
+      "aiGenerationTime": 3657,
+      "totalTime": 4463
+    },
+    "tokenUsage": {
+      "prompt_tokens": 2017,
+      "completion_tokens": 357,
+      "total_tokens": 2374,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "business er income tax calculation, VAT registration, ebong quarterly tax payment er complete process",
+    "userType": "business",
+    "category": "Complex Banglish Query",
+    "expectedTime": 4000,
+    "success": true,
+    "response": "To address your query regarding business income tax calculation, VAT registration, and quarterly tax payment in Bangladesh, here’s a concise overview based on the retrieved documents:\n\n### Income Tax Calculation\n1. **Income Tax Return**: Businesses must file an income tax return annually, including audited financial statements if applicable. According to Document 3, companies must submit audited financial reports prepared in compliance with International Accounting Standards (IAS) and International Financial Reporting Standards (IFRS) if their gross income exceeds BDT 5 crore.\n\n2. **Taxable Income**: Your taxable income is calculated by deducting allowable expenses from your total income. Ensure to maintain proper records of all income and expenses as per the Income Tax Act.\n\n### VAT Registration\n1. **VAT Registration Requirement**: If your business engages in taxable supplies exceeding BDT 30 lakh annually, you must register for VAT. This is outlined in Document 4, which defines \"input tax\" and \"output tax\" relevant to VAT.\n\n2. **VAT Compliance**: Once registered, you must issue tax invoices for sales and maintain records of VAT collected and paid.\n\n### Quarterly Tax Payment\n1. **Quarterly Payments**: Businesses are required to make quarterly tax payments based on estimated income. Document 2 mentions that if a taxpayer pays more tax than owed, they can claim a refund.\n\n2. **Payment Process**: Payments can be made through designated banks or online platforms. Ensure to keep records of all payments for future reference.\n\n### Practical Steps\n- **Register for VAT** if your turnover exceeds the threshold.\n- **Maintain accurate financial records** to facilitate income tax calculations.\n- **File your income tax return** and VAT returns on time to avoid penalties.\n\nFor detailed procedures, consult the National Board of Revenue (NBR) guidelines or a tax professional for personalized advice.",
+    "searchResults": 5,
+    "topSimilarity": 0.6453434824943542,
+    "metrics": {
+      "embeddingTime": 396,
+      "searchTime": 185,
+      "contextTime": 0,
+      "aiGenerationTime": 4755,
+      "totalTime": 5336
+    },
+    "tokenUsage": {
+      "prompt_tokens": 2492,
+      "completion_tokens": 369,
+      "total_tokens": 2861,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  },
+  {
+    "query": "Comprehensive guide for salaried employee tax optimization including all deductions, rebates and advance tax planning",
+    "userType": "salaried",
+    "category": "Complex English Query",
+    "expectedTime": 4000,
+    "success": true,
+    "response": "Based on the retrieved documents, here are some key points for tax optimization for salaried employees in Bangladesh:\n\n1. **Understanding Taxable Income**: Salaried individuals should be aware that their gross income includes all salary components, including bonuses and allowances. Ensure you have a clear understanding of your total income to calculate your taxable amount accurately.\n\n2. **Deductions**: \n   - **Investment Deductions**: Salaried employees can claim deductions for investments in specified savings instruments. Ensure you are investing in eligible schemes to maximize your deductions.\n   - **Medical Expenses**: If your employer provides a medical allowance, ensure you keep records of medical expenses, as these may be deductible.\n\n3. **Rebates**: \n   - **Tax Rebate on Investment**: Under the Income Tax Act, certain investments may qualify for tax rebates. Familiarize yourself with the specific investments that qualify to take full advantage of this benefit.\n\n4. **Advance Tax Planning**: \n   - **Monthly Payment Order (MPO)**: If you receive a salary above BDT 16,000, ensure that your employer is deducting tax at source (TDS) appropriately. This can help avoid a large tax liability at year-end (Document 4).\n   - **Mobile Financial Services**: If you receive any commissions or fees through mobile banking, ensure these are reported correctly, as they may also be subject to tax (Document 4).\n\n5. **Documentation**: Maintain thorough documentation of all income sources and deductions. This will be crucial during tax filing and can help in case of any audits.\n\n6. **Consultation**: If your financial situation is complex, consider consulting a tax advisor for personalized advice tailored to your specific circumstances.\n\nFor more detailed information, refer to the Income Tax Act and the Finance Act for specific provisions related to deductions and rebates.",
+    "searchResults": 5,
+    "topSimilarity": 0.6556631922721863,
+    "metrics": {
+      "embeddingTime": 445,
+      "searchTime": 197,
+      "contextTime": 0,
+      "aiGenerationTime": 5793,
+      "totalTime": 6435
+    },
+    "tokenUsage": {
+      "prompt_tokens": 2273,
+      "completion_tokens": 376,
+      "total_tokens": 2649,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "withinExpected": false
+  }
+]

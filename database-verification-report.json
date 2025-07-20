@@ -1,0 +1,10 @@
+{
+  "timestamp": "2025-07-20T06:59:09.291Z",
+  "summary": {
+    "vectorDocuments": 1000,
+    "structuredRecords": 310,
+    "totalDocuments": 1310,
+    "status": "verified_ready"
+  },
+  "verification_status": "complete"
+}

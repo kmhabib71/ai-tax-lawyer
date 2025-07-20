@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-07-20T06:49:02.821Z",
+  "summary": {
+    "totalRecords": 310,
+    "financeRecords": 281,
+    "vatRecords": 29,
+    "avgSearchTime": 77.5,
+    "successRate": 0.75
+  },
+  "status": "ready_for_api_integration"
+}

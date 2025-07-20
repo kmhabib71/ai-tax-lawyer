@@ -34,6 +34,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.525.0",
     "mammoth": "^1.9.1",
+    "mongodb": "^5.9.2",
     "mongoose": "^8.16.3",
     "next": "^15",
     "next-auth": "^4.24.11",
